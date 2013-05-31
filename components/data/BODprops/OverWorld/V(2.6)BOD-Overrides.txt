@@ -1,0 +1,7 @@
+# format:
+# X.add_new_ore=Y:Z
+# X = the override number, start counting from 1. once the progam doesnt see the next number it stops, so dont do 1, 2, 3, 5 because it will stop at 3
+# Y = the block ID
+# Z = the block meta data, almost all vanilla blocks are 0, with exceptions like colored wool, and half slabs
+# Note: If you enter an ID that isn't a block, then it will get stuck on Building terrain, or crash. This is an override after all
+1.add_new_ore=129:0

@@ -1,0 +1,4 @@
+releases
+build
+components/*
+!components/data
