@@ -16,6 +16,8 @@ MultiMine_1.5.2.jar
 NotEnoughItems_1.5.2.21.jar
 PowerCrystalsCore-1.1.6-107.jar
 StalkerCreepers_1.5.2.jar
+Snowfall 1.2.1.jar
+Chemcraft Core 1.3.0.jar
 """
 
 Anorak.universal_mods += """
@@ -23,6 +25,9 @@ Anorak.universal_mods += """
 [1.5.2]ProjectBench-v1.7.5.zip
 [Forge]FurnitureMod2.8.4(FULL).zip
 AdditionalPipes2.3.0-BC3.5.3.jar
+MoreGlowstone v1.0 (1.5.2).zip
+More Backpacks 2.1.0.zip
+Securecraft 1.1.0.zip
 AdvancedMachines_1.5.2.zip
 AdvancedPowerManagement-1.2.68-IC2-1.115.jar
 adv-repulsion-systems-55.1.1.jar
