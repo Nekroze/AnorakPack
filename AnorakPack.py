@@ -23,7 +23,7 @@ Chemcraft Core 1.3.0.jar
 Anorak.universal_mods += """
 [1.5.2]bspkrsCorev2.04.zip
 [1.5.2]ProjectBench-v1.7.5.zip
-[Forge]FurnitureMod2.8.4(FULL).zip
+1.5.2_Jammy_Furniture_Mod_V4.4.zip
 AdditionalPipes2.3.0-BC3.5.3.jar
 MoreGlowstone v1.0 (1.5.2).zip
 More Backpacks 2.1.0.zip
