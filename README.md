@@ -23,7 +23,6 @@ TODO
  - Review item transport methods for redundancies
  - Make sure treecapitator works on all appropriate tools
  - Trackdown reason for armor not turning in 3rd person, smartmoving?
- - Investigate Minechem, might be too similar to prosthetics.
 
 Changelog
 =========
