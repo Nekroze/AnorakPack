@@ -140,6 +140,7 @@ data/VoxelMods
 Anorak.client_data += """
 data/options.txt
 data/optionsof.txt
+data/HUDini.conf
 """
 
 Anorak.modpack += """
