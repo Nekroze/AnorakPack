@@ -21,6 +21,9 @@ Chemcraft Core 1.3.0.jar
 """
 
 Anorak.universal_mods += """
+SkullForge.zip
+Extra Doors by Zolandre[Forge][v1.3.1].zip
+HUDini_152_019d.zip
 [1.5.2]bspkrsCorev2.04.zip
 [1.5.2]ProjectBench-v1.7.5.zip
 1.5.2_Jammy_Furniture_Mod_V4.4.zip
@@ -123,7 +126,6 @@ DynamicLights_1.5.2.jar
 
 Anorak.client_mods += """
 [1.5.2]_Mouse_Tweaks_1.2.zip
-[1.5.2]ArmorStatusHUDv1.7.zip
 [1.5.2]StatusEffectHUDv1.10.zip
 ExtendedRenderer_for_MC_v1.5.2.zip
 InventoryTweaks-1.54b.jar
