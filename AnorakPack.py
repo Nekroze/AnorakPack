@@ -54,7 +54,8 @@ ExtrabiomesXL-universal-1.5.2-3.13.1.jar
 extrautils_-_0.2.2a.zip
 Factorization-0.7.37.jar
 FlatBedrock-1.1.1-32.jar
-forestry-A-2.2.6.0.jar
+extra-bees-1.6-pre10.jar
+forestry-A-2.2.6.1.jar
 Frames-1.5.2-5.0.zip
 GregsLighting-1.8.1-7.jar
 GunCus_1.5.2_BETA_v4.zip
