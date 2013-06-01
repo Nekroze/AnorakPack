@@ -16,7 +16,7 @@ ${CLIENTZIP}: build/client/bin/modpack.jar
 	@mkdir -p releases
 	cd build/client && zip -rq ../../$@ ./*
 
-build/client/bin/modpack.jar: AnorakPack.py $(shell find components/data -type f)
+build/client/bin/modpack.jar: AnorakPack.py $(shell find components/data -print0 -type f)
 	python $<
 
 ${SERVERZIP}: build/server/server.jar

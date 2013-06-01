@@ -21,6 +21,7 @@ Chemcraft Core 1.3.0.jar
 """
 
 Anorak.universal_mods += """
+FluidMechanics_v0.4.3.95.jar
 MineChem_v3.0.0.138.jar
 SkullForge.zip
 Extra Doors by Zolandre[Forge][v1.3.1].zip
