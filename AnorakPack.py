@@ -109,6 +109,7 @@ Weather_v1.5_Mod_for_MC_v1.5.2.zip
 """
 
 Anorak.universal_data += """
+GunCus
 data/GunCus
 data/config
 data/BODprops
