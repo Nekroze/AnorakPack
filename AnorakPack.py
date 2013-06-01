@@ -21,6 +21,7 @@ Chemcraft Core 1.3.0.jar
 """
 
 Anorak.universal_mods += """
+AssemblyLine_v0.3.5.139.jar
 FluidMechanics_v0.4.3.95.jar
 MineChem_v3.0.0.138.jar
 SkullForge.zip
