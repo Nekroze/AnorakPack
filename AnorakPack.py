@@ -24,6 +24,7 @@ Anorak.universal_mods += """
 [1.5.2]bspkrsCorev2.04.zip
 [1.5.2]ProjectBench-v1.7.5.zip
 1.5.2_Jammy_Furniture_Mod_V4.4.zip
+Zombie Awareness v1.85 Mod for MC v1.5.2.zip
 AdditionalPipes2.3.0-BC3.5.3.jar
 MoreGlowstone v1.0 (1.5.2).zip
 More Backpacks 2.1.0.zip
