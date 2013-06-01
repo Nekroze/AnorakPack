@@ -75,6 +75,10 @@ key_turretmod3.keys.turretShoot:33
 key_Dynamic Lights toggle:38
 key_Toggle chunk loading boundries:64
 key_Coral Reef GUI:46
+key_HUDini Modifier:15
+key_HUDini Menu:35
+key_HUDini Text Edit:40
+key_HUDini Commands:46
 key_IC2CA Upgrades Key:41
 key_Toggle Head Torch:33
 key_Change OneWayBlock face:43
