@@ -13,14 +13,14 @@ server: ${SERVERZIP}
 
 ${CLIENTZIP}: build/client/bin/modpack.jar
 	@mkdir -p releases
-	zip -rq $@ build/client/
+	cd build/client && zip -rq ../../$@ ./*
 
 build/client/bin/modpack.jar: AnorakPack.py
 	python $<
 
 ${SERVERZIP}: build/server/server.jar
 	@mkdir -p releases
-	zip -rq $@ build/server/
+	cd build/client && zip -rq ../../$@ ./*
 
 build/server/server.jar: AnorakPack.py
 	python $<
