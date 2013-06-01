@@ -7,6 +7,17 @@ This modpack uses pakpak (http://github.com/Nekroze/pakpak) to automatically con
 
 This pack is currently in a very early stage of development and is intended for purely private use.
 
+TODO
+====
+
+ - Make a credits and mods list for all the excelent mod authors
+ - Message all mod authors for permissions for 2 person modpack
+ - Put more work into Better Ore Distribution configuration files
+ - Review if turretmod is unbalancing
+ - Ensure ProSthetics mod works with current config changes
+ - Find some kind of trading/vending mod
+ - Review item transport methods for redundencies
+
 Changelog
 =========
 
