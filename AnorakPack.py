@@ -133,6 +133,7 @@ MobDismemberment1.5.2v1.zip
 neiaddons-1.5.2-1.7.r17.jar
 NEIPlugins-1.0.9.1a.jar
 ZansMinimap1.5.2.zip
+data/VoxelMods
 """
 
 Anorak.client_data += """

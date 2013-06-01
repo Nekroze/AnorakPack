@@ -20,7 +20,7 @@ build/client/bin/modpack.jar: AnorakPack.py
 
 ${SERVERZIP}: build/server/server.jar
 	@mkdir -p releases
-	cd build/client && zip -rq ../../$@ ./*
+	cd build/server && zip -rq ../../$@ ./*
 
 build/server/server.jar: AnorakPack.py
 	python $<
