@@ -112,7 +112,7 @@
 129.0UseMarcoVeins=false
 
 #Aluminum
-1475.5Rarity=50
+1475.5Rarity=100
 1475.5VeinSize=10
 1475.5VeinAmount=70
 1475.5Height=95
