@@ -17,6 +17,8 @@ TODO
  - Ensure ProSthetics mod works with current config changes
  - Find some kind of trading/vending mod
  - Review item transport methods for redundencies
+ - See if MultiMine can work on tree's with treecapitator
+ - Make sure treecapitator works on all appropriate tools
 
 Changelog
 =========
