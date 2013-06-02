@@ -115,7 +115,6 @@ Anorak.universal_data += """
 GunCus
 data/GunCus
 data/config
-data/BODprops
 """
 
 #CLIENT
@@ -146,7 +145,6 @@ data/HUDini.conf
 Anorak.modpack += """
 OptiFine_1.5.2_HD_U_D3.zip
 fps15.zip
-Better_Ore_Distribution(V2.6)MC(1.5.2).zip
 MC_1.5.2_-_Player_API_universal_1.1.zip
 MC_1.5.2_-_Render_Player_API_1.0.zip
 """
@@ -161,7 +159,6 @@ Dynmap-1.7.1-forge-7.8.0.jar
 """
 
 Anorak.server += """
-Better_Ore_Distribution(V2.6_SMP)MC(1.5.2).zip
 MC_1.5.2_-_Player_API_universal_1.1.zip
 """
 
