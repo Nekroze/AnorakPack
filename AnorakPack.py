@@ -21,6 +21,7 @@ Chemcraft Core 1.3.0.jar
 """
 
 Anorak.universal_mods += """
+SimplyHorses_1.5.2_pre6.3.zip
 WildCaves3-0.4.2.zip
 MineChem_v3.0.0.138.jar
 SkullForge.zip
