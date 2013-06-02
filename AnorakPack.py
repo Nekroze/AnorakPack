@@ -32,7 +32,6 @@ Zombie Awareness v1.85 Mod for MC v1.5.2.zip
 AdditionalPipes2.3.0-BC3.5.3.jar
 MoreGlowstone v1.0 (1.5.2).zip
 More Backpacks 2.1.0.zip
-RandomBeds_2.1.zip
 Securecraft 1.1.0.zip
 AdvancedMachines_1.5.2.zip
 AdvancedPowerManagement-1.2.68-IC2-1.115.jar
