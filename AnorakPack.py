@@ -36,7 +36,7 @@ More Backpacks 2.1.0.zip
 Securecraft 1.1.0.zip
 AdvancedMachines_1.5.2.zip
 AdvancedPowerManagement-1.2.68-IC2-1.115.jar
-adv-repulsion-systems-55.1.1.jar
+adv-repulsion-systems-55.1.2.jar
 appeng-rv10-n.zip
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 BaMsGrave_v1.4_for_1.5.2_ForgeMod.zip
@@ -66,8 +66,8 @@ GunCus_1.5.2_BETA_v4.zip
 GunCus_Custom_Guns_Addon_1.5.2_BETA_v4.zip
 HangableMaps_v1.5.2_1_MC1.5.2.zip
 iChunUtil1.0.1.zip
-immibis-core-55.1.1.jar
-immibis-peripherals-55.0.0.jar
+immibis-core-55.1.2.jar
+immibis-peripherals-55.0.1.jar
 Improved_Mob_Spawn_1.4.0.zip
 industrialcraft-2_1.115.340-lf.jar
 industrialcraft2comboarmors-1.14.1.zip
