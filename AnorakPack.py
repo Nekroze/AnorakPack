@@ -21,68 +21,41 @@ Chemcraft Core 1.3.0.jar
 """
 
 Anorak.universal_mods += """
-SimplyHorses_1.5.2_pre6.3.zip
-WildCaves3-0.4.2.zip
-MineChem_v3.0.0.138.jar
-SkullForge.zip
-Extra Doors by Zolandre[Forge][v1.3.1].zip
-HUDini_152_019d.zip
-[1.5.2]bspkrsCorev2.04.zip
-[1.5.2]ProjectBench-v1.7.5.zip
 1.5.2_Jammy_Furniture_Mod_V4.4.zip
-Zombie Awareness v1.85 Mod for MC v1.5.2.zip
 AdditionalPipes2.3.0-BC3.5.3.jar
-MoreGlowstone v1.0 (1.5.2).zip
-More Backpacks 2.1.0.zip
-Securecraft 1.1.0.zip
 AdvancedMachines_1.5.2.zip
 AdvancedPowerManagement-1.2.68-IC2-1.115.jar
-adv-repulsion-systems-55.1.2.jar
-appeng-rv10-n.zip
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 BaMsGrave_v1.4_for_1.5.2_ForgeMod.zip
-bcTools-v13c.zip
 BiblioCraft[v1.2.3].zip
-buildcraft-A-3.6.0.jar
-buildcraft-Z-additional-buildcraft-objects-1.0.4.150.jar
 Carpenter's_Slope_v1.25_-_MC_1.5+.zip
 ChickenChunks_1.3.2.10.jar
 CompactWindmills+v.1.0.1.3.jar
 ComputerCraft1.53.zip
 ConfigMod_for_MC_v1.5.2.zip
-coral-reef-universal-1.5.2-r2.zip
 CoroAI_for_MC_v1.5.2.zip
 DimensionalDoors-1.5.2R1.3.6RC1-71.zip
 EnderStorage_1.4.2.10.jar
-enhanced-portals_2.1.2.jar
 Extinguisher_V1.zip
+Extra Doors by Zolandre[Forge][v1.3.1].zip
 ExtrabiomesXL-universal-1.5.2-3.13.1.jar
 Factorization-0.7.37.jar
 FlatBedrock-1.1.1-32.jar
-extra-bees-1.6-pre10.jar
-forestry-A-2.2.6.2.jar
 GregsLighting-1.8.1-7.jar
 GunCus_1.5.2_BETA_v4.zip
 GunCus_Custom_Guns_Addon_1.5.2_BETA_v4.zip
+HUDini_152_019d.zip
 HangableMaps_v1.5.2_1_MC1.5.2.zip
-iChunUtil1.0.1.zip
-immibis-core-55.1.2.jar
-immibis-peripherals-55.0.1.jar
 Improved_Mob_Spawn_1.4.0.zip
-industrialcraft-2_1.115.340-lf.jar
-industrialcraft2comboarmors-1.14.1.zip
 InfernalMobs_1.5.2.zip
-invasion_mod_0.11.7.zip
-ironchest-universal-1.5.2-5.2.6.425.zip
 Lanterns_1.3.4_Universal.zip
 LiquidEnergy_Beta5.zip
 LogisticsPipes-MC1.5.2-0.7.3.3.jar
-mca_v3.3.5.zip
+MineChem_v3.0.0.138.jar
 MineFactoryReloaded-2.6.1-897.jar
 MineForever_0.2.0b.jar
-miscperipherals-3.3.jar
-mod_AdvancedSolarPanels_3_3_7.zip
-mod_zGraviSuite_1_9_2.zip
+More Backpacks 2.1.0.zip
+MoreGlowstone v1.0 (1.5.2).zip
 Mutant_Creatures_v1.3.4_mc1.5.2.zip
 Natura_2.0.21.jar
 NetherOres-2.1.4-71.jar
@@ -99,15 +72,42 @@ RancraftPengForge_v152l.zip
 Rotten_Flesh_To_Leather_MC_1.5.2.zip
 SAP_ManPack_v142.jar
 SecretRoomsMod-universal-4.6.0.283.zip
+Securecraft 1.1.0.zip
+SimplyHorses_1.5.2_pre6.3.zip
+SkullForge.zip
 Smart_Moving_Universal_for_ModLoader_or_Minecraft_Forge_or_MCPC+.zip
 StevesCarts2.0.0.a117.zip
 TConstruct_1.3.3.15.jar
 ThermalExpansion-2.4.3.0.jar
 TurretMod_v3.0.1.jar
 UpdateCheckerMod_1.5.2.zip
-Useful_Storage_(5-5)_v.1.8.1.zip
 UsefulFood-1.5.1_1.4.2-universal.zip
+Useful_Storage_(5-5)_v.1.8.1.zip
 Weather_v1.5_Mod_for_MC_v1.5.2.zip
+WildCaves3-0.4.2.zip
+Zombie Awareness v1.85 Mod for MC v1.5.2.zip
+[1.5.2]ProjectBench-v1.7.5.zip
+[1.5.2]bspkrsCorev2.04.zip
+adv-repulsion-systems-55.1.2.jar
+appeng-rv10-n.zip
+bcTools-v13c.zip
+buildcraft-A-3.6.0.jar
+buildcraft-Z-additional-buildcraft-objects-1.0.4.150.jar
+coral-reef-universal-1.5.2-r2.zip
+enhanced-portals_2.1.2.jar
+extra-bees-1.6-pre10.jar
+forestry-A-2.2.6.2.jar
+iChunUtil1.0.1.zip
+immibis-core-55.1.2.jar
+immibis-peripherals-55.0.1.jar
+industrialcraft-2_1.115.340-lf.jar
+industrialcraft2comboarmors-1.14.1.zip
+invasion_mod_0.11.7.zip
+ironchest-universal-1.5.2-5.2.6.425.zip
+mca_v3.3.5.zip
+miscperipherals-3.3.jar
+mod_AdvancedSolarPanels_3_3_7.zip
+mod_zGraviSuite_1_9_2.zip
 """
 
 Anorak.universal_data += """
