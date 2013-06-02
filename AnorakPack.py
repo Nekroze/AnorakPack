@@ -44,7 +44,7 @@ BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 BaMsGrave_v1.4_for_1.5.2_ForgeMod.zip
 bcTools-v13c.zip
 BiblioCraft[v1.2.3].zip
-buildcraft-A-3.5.3.jar
+buildcraft-A-3.6.0.jar
 buildcraft-Z-additional-buildcraft-objects-1.0.4.150.jar
 Carpenter's_Slope_v1.25_-_MC_1.5+.zip
 ChickenChunks_1.3.2.10.jar
@@ -62,7 +62,7 @@ extrautils_-_0.2.2a.zip
 Factorization-0.7.37.jar
 FlatBedrock-1.1.1-32.jar
 extra-bees-1.6-pre10.jar
-forestry-A-2.2.6.1.jar
+forestry-A-2.2.6.2.jar
 Frames-1.5.2-5.0.zip
 GregsLighting-1.8.1-7.jar
 GunCus_1.5.2_BETA_v4.zip
