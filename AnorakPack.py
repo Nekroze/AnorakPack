@@ -61,7 +61,6 @@ Factorization-0.7.37.jar
 FlatBedrock-1.1.1-32.jar
 extra-bees-1.6-pre10.jar
 forestry-A-2.2.6.2.jar
-Frames-1.5.2-5.0.zip
 GregsLighting-1.8.1-7.jar
 GunCus_1.5.2_BETA_v4.zip
 GunCus_Custom_Guns_Addon_1.5.2_BETA_v4.zip
@@ -108,7 +107,6 @@ TurretMod_v3.0.1.jar
 UpdateCheckerMod_1.5.2.zip
 Useful_Storage_(5-5)_v.1.8.1.zip
 UsefulFood-1.5.1_1.4.2-universal.zip
-Wallpaper-1.5.2-5.0.zip
 Weather_v1.5_Mod_for_MC_v1.5.2.zip
 """
 
