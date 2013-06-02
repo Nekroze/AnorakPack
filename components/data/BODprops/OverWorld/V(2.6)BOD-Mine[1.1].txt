@@ -53,7 +53,7 @@
 
 #Coal
 16.0Rarity=20
-16.0VeinSize=15
+16.0VeinSize=20
 16.0VeinAmount=350
 16.0Height=128
 16.0VerticalShift=45
@@ -76,9 +76,9 @@
 21.0UseMarcoVeins=false
 
 #Diamond
-56.0Rarity=100
-56.0VeinSize=8
-56.0VeinAmount=220
+56.0Rarity=120
+56.0VeinSize=10
+56.0VeinAmount=100
 56.0Height=70
 56.0VerticalShift=0
 56.0Diameter=70
@@ -214,6 +214,18 @@
 97.0HorizontalDensity=10
 97.0GenOreInBlockID=1
 97.0UseMarcoVeins=false
+
+#Bone Pile
+604.0Rarity=90
+604.0VeinSize=2
+604.0VeinAmount=350
+604.0Height=128
+604.0VerticalShift=0
+604.0Diameter=35
+604.0VerticalDensity=5
+604.0HorizontalDensity=15
+604.0GenOreInBlockID=1
+604.0UseMarcoVeins=false
 
 #Petroleum
 255.2Rarity=80
