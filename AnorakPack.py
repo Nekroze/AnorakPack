@@ -57,7 +57,6 @@ EnderStorage_1.4.2.10.jar
 enhanced-portals_2.1.2.jar
 Extinguisher_V1.zip
 ExtrabiomesXL-universal-1.5.2-3.13.1.jar
-extrautils_-_0.2.2a.zip
 Factorization-0.7.37.jar
 FlatBedrock-1.1.1-32.jar
 extra-bees-1.6-pre10.jar
