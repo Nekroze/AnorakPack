@@ -46,12 +46,7 @@ key_key.left:30
 key_key.back:31
 key_key.right:32
 key_key.jump:57
-key_key.sneak:29
-key_key.climb:42
-key_key.sprint:15
-key_key.config.toggle:67
-key_key.speed.increase:24
-key_key.speed.decrease:23
+key_key.sneak:42
 key_key.drop:16
 key_key.inventory:18
 key_key.chat:20
@@ -61,27 +56,42 @@ key_Zoom:44
 key_key.command:53
 key_key.tarmor:24
 key_ALT Key:56
-key_Boost Key:42
+key_Boost Key:29
 key_Mode Switch Key:47
-key_Side Inventory Key:46
+key_Side Inventory Key:35
 key_Gravi Fly Key:33
-key_BCTools Armor Activation:33
+key_BCTools Armor Activation:34
 key_FZ Bag of Holding:41
-key_FZ Pocket Crafting Table:46
+key_FZ Pocket Crafting Table:45
 key_FZ Exo1:79
 key_FZ Exo2:80
 key_FZ Exo3:81
 key_turretmod3.keys.turretShoot:33
-key_Dynamic Lights toggle:38
-key_Toggle chunk loading boundries:64
-key_Coral Reef GUI:46
+key_Camera adj left:36
+key_Camera adj right:38
+key_Camera adj closer:23
+key_Camera adj farther:37
+key_Dynamic Lights toggle:25
+key_Toggle chunk loading boundries:210
+key_Coral Reef GUI:62
 key_HUDini Modifier:15
-key_HUDini Menu:35
+key_HUDini Menu:64
 key_HUDini Text Edit:40
 key_HUDini Commands:46
-key_IC2CA Upgrades Key:41
+key_IC2CA Upgrades Key:21
 key_Toggle Head Torch:33
 key_Change OneWayBlock face:43
+key_Mounted Walk On:17
+key_Mounted Reign-In:31
+key_Mounted Left:30
+key_Mounted Right:32
+key_Mounted Hard-Stop:42
+key_Mounted Jump:57
+key_Take the Reigns!:19
+key_Change Seats:33
+key_Spawner Lasso: Mode:50
+key_Spawner Lasso: Toggle Entity Action:37
+key_Lasso: Mode:50
 key_FZ vanilla sprint:0
 key_Locomotive Faster Key:52
 key_Locmotive Slower Key:51
