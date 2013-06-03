@@ -127,13 +127,9 @@ TODO
 
  - Make a credits and mods list for all the excelent mod authors
  - Message all mod authors for permissions for 2 person modpack
- - Put more work into Better Ore Distribution configuration files
  - Review if turretmod is unbalancing
  - Ensure ProSthetics mod works with current config changes
  - Find some kind of trading/vending mod
- - Review item transport methods for redundancies
- - Make sure treecapitator works on all appropriate tools
- - Trackdown reason for armor not turning in 3rd person, smartmoving?
 
 Changelog
 =========
