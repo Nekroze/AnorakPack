@@ -11,6 +11,117 @@ Due to the nature and goals of the AnorakPack it is unlikely that it will ever w
 
 This pack is currently in a very early stage of development and is intended for purely private use.
 
+Modlist
+=======
+
+ - Animated Player
+ - Applied Energistics
+ - BaMs Doubledoor
+ - BiblioCraft
+ - Bspkrs Core
+ * Status Effect HUD
+ * Tree Capitator
+ - BuildCraft
+ * BuildCraft Tools
+ * Additional BuildCraft Objects
+ * Additional Pipes
+ * Logistics Pipes
+ - Charpenter's Slope
+ - Chemcraft Core
+ * Secure Craft
+ * Snow Fall
+ * Code Chicken Core
+ * Chicken Chunks
+ - CoFH Core
+ * Omni Tools
+ * Thermal Expansion
+ - Computer Craft
+ * Immibis Peripherals
+ * Misc Peripherals
+ * Open CC Sensors
+ * Open Peripherals
+ * Open XP
+ - Config Mod
+ - Coral Reef
+ - Custom Mob Spawner
+ - Custom LAN Ports
+ - Dimensional Doors
+ - Dynamic Lights
+ - Dynmap
+ - Enhanced Portals
+ - Extinguisher
+ - Extra Biomes XL
+ - Extra Doors
+ - Factorization
+ - Forestry
+ * Extra Bees
+ * More Backpacks
+ - Forge Backup
+ - Gregs Lighting
+ - Hangable Maps
+ - HUDini
+ - iChunUtil
+ * Mob Amputation
+ * Mob Dismemberment
+ * Portal Gun
+ - Immibis Core
+ - Immibis MicroBlocks
+ - Improved Mob Spawn
+ - Industrial Craft 2
+ * Advanced Repulsion Systems
+ * Advanced Machines
+ * Advanced Power Management
+ * Advanced Solar Panels
+ * Compact Windmills
+ * Combo Armors
+ * Gravi Suite
+ * Liquid Energy
+ - Infernal Mobs
+ - Invasion
+ - Inventory Tweaks
+ - Iron Chest
+ - Jammy Furniture
+ - Lanterns
+ - Minecraft Comes Alive
+ - MineChem
+ - Mine Forever
+ - Mo Creatures
+ - More Glowstone
+ - Mouse Tweaks
+ - Multi Mine
+ - Mutant Creatures
+ - Natura
+ - Not Enough Items
+ * NEI Plugins
+ * NEI Addons
+ - Optifine
+ - Painter's Flower Pot
+ - Power Crystals Core
+ * Flat Bedrock
+ * Mine Factory Reloaded
+ * Nether Ores
+ * Power Converters
+ - Project Bench
+ - ProSthetics
+ - RailCraft
+ - Rancraft Penguins
+ - Rotten Flesh to Leather
+ - SAP Managers
+ - Secret Rooms
+ - Shoulder Surfing
+ - Simply Horses
+ - Skull Forge
+ - Stalker Creepers
+ - Steves Carts 2
+ - Tinkers Construct
+ - Turret Mod
+ - Useful Food
+ - Useful Storage
+ - Weather & Tornadoes
+ - Wild Caves 3
+ - Zans Minimap
+ - Zombie Awareness
+
 TODO
 ====
 
