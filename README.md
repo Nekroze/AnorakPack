@@ -19,28 +19,28 @@ Modlist
  - BaMs Doubledoor
  - BiblioCraft
  - Bspkrs Core
- * Status Effect HUD
- * Tree Capitator
+ * 	Status Effect HUD
+ * 	Tree Capitator
  - BuildCraft
- * BuildCraft Tools
- * Additional BuildCraft Objects
- * Additional Pipes
- * Logistics Pipes
+ * 	BuildCraft Tools
+ * 	Additional BuildCraft Objects
+ * 	Additional Pipes
+ * 	Logistics Pipes
  - Charpenter's Slope
  - Chemcraft Core
- * Secure Craft
- * Snow Fall
- * Code Chicken Core
- * Chicken Chunks
+ * 	Secure Craft
+ * 	Snow Fall
+ * 	Code Chicken Core
+ * 	Chicken Chunks
  - CoFH Core
- * Omni Tools
- * Thermal Expansion
+ * 	Omni Tools
+ * 	Thermal Expansion
  - Computer Craft
- * Immibis Peripherals
- * Misc Peripherals
- * Open CC Sensors
- * Open Peripherals
- * Open XP
+ * 	Immibis Peripherals
+ * 	Misc Peripherals
+ * 	Open CC Sensors
+ * 	Open Peripherals
+ * 	Open XP
  - Config Mod
  - Coral Reef
  - Custom Mob Spawner
@@ -54,28 +54,28 @@ Modlist
  - Extra Doors
  - Factorization
  - Forestry
- * Extra Bees
- * More Backpacks
+ * 	Extra Bees
+ * 	More Backpacks
  - Forge Backup
  - Gregs Lighting
  - Hangable Maps
  - HUDini
  - iChunUtil
- * Mob Amputation
- * Mob Dismemberment
- * Portal Gun
+ * 	Mob Amputation
+ * 	Mob Dismemberment
+ * 	Portal Gun
  - Immibis Core
  - Immibis MicroBlocks
  - Improved Mob Spawn
  - Industrial Craft 2
- * Advanced Repulsion Systems
- * Advanced Machines
- * Advanced Power Management
- * Advanced Solar Panels
- * Compact Windmills
- * Combo Armors
- * Gravi Suite
- * Liquid Energy
+ * 	Advanced Repulsion Systems
+ * 	Advanced Machines
+ * 	Advanced Power Management
+ * 	Advanced Solar Panels
+ * 	Compact Windmills
+ * 	Combo Armors
+ * 	Gravi Suite
+ * 	Liquid Energy
  - Infernal Mobs
  - Invasion
  - Inventory Tweaks
@@ -92,15 +92,15 @@ Modlist
  - Mutant Creatures
  - Natura
  - Not Enough Items
- * NEI Plugins
- * NEI Addons
+ * 	NEI Plugins
+ * 	NEI Addons
  - Optifine
  - Painter's Flower Pot
  - Power Crystals Core
- * Flat Bedrock
- * Mine Factory Reloaded
- * Nether Ores
- * Power Converters
+ * 	Flat Bedrock
+ * 	Mine Factory Reloaded
+ * 	Nether Ores
+ * 	Power Converters
  - Project Bench
  - ProSthetics
  - RailCraft
