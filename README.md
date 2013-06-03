@@ -52,6 +52,7 @@ Modlist
  - [Forestry](http://www.minecraftforum.net/topic/700588-forestry-for-minecraft-trees-bees-and-more/)
  * >	[Extra Bees](http://dl.dropboxusercontent.com/u/52207235/Minecraft/Website/bees/index.html)
  * >	[More Backpacks](http://www.minecraftforum.net/topic/1717101-more-backpacks-211-forestry-addon/)
+ * > 	[Plugins for Forestry](http://www.minecraftforum.net/topic/1253666-152forgeplugins-for-forestry-3x-wiki-now-updated/)
  - [Forge Backup](http://www.minecraftforge.net/forum/index.php?topic=4606.0)
  - [Gregs Lighting](http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/GregsLighting/)
  - [Hangable Maps](http://www.minecraftforum.net/topic/1461853-152forgesmphangable-mapsunofficialv152-1/)

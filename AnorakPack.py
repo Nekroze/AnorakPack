@@ -11,6 +11,7 @@ Anorak.universal_coremods += """
 [1.5.2]TreeCapitator.Forge.1.5.2.r01.Uni.CoreMod.jar
 CodeChickenCore_0.8.6.12.jar
 CoFHCore-1.5.2.2.jar
+denLib-1.5.2-3.0.13.jar
 immibis-microblocks-55.0.1.jar
 MultiMine_1.5.2.jar
 NotEnoughItems_1.5.2.21.jar
@@ -81,6 +82,7 @@ OpenCCSensors-1.5.2.0.jar
 OpenPeripheral-0.0.7.jar
 OpenXP-0.0.6.jar
 Painter's_Flower_Pot_v1.56_-_MC_1.5+.zip
+PluginsforForestry-1.5.2-3.0.15.jar
 PortalGun1.5.2.zip
 PowerConverters-2.3.0-54.jar
 ProSthetics_v_0.0.1.8_(MC_1.5.2).zip
