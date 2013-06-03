@@ -98,7 +98,6 @@ Modlist
  * >	[Nether Ores](http://www.minecraftforum.net/topic/1629898-151152-powercrystals-mods-15-updates-are-here-rednet-logic-is-here-100-upvotes/#no)
  * >	[Power Converters](http://www.minecraftforum.net/topic/1629898-151152-powercrystals-mods-15-updates-are-here-rednet-logic-is-here-100-upvotes/#pc)
  - [Project Bench](http://www.minecraftforum.net/topic/1550010-152sspsmp-project-bench-v175forge5000-downloads/)
- - [ProSthetics](http://www.minecraftforum.net/topic/1709675-152v001-prosthetics-forge-780custom-metal-casting/)
  - [RailCraft](http://www.minecraftforum.net/topic/701990-151-railcraft-7000-forge/)
  - [Rancraft Penguins](http://www.minecraftforum.net/topic/910095-152forge-rancraft-penguins-thirteen-species/)
  - [Rotten Flesh to Leather](http://www.minecraftforum.net/topic/1833113-forge-152-rotten-flesh-to-leather/)
@@ -122,7 +121,6 @@ TODO
  - Make a credits and mods list for all the excelent mod authors
  - Message all mod authors for permissions for 2 person modpack
  - Review if turretmod is unbalancing
- - Ensure ProSthetics mod works with current config changes
  - Find some kind of trading/vending mod
 
 Changelog

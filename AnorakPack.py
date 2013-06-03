@@ -84,7 +84,6 @@ Painter's_Flower_Pot_v1.56_-_MC_1.5+.zip
 PluginsforForestry-1.5.2-3.0.15.jar
 PortalGun1.5.2.zip
 PowerConverters-2.3.0-54.jar
-ProSthetics_v_0.0.1.8_(MC_1.5.2).zip
 Railcraft_1.5.2-7.2.1.0.jar
 RancraftPengForge_v152l.zip
 Rotten_Flesh_To_Leather_MC_1.5.2.zip
