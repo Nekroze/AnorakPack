@@ -21,6 +21,8 @@ Chemcraft Core 1.3.0.jar
 """
 
 Anorak.universal_mods += """
+DrZharks MoCreatures Mod v5.2.2.zip
+CustomMobSpawner 2.2.2.zip
 1.5.2_Jammy_Furniture_Mod_V4.4.zip
 AdditionalPipes2.3.0-BC3.5.3.jar
 adv-repulsion-systems-55.1.2.jar
@@ -116,6 +118,7 @@ Anorak.client_coremods += """
 CustomPortForge.jar
 DynamicLights_1.5.2.jar
 ShoulderSurfing_1.4.0_1.5.2_COREMOD.jar
+GuiAPI-0.15.6-1.5.2.jar
 """
 
 Anorak.client_mods += """
