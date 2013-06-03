@@ -103,7 +103,6 @@ Modlist
  - [Rancraft Penguins](http://www.minecraftforum.net/topic/910095-152forge-rancraft-penguins-thirteen-species/)
  - [Rotten Flesh to Leather](http://www.minecraftforum.net/topic/1833113-forge-152-rotten-flesh-to-leather/)
  - [Secret Rooms](http://www.minecraftforum.net/topic/546192-1521v460secretroomsmodsmpforge-hidden-trapped-chests/)
- - [Shoulder Surfing](http://www.minecraftforum.net/topic/1619637-152forge-shoulder-surfing-modded-third-person-camera/)
  - [Simply Horses](http://www.minecraftforum.net/topic/1078787-151152-simply-horses-mod-alpha-062-bugfixes-and-textures/)
  - [Skull Forge](http://www.minecraftforum.net/topic/1572189-152smplanforgeskullforge-v122/)
  - [Stalker Creepers](http://www.minecraftforum.net/topic/1096447-152-stalker-creepers-now-fml-coremod/)
