@@ -58,7 +58,6 @@ Modlist
  - [Hangable Maps](http://www.minecraftforum.net/topic/1461853-152forgesmphangable-mapsunofficialv152-1/)
  - [HUDini](http://www.minecraftforum.net/topic/1555925-152-forge-hudini-anti-derp-suite/)
  - [iChunUtil](http://ichun.us/mods/ichun-util/)
- * > 	[Back Tools](http://www.minecraftforum.net/topic/1508046-152-back-tools-v1-sheathed-weapons-tools/)
  * >	[Mob Amputation](http://www.minecraftforum.net/topic/1296367-152-mob-amputation-v1-blood-and-gibs-and-an-easter-egg/)
  * >	[Mob Dismemberment](http://www.minecraftforum.net/topic/723304-152-mob-dismemberment-v1/)
  * >	[Portal Gun](http://www.minecraftforum.net/topic/199391-152smpforge-portal-gun-reconstructed-v1-rewritten-again/)
