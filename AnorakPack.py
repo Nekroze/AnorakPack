@@ -42,7 +42,6 @@ ConfigMod_for_MC_v1.5.2.zip
 coral-reef-universal-1.5.2-r2.zip
 CoroAI_for_MC_v1.5.2.zip
 DimensionalDoors-1.5.2R1.3.6RC1-71.zip
-EnderStorage_1.4.2.10.jar
 enhanced-portals_2.1.2.jar
 Extinguisher_V1.zip
 extra-bees-1.6-pre10.jar
