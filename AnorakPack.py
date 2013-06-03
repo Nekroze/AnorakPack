@@ -109,7 +109,6 @@ Zombie Awareness v1.85 Mod for MC v1.5.2.zip
 
 Anorak.universal_data += """
 data/config
-data/BODprops
 """
 
 #CLIENT
