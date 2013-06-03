@@ -50,8 +50,6 @@ Factorization-0.7.37.jar
 FlatBedrock-1.1.1-32.jar
 forestry-A-2.2.6.2.jar
 GregsLighting-1.8.1-7.jar
-GunCus_1.5.2_BETA_v4.zip
-GunCus_Custom_Guns_Addon_1.5.2_BETA_v4.zip
 HangableMaps_v1.5.2_1_MC1.5.2.zip
 HUDini_152_019d.zip
 iChunUtil1.0.1.zip
@@ -110,8 +108,6 @@ Zombie Awareness v1.85 Mod for MC v1.5.2.zip
 """
 
 Anorak.universal_data += """
-GunCus
-data/GunCus
 data/config
 data/BODprops
 """
