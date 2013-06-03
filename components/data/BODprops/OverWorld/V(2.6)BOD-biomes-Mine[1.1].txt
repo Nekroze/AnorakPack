@@ -35,22 +35,27 @@ OreID[4070.0]-BiomeID[3]=37
 #-----------Forest 4
 OreID[15.0]-BiomeID[4]=37
 OreID[16.0]-BiomeID[4]=20
+OreID[248.0]-BiomeID[4]=37
 
 #-----------Taiga 5
 OreID[16.0]-BiomeID[5]=20
+OreID[248.0]-BiomeID[5]=37
 
 #-----------Swampland 6
 OreID[73.0]-BiomeID[6]=55
 OreID[16.0]-BiomeID[6]=20
+OreID[248.0]-BiomeID[6]=37
 
 #-----------River 7
 OreID[14.0]-BiomeID[7]=70
 OreID[21.0]-BiomeID[7]=75
 OreID[16.0]-BiomeID[7]=20
+OreID[248.0]-BiomeID[7]=37
 
 #-----------FrozenOcean 10
 OreID[21.0]-BiomeID[10]=75
 OreID[16.0]-BiomeID[10]=20
+OreID[248.0]-BiomeID[10]=37
 
 #-----------FrozenRiver 11
 OreID[14.0]-BiomeID[11]=70
@@ -109,7 +114,6 @@ OreID[97.0]-BiomeID[19]=50
 OreID[155.2]-BiomeID[19]=37
 OreID[2001.3]-BiomeID[19]=37
 OreID[2001.4]-BiomeID[19]=37
-OreID[16.0]-BiomeID[19]=20
 
 #-----------ExtremeHillsEdge 20
 OreID[14.0]-BiomeID[20]=70
@@ -137,6 +141,7 @@ OreID[97.0]-BiomeID[22]=57
 OreID[14.0]-BiomeID[32]=70
 OreID[248.0]-BiomeID[32]=37
 OreID[1475.5]-BiomeID[32]=37
+OreID[16.0]-BiomeID[32]=20
 OreID[1002.0]-BiomeID[32]=37
 OreID[4070.0]-BiomeID[32]=37
 
@@ -175,6 +180,7 @@ OreID[97.0]-BiomeID[35]=37
 #-----------FORESTEDISLAND	  37
 OreID[15.0]-BiomeID[37]=37
 OreID[14.0]-BiomeID[37]=70
+OreID[16.0]-BiomeID[37]=20
 OreID[21.0]-BiomeID[37]=75
 
 #-----------GLACIER	 38
@@ -184,6 +190,7 @@ OreID[16.0]-BiomeID[38]=42
 OreID[14.0]-BiomeID[39]=70
 OreID[248.0]-BiomeID[39]=37
 OreID[1475.5]-BiomeID[39]=37
+OreID[16.0]-BiomeID[39]=20
 OreID[1002.0]-BiomeID[39]=37
 OreID[4070.0]-BiomeID[39]=37
 OreID[155.2]-BiomeID[39]=37
@@ -200,9 +207,11 @@ OreID[16.0]-BiomeID[41]=42
 
 #-----------MARSH	    42
 OreID[248.0]-BiomeID[42]=37
+OreID[16.0]-BiomeID[42]=20
 
 #-----------MEADOW	   43
 OreID[249.0]-BiomeID[43]=37
+OreID[16.0]-BiomeID[42]=20
 
 #-----------MINIJUNGLE	   44
 OreID[249.0]-BiomeID[44]=37
@@ -211,11 +220,13 @@ OreID[16.0]-BiomeID[44]=20
 #-----------MOUNTAINDESERT	  45
 OreID[15.0]-BiomeID[45]=37
 OreID[247.0]-BiomeID[45]=57
+OreID[16.0]-BiomeID[45]=20
 OreID[248.0]-BiomeID[45]=37
 OreID[14.0]-BiomeID[45]=70
 
 #-----------MOUNTAINRIDGE	   46
 OreID[15.0]-BiomeID[46]=70
+OreID[16.0]-BiomeID[46]=20
 OreID[247.0]-BiomeID[46]=37
 
 #-----------MOUNTAINTAIGA	   47
@@ -242,10 +253,12 @@ OreID[14.0]-BiomeID[51]=70
 #-----------SAVANNA	 52
 OreID[15.0]-BiomeID[52]=37
 OreID[247.0]-BiomeID[52]=57
+OreID[16.0]-BiomeID[52]=20
 
 #-----------SHRUBLAND	    53
 OreID[248.0]-BiomeID[53]=37
 OreID[14.0]-BiomeID[53]=70
+OreID[16.0]-BiomeID[53]=20
 
 #-----------SNOWYFOREST	 54
 OreID[16.0]-BiomeID[54]=42
@@ -257,6 +270,7 @@ OreID[249.0]-BiomeID[55]=37
 #-----------TEMPORATERAINFOREST 56
 OreID[249.0]-BiomeID[56]=37
 OreID[15.0]-BiomeID[56]=37
+OreID[16.0]-BiomeID[56]=20
 
 #-----------TUNDRA	   57
 OreID[16.0]-BiomeID[57]=42
@@ -265,6 +279,7 @@ OreID[247.0]-BiomeID[57]=57
 #-----------WASTELAND	    58
 OreID[15.0]-BiomeID[58]=37
 OreID[247.0]-BiomeID[58]=57
+OreID[16.0]-BiomeID[58]=20
 
 #-----------WOODLANDS	    59
 OreID[15.0]-BiomeID[59]=37

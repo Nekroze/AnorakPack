@@ -28,7 +28,7 @@
 13.0UseMarcoVeins=false
 
 #Gold
-14.0Rarity=75
+14.0Rarity=85
 14.0VeinSize=8
 14.0VeinAmount=135
 14.0Height=80
@@ -124,7 +124,7 @@
 1475.5UseMarcoVeins=false
 
 #Lead
-2001.3Rarity=82
+2001.3Rarity=85
 2001.3VeinSize=10
 2001.3VeinAmount=70
 2001.3Height=74
@@ -134,7 +134,7 @@
 2001.3HorizontalDensity=1
 
 #Ferrous/Nickel
-2001.4Rarity=82
+2001.4Rarity=85
 2001.4VeinSize=10
 2001.4VeinAmount=70
 2001.4Height=74
@@ -144,7 +144,7 @@
 2001.4HorizontalDensity=1
 
 #Copper
-249.0Rarity=77
+249.0Rarity=50
 249.0VeinSize=12
 249.0VeinAmount=70
 249.0Height=74
@@ -156,7 +156,7 @@
 249.0UseMarcoVeins=false
 
 #Tin
-248.0Rarity=75
+248.0Rarity=50
 248.0VeinSize=10
 248.0VeinAmount=70
 248.0Height=74
@@ -180,7 +180,7 @@
 247.0UseMarcoVeins=false
 
 #Silver
-1002.0Rarity=50
+1002.0Rarity=75
 1002.0VeinSize=10
 1002.0VeinAmount=70
 1002.0Height=95
