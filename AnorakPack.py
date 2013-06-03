@@ -62,7 +62,6 @@ industrialcraft2comboarmors-1.14.1.zip
 InfernalMobs_1.5.2.zip
 invasion_mod_0.11.7.zip
 ironchest-universal-1.5.2-5.2.6.425.zip
-Lanterns_1.3.4_Universal.zip
 LiquidEnergy_Beta5.zip
 LogisticsPipes-MC1.5.2-0.7.3.3.jar
 mca_v3.3.5.zip

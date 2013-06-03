@@ -78,7 +78,6 @@ Modlist
  - [Inventory Tweaks](http://www.minecraftforum.net/topic/1720872-15x-inventory-tweaks-154-may-1/)
  - [Iron Chest](http://www.minecraftforum.net/topic/981855-15-and-up-forge-universalironchests-50-minecraft-15-update/)
  - [Jammy Furniture](http://www.minecraftforum.net/topic/1098808-v44-151152-forge-smp-jammy-furniture-mod/)
- - [Lanterns](http://www.minecraftforum.net/topic/1535985-15x-forge-smp-lanterns-135/)
  - [Minecraft Comes Alive](http://www.minecraftforum.net/topic/926757-152-sspsmp-minecraft-comes-alive-v335-25-languages-850000-downloads/)
  - [MineChem](http://www.minecraftforum.net/topic/1734442-151minechem-3/)
  - [Mine Forever](http://www.minecraftforum.net/topic/1675882-15-forge-oss-mineforever-020b-the-high-tech-security-mod-150-downloads/)
