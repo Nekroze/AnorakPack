@@ -126,6 +126,7 @@ MobAmputation1.5.2v1.zip
 MobDismemberment1.5.2v1.zip
 neiaddons-1.5.2-1.7.r17.jar
 NEIPlugins-1.0.9.1a.jar
+ShoulderSurfing_1.4.0_1.5.2_COREMOD.jar
 ZansMinimap1.5.2.zip
 data/VoxelMods
 """
