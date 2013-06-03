@@ -141,7 +141,6 @@ data/HUDini.conf
 Anorak.modpack += """
 OptiFine_1.5.2_HD_U_D3.zip
 fps15.zip
-Better_Ore_Distribution(V2.6)MC(1.5.2).zip
 """
 
 #SERVER
@@ -154,7 +153,6 @@ Dynmap-1.7.1-forge-7.8.0.jar
 """
 
 Anorak.server += """
-Better_Ore_Distribution(V2.6_SMP)MC(1.5.2).zip
 """
 
 #CONSTRUCT
