@@ -52,7 +52,6 @@ FlatBedrock-1.1.1-32.jar
 forestry-A-2.2.6.2.jar
 GregsLighting-1.8.1-7.jar
 HangableMaps_v1.5.2_1_MC1.5.2.zip
-HUDini_152_019d.zip
 iChunUtil1.0.1.zip
 immibis-core-55.1.2.jar
 immibis-peripherals-55.0.1.jar
@@ -121,6 +120,7 @@ Anorak.client_mods += """
 [1.5.2]_Mouse_Tweaks_1.2.zip
 [1.5.2]StatusEffectHUDv1.10.zip
 ExtendedRenderer_for_MC_v1.5.2.zip
+HUDini_152_019d.zip
 InventoryTweaks-1.54b.jar
 MobAmputation1.5.2v1.zip
 MobDismemberment1.5.2v1.zip
