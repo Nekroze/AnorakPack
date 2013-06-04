@@ -49,7 +49,7 @@ ExtrabiomesXL-universal-1.5.2-3.13.1.jar
 Extra Doors by Zolandre[Forge][v1.3.1].zip
 Factorization-0.7.37.jar
 FlatBedrock-1.1.1-32.jar
-forestry-A-2.2.6.2.jar
+forestry-A-2.2.6.3.jar
 GregsLighting-1.8.1-7.jar
 HangableMaps_v1.5.2_1_MC1.5.2.zip
 iChunUtil1.0.1.zip
