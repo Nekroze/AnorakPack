@@ -45,7 +45,6 @@ ExtrabiomesXL-universal-1.5.2-3.13.1.jar
 Extra Doors by Zolandre[Forge][v1.3.1].zip
 Factorization-0.7.37.jar
 FlatBedrock-1.1.1-32.jar
-FluidMechanics_v0.4.3.95.jar
 forestry-A-2.2.6.3.jar
 GregsLighting-1.8.1-7.jar
 HangableMaps_v1.5.2_1_MC1.5.2.zip
@@ -80,7 +79,6 @@ OpenXP-0.0.6.jar
 Painter's_Flower_Pot_v1.56_-_MC_1.5+.zip
 PluginsforForestry-1.5.2-3.0.15.jar
 PortalGun1.5.2.zip
-PowerConverters-2.3.0-54.jar
 Railcraft_1.5.2-7.2.1.0.jar
 RancraftPengForge_v152l.zip
 Rotten_Flesh_To_Leather_MC_1.5.2.zip
