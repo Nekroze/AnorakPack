@@ -64,6 +64,9 @@ ironchest-universal-1.5.2-5.2.6.425.zip
 LiquidEnergy_Beta5.zip
 LogisticsPipes-MC1.5.2-0.7.3.3.jar
 mca_v3.3.5.zip
+Mekanism-v5.5.6.72.jar
+MekanismGenerators-v5.5.6.72.jar
+MekanismTools-v5.5.6.72.jar
 MineChem_v3.0.0.138.jar
 MineFactoryReloaded-2.6.1-897.jar
 MineForever_0.2.0b.jar
