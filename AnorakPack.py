@@ -31,10 +31,7 @@ AdvancedMachines_1.5.2.zip
 AdvancedPowerManagement-1.2.68-IC2-1.115.jar
 appeng-rv10-n.zip
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
-bcTools-v13c.zip
 BiblioCraft[v1.2.3].zip
-buildcraft-A-3.6.0.jar
-buildcraft-Z-additional-buildcraft-objects-1.0.4.150.jar
 Carpenter's_Slope_v1.25_-_MC_1.5+.zip
 ChickenChunks_1.3.2.10.jar
 CompactWindmills+v.1.0.1.3.jar
@@ -62,7 +59,6 @@ InfernalMobs_1.5.2.zip
 invasion_mod_0.11.7.zip
 ironchest-universal-1.5.2-5.2.6.425.zip
 LiquidEnergy_Beta5.zip
-LogisticsPipes-MC1.5.2-0.7.3.3.jar
 mca_v3.3.5.zip
 Mekanism-v5.5.6.72.jar
 MekanismGenerators-v5.5.6.72.jar
