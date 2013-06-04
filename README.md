@@ -118,8 +118,7 @@ Modlist
 TODO
 ====
 
- - Make a credits and mods list for all the excelent mod authors
- - Message all mod authors for permissions for 2 person modpack
+ - Message all mod authors for permissions
  - Review if turretmod is unbalancing
  - Find some kind of trading/vending mod
 
