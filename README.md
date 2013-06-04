@@ -68,7 +68,6 @@ Modlist
  * >	[Compact Windmills](http://forum.industrial-craft.net/index.php?page=Thread&threadID=9205)
  * >	[Combo Armors](http://forum.industrial-craft.net/index.php?page=Thread&threadID=8861)
  * >	[Gravitation Suite](http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915)
- * >	[Liquid Energy](http://www.minecraftforum.net/topic/1821021-152-bcic2-liquid-energy-beta-5/)
  - [Infernal Mobs](http://www.minecraftforum.net/topic/1325911-152-atomicstrykers-infernal-mobs-diablo-style-modifiers/)
  - [Invasion](http://www.minecraftforum.net/topic/780480-152forge-invasion-mod-v0117-so-you-think-your-base-is-tough-do-you/)
  - [Inventory Tweaks](http://www.minecraftforum.net/topic/1720872-15x-inventory-tweaks-154-may-1/)

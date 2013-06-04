@@ -25,7 +25,6 @@ Anorak.universal_mods += """
 DrZharks MoCreatures Mod v5.2.2.zip
 CustomMobSpawner 2.2.2.zip
 1.5.2_Jammy_Furniture_Mod_V4.4.zip
-AdditionalPipes2.3.0-BC3.5.3.jar
 adv-repulsion-systems-55.1.2.jar
 AdvancedMachines_1.5.2.zip
 AdvancedPowerManagement-1.2.68-IC2-1.115.jar
@@ -59,7 +58,6 @@ industrialcraft2comboarmors-1.14.1.zip
 InfernalMobs_1.5.2.zip
 invasion_mod_0.11.7.zip
 ironchest-universal-1.5.2-5.2.6.425.zip
-LiquidEnergy_Beta5.zip
 mca_v3.3.5.zip
 Mekanism-v5.5.6.72.jar
 MekanismGenerators-v5.5.6.72.jar
