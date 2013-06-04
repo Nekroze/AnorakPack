@@ -14,6 +14,7 @@ server: ${SERVERZIP}
 
 ${CLIENTZIP}: build/client/bin/modpack.jar
 	@mkdir -p releases
+	@rm -f $@
 	cd build/client && zip -rq ../../$@ ./*
 
 build/client/bin/modpack.jar: AnorakPack.py $(shell find components/data -print0 -type f)
@@ -22,6 +23,7 @@ build/client/bin/modpack.jar: AnorakPack.py $(shell find components/data -print0
 
 ${SERVERZIP}: build/server/server.jar
 	@mkdir -p releases
+	@rm -f $@
 	cd build/server && zip -rq ../../$@ ./*
 
 build/server/server.jar: ${CLIENTZIP}
