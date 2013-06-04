@@ -9,6 +9,7 @@ Anorak.server += forge
 #UNIVERSAL
 Anorak.universal_coremods += """
 [1.5.2]TreeCapitator.Forge.1.5.2.r01.Uni.CoreMod.jar
+Chemcraft Core 1.3.0.jar
 CodeChickenCore_0.8.6.12.jar
 CoFHCore-1.5.2.2.jar
 denLib-1.5.2-3.0.13.jar
@@ -18,7 +19,6 @@ NotEnoughItems_1.5.2.21.jar
 PowerCrystalsCore-1.1.6-107.jar
 StalkerCreepers_1.5.2.jar
 Snowfall 1.2.1.jar
-Chemcraft Core 1.3.0.jar
 """
 
 Anorak.universal_mods += """
@@ -140,6 +140,8 @@ data/HUDini.conf
 Anorak.modpack += """
 OptiFine_1.5.2_HD_U_D3.zip
 fps15.zip
+NoInfiniteWaterMC152.zip
+NoLightUpdateLagMC152.zip
 """
 
 #SERVER
