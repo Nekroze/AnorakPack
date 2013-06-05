@@ -109,7 +109,6 @@ data/config
 Anorak.client_coremods += """
 CustomPortForge.jar
 DynamicLights_1.5.2.jar
-GuiAPI-0.15.6-1.5.2.jar
 """
 
 Anorak.client_mods += """
