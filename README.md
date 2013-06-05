@@ -3,13 +3,31 @@ AnorakPack
 
 AnorakPack is a minecraft modpack for advanced tech based gameplay.
 
-The AnorakPack contains not just a large amount of mods for extensive tech based gameplay but also a collection of modifications to increase realism or just add nice things that make thing more immersive or a general better experience. This can include things like furniture or lighting mods but on the other hand mods that make mobs more dangerous or the environment more dynamic right down to even making ore's spawn more realistically in larger vains to promote exploration and a network of mines.
+The AnorakPack contains not just a large amount of mods for extensive tech based gameplay but 
+also a collection of modifications to increase realism or just add nice things that make thing 
+more immersive or a general better experience. This can include things like furniture or lighting 
+mods but on the other hand mods that make mobs more dangerous or the environment more dynamic right 
+down to even making ore's spawn more realistically in larger vains to promote exploration and a 
+network of mines.
 
-This modpack uses pakpak (http://github.com/Nekroze/pakpak) to automatically construct a modpack from a simple python script for easier management and a collection of components.
+This modpack uses pakpak (http://github.com/Nekroze/pakpak) to automatically construct a modpack 
+from a simple python script for easier management and a collection of components.
 
-Due to the nature and goals of the AnorakPack it is unlikely that it will ever work well for a large public online server and is instead better used either single player, over a LAN or possibly with a small playerbase online. The reason for this is the large number of mods in the AnorakPack which change a great many things by design. To limit the mod count purely to conform to the minority that may play with a large player base online would be damaging to the design of the AnorakPack. That being said every so often the entire mod list will be overviewed to ensure that each and every mod is useful and does not add more complexity (from a performance standpoint) then it is worth.
+Due to the nature and goals of the AnorakPack it is unlikely that it will ever work well for a large 
+public online server and is instead better used either single player, over a LAN or possibly with a 
+small playerbase online. The reason for this is the large number of mods in the AnorakPack which change
+a great many things by design. To limit the mod count purely to conform to the minority that may play 
+with a large player base online would be damaging to the design of the AnorakPack. That being said every 
+so often the entire mod list will be overviewed to ensure that each and every mod is useful and does not 
+add more complexity (from a performance standpoint) then it is worth.
 
-This pack is currently in a very early stage of development and is intended for purely private use.
+This pack is currently in a very early stage of development and is intended for purely private use. 
+The AnorakPack repository contains information on how to configure a collection of this mods and nother more.
+
+I do not publicly distribute any mods what so ever and thus do not conflict with any mod license. 
+While the configuration of this modpack is designed for my own personal use and this repo to better 
+manage it i see any inherent problem with other people correctly downloading the mods required to construct 
+this modpack and doing so on their own.
 
 Modlist
 =======
@@ -117,6 +135,7 @@ TODO
  - Review if turretmod is unbalancing
  - Find some kind of trading/vending mod
  - Update Modlist
+ 
 Changelog
 =========
 
