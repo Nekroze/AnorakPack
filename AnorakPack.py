@@ -54,7 +54,7 @@ ICBM_Contraption_v1.2.0.114.jar
 ICBM_Explosion_v1.2.0.114.jar
 ICBM_Sentry_v1.2.0.114.jar
 iChunUtil1.0.1.zip
-immibis-core-55.1.2.jar
+immibis-core-55.1.3.jar
 immibis-peripherals-55.0.1.jar
 Improved_Mob_Spawn_1.4.0.zip
 industrialcraft-2_1.115.340-lf.jar
