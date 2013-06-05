@@ -61,7 +61,7 @@ mca_v3.3.5.zip
 Mekanism-v5.5.6.72.jar
 MekanismGenerators-v5.5.6.72.jar
 MekanismTools-v5.5.6.72.jar
-MineChem_v3.0.0.138.jar
+MineChem_v3.0.0.140.jar
 MineFactoryReloaded-2.6.1-897.jar
 MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
