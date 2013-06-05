@@ -22,8 +22,6 @@ Snowfall 1.2.1.jar
 """
 
 Anorak.universal_mods += """
-DrZharks MoCreatures Mod v5.2.2.zip
-CustomMobSpawner 2.2.2.zip
 1.5.2_Jammy_Furniture_Mod_V4.4.zip
 adv-repulsion-systems-55.1.2.jar
 AdvancedMachines_1.5.2.zip
