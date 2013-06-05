@@ -28,6 +28,7 @@ ${SERVERZIP}: build/server/server.jar
 
 build/server/server.jar: ${CLIENTZIP}
 
+# Push is an example for how to "upload" to a public location
 push: ${PUBLIC}
 
 ${PUBLIC}: ${CLIENTZIP} ${SERVERZIP}
