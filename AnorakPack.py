@@ -26,12 +26,15 @@ Anorak.universal_mods += """
 AdvancedMachines_1.5.2.zip
 AdvancedPowerManagement-1.2.68-IC2-1.115.jar
 appeng-rv10-n.zip
+AssemblyLine_v0.3.5.140.jar
 Atomic_Science_v0.5.3.51.jar
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 BiblioCraft[v1.2.3].zip
+Biotech-v0.2.1.32.jar
 Carpenter's_Slope_v1.25_-_MC_1.5+.zip
 ChickenChunks_1.3.2.10.jar
 CompactWindmills+v.1.0.1.3.jar
+ComplexMachines_v0.3.3.80.jar
 ComputerCraft1.53.zip
 ConfigMod_for_MC_v1.5.2.zip
 coral-reef-universal-1.5.2-r2.zip
@@ -43,6 +46,7 @@ enhanced-portals_2.1.2.jar
 ExtrabiomesXL-universal-1.5.2-3.13.1.jar
 Extra Doors by Zolandre[Forge][v1.3.1].zip
 Factorization-0.7.37.jar
+FluidMechanics_v0.5.1.98.jar
 Frames-1.5.2-5.0.zip
 GregsLighting-1.8.1-7.jar
 HangableMaps_v1.5.2_1_MC1.5.2.zip
