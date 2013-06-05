@@ -40,11 +40,9 @@ CustomMobSpawner 2.2.2.zip
 DimensionalDoors-1.5.2R1.3.6RC1-71.zip
 DrZharks MoCreatures Mod v5.2.2.zip
 enhanced-portals_2.1.2.jar
-extra-bees-1.6-pre10.jar
 ExtrabiomesXL-universal-1.5.2-3.13.1.jar
 Extra Doors by Zolandre[Forge][v1.3.1].zip
 Factorization-0.7.37.jar
-forestry-A-2.2.6.3.jar
 Frames-1.5.2-5.0.zip
 GregsLighting-1.8.1-7.jar
 HangableMaps_v1.5.2_1_MC1.5.2.zip
@@ -72,7 +70,6 @@ miscperipherals-3.3.jar
 More Pistons - 1.5.2 - 1.3.3 build Smeagol.zip
 mod_AdvancedSolarPanels_3_3_7.zip
 mod_zGraviSuite_1_9_2.zip
-More Backpacks 2.1.0.zip
 MoreGlowstone v1.0 (1.5.2).zip
 Mutant_Creatures_v1.3.4_mc1.5.2.zip
 Natura_2.0.21.jar
@@ -82,7 +79,6 @@ OpenCCSensors-1.5.2.0.jar
 OpenPeripheral-0.0.7.jar
 OpenXP-0.0.6.jar
 Painter's_Flower_Pot_v1.56_-_MC_1.5+.zip
-PluginsforForestry-1.5.2-3.0.15.jar
 PortalGun1.5.2.zip
 Railcraft_1.5.2-7.2.1.0.jar
 RancraftPengForge_v152l.zip
@@ -94,7 +90,6 @@ SimplyHorses_1.5.2_pre6.3.zip
 SkullForge.zip
 StevesCarts2.0.0.a117.zip
 TConstruct_1.3.3.15.jar
-ThermalExpansion-2.4.3.0.jar
 TurretMod_v3.0.1.jar
 UpdateCheckerMod_1.5.2.zip
 UsefulFood-1.5.1_1.4.2-universal.zip
