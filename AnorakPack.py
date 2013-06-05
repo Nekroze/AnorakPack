@@ -23,7 +23,6 @@ Snowfall 1.2.1.jar
 
 Anorak.universal_mods += """
 1.5.2_Jammy_Furniture_Mod_V4.4.zip
-adv-repulsion-systems-55.1.2.jar
 AdvancedMachines_1.5.2.zip
 AdvancedPowerManagement-1.2.68-IC2-1.115.jar
 appeng-rv10-n.zip
