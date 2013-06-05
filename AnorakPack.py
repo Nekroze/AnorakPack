@@ -36,7 +36,9 @@ ComputerCraft1.53.zip
 ConfigMod_for_MC_v1.5.2.zip
 coral-reef-universal-1.5.2-r2.zip
 CoroAI_for_MC_v1.5.2.zip
+CustomMobSpawner 2.2.2.zip
 DimensionalDoors-1.5.2R1.3.6RC1-71.zip
+DrZharks MoCreatures Mod v5.2.2.zip
 enhanced-portals_2.1.2.jar
 extra-bees-1.6-pre10.jar
 ExtrabiomesXL-universal-1.5.2-3.13.1.jar
@@ -110,6 +112,7 @@ data/config
 Anorak.client_coremods += """
 CustomPortForge.jar
 DynamicLights_1.5.2.jar
+GuiAPI-0.15.6-1.5.2.jar
 """
 
 Anorak.client_mods += """
