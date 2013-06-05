@@ -116,7 +116,6 @@ TODO
  - Message all mod authors for permissions
  - Review if turretmod is unbalancing
  - Find some kind of trading/vending mod
- - Mekanism Universal cables make Energy Converters redundant
 
 Changelog
 =========

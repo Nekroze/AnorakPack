@@ -63,6 +63,7 @@ MineChem_v3.0.0.138.jar
 MineFactoryReloaded-2.6.1-897.jar
 MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
+More Pistons - 1.5.2 - 1.3.3 build Smeagol.zip
 mod_AdvancedSolarPanels_3_3_7.zip
 mod_zGraviSuite_1_9_2.zip
 More Backpacks 2.1.0.zip
