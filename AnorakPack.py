@@ -98,6 +98,7 @@ Wallpaper-1.5.2-5.0.zip
 Weather_v1.5_Mod_for_MC_v1.5.2.zip
 WildCaves3-0.4.2.zip
 Zombie Awareness v1.85 Mod for MC v1.5.2.zip
+[1.5.2]BetterStorage_0.6.1.18.zip
 [1.5.2]bspkrsCorev2.04.zip
 [1.5.2]ProjectBench-v1.7.5.zip
 """
