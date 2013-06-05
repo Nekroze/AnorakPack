@@ -45,6 +45,7 @@ ExtrabiomesXL-universal-1.5.2-3.13.1.jar
 Extra Doors by Zolandre[Forge][v1.3.1].zip
 Factorization-0.7.37.jar
 forestry-A-2.2.6.3.jar
+Frames-1.5.2-5.0.zip
 GregsLighting-1.8.1-7.jar
 HangableMaps_v1.5.2_1_MC1.5.2.zip
 iChunUtil1.0.1.zip
@@ -93,6 +94,7 @@ TurretMod_v3.0.1.jar
 UpdateCheckerMod_1.5.2.zip
 UsefulFood-1.5.1_1.4.2-universal.zip
 Useful_Storage_(5-5)_v.1.8.1.zip
+Wallpaper-1.5.2-5.0.zip
 Weather_v1.5_Mod_for_MC_v1.5.2.zip
 WildCaves3-0.4.2.zip
 Zombie Awareness v1.85 Mod for MC v1.5.2.zip
