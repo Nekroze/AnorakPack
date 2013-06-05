@@ -125,8 +125,6 @@ Anorak.client_mods += """
 ExtendedRenderer_for_MC_v1.5.2.zip
 HUDini_152_019d.zip
 InventoryTweaks-1.54b.jar
-MobAmputation1.5.2v1.zip
-MobDismemberment1.5.2v1.zip
 neiaddons-1.5.2-1.7.r17.jar
 NEIPlugins-1.0.9.1a.jar
 Animated Player v1.2.0 mc1.5.2.zip
