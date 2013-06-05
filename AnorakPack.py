@@ -26,6 +26,7 @@ Anorak.universal_mods += """
 AdvancedMachines_1.5.2.zip
 AdvancedPowerManagement-1.2.68-IC2-1.115.jar
 appeng-rv10-n.zip
+Atomic_Science_v0.5.3.51.jar
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 BiblioCraft[v1.2.3].zip
 Carpenter's_Slope_v1.25_-_MC_1.5+.zip
@@ -47,6 +48,9 @@ forestry-A-2.2.6.3.jar
 Frames-1.5.2-5.0.zip
 GregsLighting-1.8.1-7.jar
 HangableMaps_v1.5.2_1_MC1.5.2.zip
+ICBM_Contraption_v1.2.0.114.jar
+ICBM_Explosion_v1.2.0.114.jar
+ICBM_Sentry_v1.2.0.114.jar
 iChunUtil1.0.1.zip
 immibis-core-55.1.2.jar
 immibis-peripherals-55.0.1.jar
@@ -60,6 +64,7 @@ mca_v3.3.5.zip
 Mekanism-v5.5.6.72.jar
 MekanismGenerators-v5.5.6.72.jar
 MekanismTools-v5.5.6.72.jar
+MFFS_v3.0.2.124.jar
 MineChem_v3.0.0.140.jar
 MineFactoryReloaded-2.6.1-897.jar
 MineForever_0.2.0b.jar
