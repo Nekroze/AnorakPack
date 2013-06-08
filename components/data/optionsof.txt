@@ -46,7 +46,7 @@ ofChunkUpdates:1
 ofChunkLoading:2
 ofChunkUpdatesDynamic:true
 ofTime:0
-ofClearWater:false
+ofClearWater:true
 ofDepthFog:false
 ofAaLevel:0
 ofAfLevel:16
