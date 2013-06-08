@@ -23,7 +23,6 @@ Snowfall 1.2.1.jar
 
 Anorak.universal_mods += """
 1.5.2_Jammy_Furniture_Mod_V4.4.zip
-1.5.2BetterBreeding.zip
 AdvancedMachines_1.5.2.zip
 AdvancedPowerManagement-1.2.68-IC2-1.115.jar
 appeng-rv10-n.zip
@@ -119,6 +118,7 @@ data/config
 Anorak.client_coremods += """
 CustomPortForge.jar
 DynamicLights_1.5.2.jar
+ShoulderSurfing_1.4.0_1.5.2_COREMOD.jar
 """
 
 Anorak.client_mods += """
@@ -145,6 +145,7 @@ OptiFine_1.5.2_HD_U_D3.zip
 fps15.zip
 NoInfiniteWaterMC152.zip
 NoLightUpdateLagMC152.zip
+BACR v4 MC1,5,2.zip
 """
 
 #SERVER

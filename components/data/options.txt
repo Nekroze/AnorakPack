@@ -52,6 +52,7 @@ key_key.inventory:18
 key_key.chat:20
 key_key.playerlist:15
 key_key.pickItem:-98
+key_Zoom:29
 key_key.command:53
 key_key.tarmor:24
 key_ALT Key:56
@@ -65,13 +66,32 @@ key_FZ Exo1:79
 key_FZ Exo2:80
 key_FZ Exo3:81
 key_turretmod3.keys.turretShoot:33
+key_Camera adj left:203
+key_Camera adj right:205
+key_Camera adj closer:200
+key_Camera adj farther:208
 key_Dynamic Lights toggle:25
+key_[GC] Galaxy Map:50
+key_[GC] Open Spaceship Inventory:33
+key_[GC] Toggle Sensor Goggles Mode:37
+key_[GC] Vehicle Forward Key:17
+key_[GC] Vehicle Backward Key:31
+key_[GC] Vehicle Left Key:30
+key_[GC] Vehicle Right Key:32
+key_[GC] Vehicle Up Key:57
+key_[GC] Vehicle Down Key:42
 key_Coral Reef GUI:62
 key_HUDini Modifier:15
 key_HUDini Menu:64
 key_HUDini Text Edit:40
 key_HUDini Commands:46
 key_IC2CA Upgrades Key:21
+key_Open MPS Keybind GUI:37
+key_Go Down (MPS Flight Control):44
+key_Cycle Tool Backward (MPS):-1
+key_Cycle Tool Forward (MPS):-1
+key_Zoom (MPS):21
+key_Cosmetic (MPS):38
 key_Change OneWayBlock face:43
 key_Mounted Walk On:17
 key_Mounted Reign-In:31
