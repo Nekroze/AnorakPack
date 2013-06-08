@@ -41,7 +41,6 @@ ConfigMod_for_MC_v1.5.2.zip
 coral-reef-universal-1.5.2-r2.zip
 CoroAI_for_MC_v1.5.2.zip
 DimensionalDoors-1.5.2R1.3.6RC1-71.zip
-Dukecore v1.1.0.2.jar
 ElectricExpansion_v2.3.0.51.jar
 enhanced-portals_2.1.2.jar
 ExtrabiomesXL-universal-1.5.2-3.13.1.jar
@@ -108,7 +107,6 @@ Zombie Awareness v1.85 Mod for MC v1.5.2.zip
 [1.5.2]BetterStorage_0.6.1.18.zip
 [1.5.2]bspkrsCorev2.04.zip
 [1.5.2]ProjectBench-v1.7.5.zip
-[1.5.2] ExchangeCraft v1.1.0.6.jar
 """
 
 Anorak.universal_data += """
