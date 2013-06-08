@@ -1,14 +1,3 @@
-Official mod page is here: http://www.minecraftforum.net/topic/1712640-
-This mod was made by KodaichiZero, and was rewritten and updated by NosirrahK.
-Do not redistribute this mod without permission.
-Have fun!
-
-Remember, in order for any changes to take effect you need to restart Minecraft.
-
-
-Delete this line or else BACR will continue to open the folder for you.
-
-
 ### Turn this to 1 when you have another mod that changes the way players are rendered.
     This applies to Smart Moving, Mine Little Ponies, More Player Models, and more.
     Turning this to 1 will prevent crashes, but will disable player features.
