@@ -12,6 +12,7 @@ Anorak.universal_coremods += """
 Chemcraft Core 1.3.0.jar
 CodeChickenCore_0.8.6.12.jar
 CoFHCore-1.5.2.2.jar
+Galacticraft-1.5.2-a0.1.35.297.jar
 immibis-microblocks-55.0.1.jar
 MultiMine_1.5.2.jar
 NotEnoughItems_1.5.2.21.jar
@@ -26,7 +27,7 @@ Anorak.universal_mods += """
 AdvancedMachines_1.5.2.zip
 AdvancedPowerManagement-1.2.68-IC2-1.115.jar
 appeng-rv10-n.zip
-AssemblyLine_v0.3.5.140.jar
+AssemblyLine_v0.3.5.142.jar
 Atomic_Science_v0.5.3.51.jar
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 BiblioCraft[v1.2.3].zip
@@ -34,7 +35,7 @@ Carpenter's_Slope_v1.25_-_MC_1.5+.zip
 ChickenChunks_1.3.2.10.jar
 chisel-1.5.2-1.4.4.jar
 CompactWindmills+v.1.0.1.3.jar
-ComplexMachines_v0.3.3.80.jar
+ComplexMachines_v0.3.3.92.jar
 ComputerCraft1.53.zip
 ConfigMod_for_MC_v1.5.2.zip
 coral-reef-universal-1.5.2-r2.zip
@@ -46,7 +47,7 @@ enhanced-portals_2.1.2.jar
 ExtrabiomesXL-universal-1.5.2-3.13.1.jar
 Extra Doors by Zolandre[Forge][v1.3.1].zip
 Factorization-0.7.37.jar
-FluidMechanics_v0.5.1.98.jar
+FluidMechanics_v0.5.1.99.jar
 Frames-1.5.2-5.0.zip
 GregsLighting-1.8.1-7.jar
 HangableMaps_v1.5.2_1_MC1.5.2.zip
@@ -62,21 +63,23 @@ industrialcraft2comboarmors-1.14.1.zip
 InfernalMobs_1.5.2.zip
 invasion_mod_0.11.7.zip
 ironchest-universal-1.5.2-5.2.6.425.zip
-Mekanism-v5.5.6.72.jar
-MekanismGenerators-v5.5.6.72.jar
-MekanismTools-v5.5.6.72.jar
+Mekanism-v5.5.6.76.jar
+MekanismGenerators-v5.5.6.76.jar
+MekanismTools-v5.5.6.76.jar
 MFFS_v3.0.2.124.jar
-MineChem_v3.0.0.140.jar
-MineFactoryReloaded-2.6.1-897.jar
+MineChem_v3.0.0.179.jar
+MineFactoryReloaded-2.6.2-924.jar
 MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
+ModularPowersuits-0.7.0-534.jar
+MPSA-0.2.3-144_MPS-531+.jar
 More Pistons - 1.5.2 - 1.3.3 build Smeagol.zip
 mod_AdvancedSolarPanels_3_3_7.zip
 mod_zGraviSuite_1_9_2.zip
 MoreGlowstone v1.0 (1.5.2).zip
 Mutant_Creatures_v1.3.4_mc1.5.2.zip
 Natura_2.0.21.jar
-NetherOres-2.1.4-71.jar
+NetherOres-2.1.5-75.jar
 OmniTools-3.1.4.0.jar
 OpenCCSensors-1.5.2.0.jar
 OpenPeripheral-0.0.7.jar
