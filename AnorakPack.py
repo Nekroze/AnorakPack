@@ -138,6 +138,7 @@ data/HUDini.conf
 """
 
 Anorak.modpack += """
+OptiFine_1.5.2_HD_U_D3.zip
 fps15.zip
 NoInfiniteWaterMC152.zip
 NoLightUpdateLagMC152.zip
@@ -153,6 +154,7 @@ Dynmap-1.7.1-forge-7.8.0.jar
 """
 
 Anorak.server += """
+NoInfiniteWaterMC152.zip
 """
 
 #CONSTRUCT
