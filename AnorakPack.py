@@ -32,6 +32,7 @@ BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 BiblioCraft[v1.2.3].zip
 Carpenter's_Slope_v1.25_-_MC_1.5+.zip
 ChickenChunks_1.3.2.10.jar
+chisel-1.5.2-1.4.4.jar
 CompactWindmills+v.1.0.1.3.jar
 ComplexMachines_v0.3.3.80.jar
 ComputerCraft1.53.zip
@@ -81,6 +82,7 @@ OpenCCSensors-1.5.2.0.jar
 OpenPeripheral-0.0.7.jar
 OpenXP-0.0.6.jar
 Painter's_Flower_Pot_v1.56_-_MC_1.5+.zip
+Panicle_Craft-v1.0.0.4b.zip
 PortalGun1.5.2.zip
 Railcraft_1.5.2-7.2.1.0.jar
 RancraftPengForge_v152l.zip
