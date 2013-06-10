@@ -31,6 +31,7 @@ AssemblyLine_v0.3.5.142.jar
 Atomic_Science_v0.5.3.51.jar
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 BiblioCraft[v1.2.3].zip
+Biotech-v0.2.1.32.jar
 Carpenter's_Slope_v1.25_-_MC_1.5+.zip
 ChickenChunks_1.3.2.10.jar
 chisel-1.5.2-1.4.4.jar
