@@ -3,3 +3,4 @@ releases
 build
 components/*
 !components/data
+*.pyc
