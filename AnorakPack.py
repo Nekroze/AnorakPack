@@ -66,6 +66,7 @@ industrialcraft2comboarmors-1.14.1.zip
 InfernalMobs_1.5.2.zip
 invasion_mod_0.11.7.zip
 ironchest-universal-1.5.2-5.2.6.425.zip
+Lanterns_1.3.4_Universal.zip
 Mekanism-v5.5.6.76.jar
 MekanismGenerators-v5.5.6.76.jar
 MekanismTools-v5.5.6.76.jar
