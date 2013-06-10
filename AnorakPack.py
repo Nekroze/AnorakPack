@@ -12,7 +12,7 @@ Anorak.universal_coremods += """
 Chemcraft Core 1.3.0.jar
 CodeChickenCore_0.8.6.12.jar
 CoFHCore-1.5.2.2.jar
-Galacticraft-1.5.2-a0.1.35.297.jar
+Galacticraft-1.5.2-a0.1.35.300.jar
 immibis-microblocks-55.0.1.jar
 MultiMine_1.5.2.jar
 NotEnoughItems_1.5.2.21.jar
@@ -50,9 +50,9 @@ FluidMechanics_v0.5.1.99.jar
 Frames-1.5.2-5.0.zip
 GregsLighting-1.8.1-7.jar
 HangableMaps_v1.5.2_1_MC1.5.2.zip
-ICBM_Contraption_v1.2.0.114.jar
-ICBM_Explosion_v1.2.0.114.jar
-ICBM_Sentry_v1.2.0.114.jar
+ICBM_Contraption_v1.2.0.130.jar
+ICBM_Explosion_v1.2.0.130.jar
+ICBM_Sentry_v1.2.0.130.jar
 iChunUtil1.0.1.zip
 immibis-core-55.1.3.jar
 immibis-peripherals-55.0.1.jar
@@ -66,7 +66,7 @@ Mekanism-v5.5.6.76.jar
 MekanismGenerators-v5.5.6.76.jar
 MekanismTools-v5.5.6.76.jar
 MFFS_v3.0.2.124.jar
-MineChem_v3.0.0.179.jar
+MineChem_v3.0.0.196.jar
 MineFactoryReloaded-2.6.2-924.jar
 MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
