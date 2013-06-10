@@ -8,16 +8,16 @@ Anorak.server += forge
 
 #UNIVERSAL
 Anorak.universal_coremods += """
-[1.5.2]TreeCapitator.Forge.1.5.2.r01.Uni.CoreMod.jar
+@[1.5.2]TreeCapitator.Forge.1.5.2.r01.Uni.CoreMod.jar
 Chemcraft Core 1.3.0.jar
 CodeChickenCore_0.8.6.12.jar
 CoFHCore-1.5.2.2.jar
 Galacticraft-1.5.2-a0.1.35.300.jar
 immibis-microblocks-55.0.1.jar
-MultiMine_1.5.2.jar
+@MultiMine_1.5.2.jar
 NotEnoughItems_1.5.2.21.jar
 PowerCrystalsCore-1.1.6-107.jar
-StalkerCreepers_1.5.2.jar
+@StalkerCreepers_1.5.2.jar
 Snowfall 1.2.1.jar
 """
 
@@ -41,7 +41,9 @@ ComputerCraft1.53.zip
 ConfigMod_for_MC_v1.5.2.zip
 coral-reef-universal-1.5.2-r2.zip
 CoroAI_for_MC_v1.5.2.zip
+@CustomMobSpawner 2.2.2.zip
 DimensionalDoors-1.5.2R1.3.6RC1-71.zip
+@DrZharks MoCreatures Mod v5.2.2.zip
 ElectricExpansion_v2.3.0.51.jar
 enhanced-portals_2.1.2.jar
 ExtrabiomesXL-universal-1.5.2-3.13.1.jar
@@ -117,20 +119,21 @@ data/config
 
 #CLIENT
 Anorak.client_coremods += """
-CustomPortForge.jar
-DynamicLights_1.5.2.jar
-ShoulderSurfing_1.4.0_1.5.2_COREMOD.jar
+@CustomPortForge.jar
+@DynamicLights_1.5.2.jar
+@ShoulderSurfing_1.4.0_1.5.2_COREMOD.jar
+@GuiAPI-0.15.6-1.5.2.jar
 """
 
 Anorak.client_mods += """
 [1.5.2]_Mouse_Tweaks_1.2.zip
 [1.5.2]StatusEffectHUDv1.10.zip
 ExtendedRenderer_for_MC_v1.5.2.zip
-HUDini_152_019d.zip
+@HUDini_152_019d.zip
 InventoryTweaks-1.54b.jar
 neiaddons-1.5.2-1.7.r17.jar
 NEIPlugins-1.0.9.1a.jar
-Animated Player v1.2.0 mc1.5.2.zip
+@Animated Player v1.2.0 mc1.5.2.zip
 ZansMinimap1.5.2.zip
 data/VoxelMods
 """
@@ -142,24 +145,24 @@ data/HUDini.conf
 """
 
 Anorak.modpack += """
-OptiFine_1.5.2_HD_U_D3.zip
-fps15.zip
-NoInfiniteWaterMC152.zip
-NoLightUpdateLagMC152.zip
-BACR v4 MC1,5,2.zip
+@OptiFine_1.5.2_HD_U_D3.zip
+@fps15.zip
+@NoInfiniteWaterMC152.zip
+@NoLightUpdateLagMC152.zip
+@BACR v4 MC1,5,2.zip
 """
 
 #SERVER
 Anorak.server_coremods += """
-forgebackup-universal-coremod-1.5.2-1.1.2.98.jar
+@forgebackup-universal-coremod-1.5.2-1.1.2.98.jar
 """
 
 Anorak.server_mods += """
-Dynmap-1.7.1-forge-7.8.0.jar
+@Dynmap-1.7.1-forge-7.8.0.jar
 """
 
 Anorak.server += """
-NoInfiniteWaterMC152.zip
+@NoInfiniteWaterMC152.zip
 """
 
 #CONSTRUCT
