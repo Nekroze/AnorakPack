@@ -46,7 +46,6 @@ DimensionalDoors-1.5.2R1.3.6RC1-71.zip
 @DungeonPack 1.5.2 v3 Universal.zip
 ElectricExpansion_v2.3.0.51.jar
 enhanced-portals_2.1.2.jar
-ExtrabiomesXL-universal-1.5.2-3.13.1.jar
 Extra Doors by Zolandre[Forge][v1.3.1].zip
 Factorization-0.7.37.jar
 FluidMechanics_v0.5.1.99.jar
