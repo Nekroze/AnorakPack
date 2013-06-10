@@ -48,6 +48,7 @@ ExtrabiomesXL-universal-1.5.2-3.13.1.jar
 Extra Doors by Zolandre[Forge][v1.3.1].zip
 Factorization-0.7.37.jar
 FluidMechanics_v0.5.1.99.jar
+forestry-A-2.2.6.3.jar
 Frames-1.5.2-5.0.zip
 GregsLighting-1.8.1-7.jar
 HangableMaps_v1.5.2_1_MC1.5.2.zip
