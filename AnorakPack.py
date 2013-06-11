@@ -44,7 +44,7 @@ coral-reef-universal-1.5.2-r2.zip
 CoroAI_for_MC_v1.5.2.zip
 @CustomMobSpawner 2.2.2.zip
 DimensionalDoors-1.5.2R1.3.6RC1-71.zip
-@DrZharks MoCreatures Mod v5.2.2.zip
+@DrZharks MoCreatures Mod v5.2.3.zip
 @DungeonPack 1.5.2 v3 Universal.zip
 ElectricExpansion_v2.3.0.51.jar
 enhanced-portals_2.1.2.jar
