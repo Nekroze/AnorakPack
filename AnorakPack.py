@@ -71,7 +71,7 @@ Lanterns_1.3.4_Universal.zip
 Mekanism-v5.5.6.76.jar
 MekanismGenerators-v5.5.6.76.jar
 MekanismTools-v5.5.6.76.jar
-MFFS_v3.0.2.129.jar
+MFFS_v3.0.3.129.jar
 MineChem_v3.0.0.198.jar
 MineFactoryReloaded-2.6.2-924.jar
 MineForever_0.2.0b.jar
