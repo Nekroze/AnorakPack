@@ -152,7 +152,6 @@ data/HUDini.conf
 """
 
 	Anorak.modpack += """
-@OptiFine_1.5.2_HD_U_D3.zip
 @fps15.zip
 @NoInfiniteWaterMC152.zip
 @NoLightUpdateLagMC152.zip
