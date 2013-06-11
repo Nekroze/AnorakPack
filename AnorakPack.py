@@ -140,7 +140,6 @@ ExtendedRenderer_for_MC_v1.5.2.zip
 InventoryTweaks-1.54b.jar
 neiaddons-1.5.2-1.7.r17.jar
 NEIPlugins-1.0.9.1a.jar
-@Animated Player v1.2.0 mc1.5.2.zip
 ZansMinimap1.5.2.zip
 data/VoxelMods
 """
