@@ -14,6 +14,7 @@ def Define():
 Chemcraft Core 1.3.0.jar
 CodeChickenCore_0.8.6.12.jar
 CoFHCore-1.5.2.4.jar
+denLib-1.5.2-3.0.14.jar
 Galacticraft-1.5.2-a0.1.35.300.jar
 immibis-microblocks-55.0.1.jar
 @MultiMine_1.5.2.jar
@@ -49,6 +50,7 @@ Dungeon Mobs v2.6.0.zip
 @DungeonPack 1.5.2 v3 Universal.zip
 ElectricExpansion_v2.3.0.51.jar
 enhanced-portals_2.1.2.jar
+extra-bees-1.6-pre13.jar
 Extra Doors by Zolandre[Forge][v1.3.1].zip
 Factorization-0.7.37.jar
 FluidMechanics_v0.5.1.100.jar
@@ -92,6 +94,7 @@ OpenPeripheral-0.0.7.jar
 OpenXP-0.0.6.jar
 Painter's_Flower_Pot_v1.56_-_MC_1.5+.zip
 Panicle_Craft-v1.0.0.4b.zip
+PluginsforForestry-1.5.2-3.0.16.jar
 PortalGun1.5.2.zip
 Railcraft_1.5.2-7.2.1.0.jar
 RancraftPengForge_v152l.zip
