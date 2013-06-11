@@ -29,7 +29,7 @@ Snowfall 1.2.1.jar
 AdvancedMachines_1.5.2.zip
 AdvancedPowerManagement-1.2.68-IC2-1.115.jar
 appeng-rv10-n.zip
-AssemblyLine_v0.3.5.142.jar
+AssemblyLine_v0.3.5.144.jar
 Atomic_Science_v0.5.3.51.jar
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 BiblioCraft[v1.2.3].zip
@@ -50,14 +50,14 @@ ElectricExpansion_v2.3.0.51.jar
 enhanced-portals_2.1.2.jar
 Extra Doors by Zolandre[Forge][v1.3.1].zip
 Factorization-0.7.37.jar
-FluidMechanics_v0.5.1.99.jar
+FluidMechanics_v0.5.1.100.jar
 forestry-A-2.2.6.3.jar
 Frames-1.5.2-5.0.zip
 GregsLighting-1.8.1-7.jar
 HangableMaps_v1.5.2_1_MC1.5.2.zip
-ICBM_Contraption_v1.2.0.130.jar
-ICBM_Explosion_v1.2.0.130.jar
-ICBM_Sentry_v1.2.0.130.jar
+ICBM_Contraption_v1.2.0.131.jar
+ICBM_Explosion_v1.2.0.131.jar
+ICBM_Sentry_v1.2.0.131.jar
 iChunUtil1.0.1.zip
 immibis-core-55.1.3.jar
 immibis-peripherals-55.0.1.jar
@@ -71,8 +71,8 @@ Lanterns_1.3.4_Universal.zip
 Mekanism-v5.5.6.76.jar
 MekanismGenerators-v5.5.6.76.jar
 MekanismTools-v5.5.6.76.jar
-MFFS_v3.0.2.124.jar
-MineChem_v3.0.0.196.jar
+MFFS_v3.0.2.129.jar
+MineChem_v3.0.0.198.jar
 MineFactoryReloaded-2.6.2-924.jar
 MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
