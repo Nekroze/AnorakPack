@@ -13,7 +13,7 @@ def Define():
 @[1.5.2]TreeCapitator.Forge.1.5.2.r01.Uni.CoreMod.jar
 Chemcraft Core 1.3.0.jar
 CodeChickenCore_0.8.6.12.jar
-CoFHCore-1.5.2.2.jar
+CoFHCore-1.5.2.4.jar
 Galacticraft-1.5.2-a0.1.35.300.jar
 immibis-microblocks-55.0.1.jar
 @MultiMine_1.5.2.jar
@@ -85,7 +85,7 @@ MoreGlowstone v1.0 (1.5.2).zip
 Mutant_Creatures_v1.3.4_mc1.5.2.zip
 Natura_2.0.21.jar
 NetherOres-2.1.5-75.jar
-OmniTools-3.1.4.0.jar
+OmniTools-3.1.5.0.jar
 OpenCCSensors-1.5.2.0.jar
 OpenPeripheral-0.0.7.jar
 OpenXP-0.0.6.jar
@@ -103,6 +103,7 @@ SimplyHorses_1.5.2_pre6.3.zip
 SkullForge.zip
 StevesCarts2.0.0.a117.zip
 TConstruct_1.3.3.15.jar
+ThermalExpansion-2.4.4.1.jar
 TurretMod_v3.0.1.jar
 UpdateCheckerMod_1.5.2.zip
 UsefulFood-1.5.1_1.4.2-universal.zip
