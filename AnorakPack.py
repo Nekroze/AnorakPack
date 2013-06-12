@@ -52,6 +52,13 @@ FluidMechanics_v0.5.1.100.jar
 forestry-A-2.2.6.3.jar
 Frames-1.5.2-5.0.zip
 GregsLighting-1.8.1-7.jar
+growthcraft-apples-1.5.2-4.0.zip
+growthcraft-core-1.5.2-1.0.zip
+growthcraft-core-booze-1.5.2-1.1.zip
+growthcraft-fishnet-1.5.2-4.1.zip
+growthcraft-flowers-1.5.2-5.2.zip
+growthcraft-grapes-1.5.2-4.0.zip
+growthcraft-hops-1.5.2-2.0.zip
 HangableMaps_v1.5.2_1_MC1.5.2.zip
 ICBM_Contraption_v1.2.0.131.jar
 ICBM_Explosion_v1.2.0.131.jar
