@@ -124,7 +124,6 @@ data/config
 	Anorak.client_coremods += """
 @CustomPortForge.jar
 DynamicLights_1.5.2.jar
-ShoulderSurfing_1.4.0_1.5.2_COREMOD.jar
 """
 
 	Anorak.client_mods += """
