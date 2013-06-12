@@ -28,7 +28,6 @@ Snowfall 1.2.1.jar
 1.5.2_Jammy_Furniture_Mod_V4.4.zip
 1.5.2BetterBreeding.zip
 appeng-rv10-n.zip
-AssemblyLine_v0.3.5.144.jar
 Atomic_Science_v0.5.3.51.jar
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 BiblioCraft[v1.2.3].zip
