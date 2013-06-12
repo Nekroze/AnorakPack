@@ -35,7 +35,7 @@ BiblioCraft[v1.2.3].zip
 Carpenter's_Slope_v1.25_-_MC_1.5+.zip
 ChickenChunks 1.3.2.12.jar
 chisel-1.5.2-1.4.4.jar
-ComplexMachines_v0.3.3.92.jar
+ComplexMachines_v0.3.3.93.jar
 ComputerCraft1.53.zip
 ConfigMod_for_MC_v1.5.2.zip
 coral-reef-universal-1.5.2-r2.zip
@@ -59,9 +59,9 @@ growthcraft-flowers-1.5.2-5.2.zip
 growthcraft-grapes-1.5.2-4.0.zip
 growthcraft-hops-1.5.2-2.0.zip
 HangableMaps_v1.5.2_1_MC1.5.2.zip
-ICBM_Contraption_v1.2.0.131.jar
-ICBM_Explosion_v1.2.0.131.jar
-ICBM_Sentry_v1.2.0.131.jar
+ICBM_Contraption_v1.2.0.133.jar
+ICBM_Explosion_v1.2.0.133.jar
+ICBM_Sentry_v1.2.0.133.jar
 iChunUtil1.0.1.zip
 immibis-core-55.1.3.jar
 immibis-peripherals-55.0.1.jar
@@ -74,7 +74,7 @@ Mekanism-v5.5.6.76.jar
 MekanismGenerators-v5.5.6.76.jar
 MekanismTools-v5.5.6.76.jar
 MFFS_v3.0.3.129.jar
-MineChem_v3.0.0.198.jar
+MineChem_v3.0.0.214.jar
 MineFactoryReloaded-2.6.2-924.jar
 MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
