@@ -1,6 +1,6 @@
 from pakpak import Modpack
 
-forge = "minecraftforge-universal-1.5.2-7.8.0.725.zip"
+forge = "minecraftforge-universal-1.5.2-7.8.0.734.zip"
 server = "minecraft_server_1.5.2.jar"
 
 Anorak = Modpack(forge, server)
