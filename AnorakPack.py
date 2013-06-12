@@ -18,7 +18,7 @@ denLib-1.5.2-3.0.14.jar
 Galacticraft-1.5.2-a0.1.35.300.jar
 immibis-microblocks-55.0.1.jar
 @MultiMine_1.5.2.jar
-NotEnoughItems_1.5.2.28.jar
+NotEnoughItems 1.5.2.28.jar
 PowerCrystalsCore-1.1.6-107.jar
 @StalkerCreepers_1.5.2.jar
 Snowfall 1.2.1.jar
@@ -33,7 +33,7 @@ Atomic_Science_v0.5.3.51.jar
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 BiblioCraft[v1.2.3].zip
 Carpenter's_Slope_v1.25_-_MC_1.5+.zip
-ChickenChunks_1.3.2.12.jar
+ChickenChunks 1.3.2.12.jar
 chisel-1.5.2-1.4.4.jar
 ComplexMachines_v0.3.3.92.jar
 ComputerCraft1.53.zip
