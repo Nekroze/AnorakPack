@@ -43,7 +43,6 @@ CoroAI_for_MC_v1.5.2.zip
 DimensionalDoors-1.5.2R1.3.6RC1-71.zip
 Dungeon Mobs v2.6.0.zip
 @DungeonPack 1.5.2 v3 Universal.zip
-ElectricExpansion_v2.3.0.51.jar
 enhanced-portals_2.1.2.jar
 extra-bees-1.6-pre13.jar
 Extra Doors by Zolandre[Forge][v1.3.1].zip
