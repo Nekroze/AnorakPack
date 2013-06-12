@@ -47,7 +47,6 @@ enhanced-portals_2.1.2.jar
 extra-bees-1.6-pre13.jar
 Extra Doors by Zolandre[Forge][v1.3.1].zip
 Factorization-0.7.37.jar
-FluidMechanics_v0.5.1.100.jar
 forestry-A-2.2.6.3.jar
 Frames-1.5.2-5.0.zip
 GregsLighting-1.8.1-7.jar

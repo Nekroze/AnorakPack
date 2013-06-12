@@ -127,7 +127,6 @@ TODO
  - Message all mod authors for permissions
  - Review if turretmod is unbalancing
  - Update Modlist
- - Evaluate need for Fluid Mechnics. May be redundant with mekanism and MFR pumps and mekanism tubes.
  
 Changelog
 =========
