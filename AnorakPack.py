@@ -10,14 +10,14 @@ Anorak.server += forge
 def Define():
 	#UNIVERSAL
 	Anorak.universal_coremods += """
-@[1.5.2]TreeCapitator.Forge.1.5.2.r01.Uni.CoreMod.jar
+[1.5.2]TreeCapitator.Forge.1.5.2.r01.Uni.CoreMod.jar
 Chemcraft Core 1.3.0.jar
 CodeChickenCore 0.8.7.jar
 CoFHCore-1.5.2.4.jar
 denLib-1.5.2-3.0.14.jar
 Galacticraft-1.5.2-a0.1.35.309.jar
 immibis-microblocks-55.0.1.jar
-@MultiMine_1.5.2.jar
+MultiMine_1.5.2.jar
 NotEnoughItems 1.5.2.28.jar
 PowerCrystalsCore-1.1.6-107.jar
 @StalkerCreepers_1.5.2.jar
@@ -42,7 +42,7 @@ coral-reef-universal-1.5.2-r2.zip
 CoroAI_for_MC_v1.5.2.zip
 DimensionalDoors-1.5.2R1.3.6RC1-71.zip
 Dungeon Mobs v2.6.0.zip
-@DungeonPack 1.5.2 v3 Universal.zip
+DungeonPack 1.5.2 v3 Universal.zip
 enhanced-portals_2.1.2.jar
 extra-bees-1.6-pre13.jar
 Extra Doors by Zolandre[Forge][v1.3.1].zip
@@ -122,7 +122,7 @@ data/config
 
 	#CLIENT
 	Anorak.client_coremods += """
-@CustomPortForge.jar
+CustomPortForge.jar
 DynamicLights_1.5.2.jar
 """
 
@@ -130,7 +130,7 @@ DynamicLights_1.5.2.jar
 [1.5.2]_Mouse_Tweaks_1.2.zip
 [1.5.2]StatusEffectHUDv1.10.zip
 ExtendedRenderer_for_MC_v1.5.2.zip
-@HUDini_152_019d.zip
+HUDini_152_019d.zip
 InventoryTweaks-1.54b.jar
 neiaddons-1.5.2-1.7.r17.jar
 NEIPlugins-1.0.9.1a.jar
@@ -153,7 +153,7 @@ data/HUDini.conf
 
 	#SERVER
 	Anorak.server_coremods += """
-@forgebackup-universal-coremod-1.5.2-1.1.2.98.jar
+forgebackup-universal-coremod-1.5.2-1.1.2.98.jar
 """
 
 	Anorak.server_mods += """
