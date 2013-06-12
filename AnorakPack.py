@@ -39,6 +39,7 @@ ComputerCraft1.53.zip
 ConfigMod_for_MC_v1.5.2.zip
 coral-reef-universal-1.5.2-r2.zip
 CoroAI_for_MC_v1.5.2.zip
+CraftHeraldry 1.0.1.zip
 DimensionalDoors-1.5.2R1.3.6RC1-71.zip
 Dungeon Mobs v2.6.0.zip
 DungeonPack 1.5.2 v3 Universal.zip
