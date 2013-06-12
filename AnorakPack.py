@@ -105,6 +105,7 @@ SimplyHorses_1.5.2_pre6.3.zip
 SkullForge.zip
 StevesCarts2.0.0.a117.zip
 TConstruct_1.3.3.15.jar
+ThermalExpansion-2.4.4.1.jar
 TurretMod_v3.0.1.jar
 UpdateCheckerMod_1.5.2.zip
 UsefulFood-1.5.1_1.4.2-universal.zip
