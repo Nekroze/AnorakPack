@@ -27,8 +27,6 @@ Snowfall 1.2.1.jar
 	Anorak.universal_mods += """
 1.5.2_Jammy_Furniture_Mod_V4.4.zip
 1.5.2BetterBreeding.zip
-AdvancedMachines_1.5.2.zip
-AdvancedPowerManagement-1.2.68-IC2-1.115.jar
 appeng-rv10-n.zip
 AssemblyLine_v0.3.5.144.jar
 Atomic_Science_v0.5.3.51.jar
@@ -37,15 +35,12 @@ BiblioCraft[v1.2.3].zip
 Carpenter's_Slope_v1.25_-_MC_1.5+.zip
 ChickenChunks_1.3.2.12.jar
 chisel-1.5.2-1.4.4.jar
-CompactWindmills+v.1.0.1.3.jar
 ComplexMachines_v0.3.3.92.jar
 ComputerCraft1.53.zip
 ConfigMod_for_MC_v1.5.2.zip
 coral-reef-universal-1.5.2-r2.zip
 CoroAI_for_MC_v1.5.2.zip
-@CustomMobSpawner 2.2.2.zip
 DimensionalDoors-1.5.2R1.3.6RC1-71.zip
-@DrZharks MoCreatures Mod v5.2.3.zip
 Dungeon Mobs v2.6.0.zip
 @DungeonPack 1.5.2 v3 Universal.zip
 ElectricExpansion_v2.3.0.51.jar
@@ -65,8 +60,6 @@ iChunUtil1.0.1.zip
 immibis-core-55.1.3.jar
 immibis-peripherals-55.0.1.jar
 Improved_Mob_Spawn_1.4.0.zip
-industrialcraft-2_1.115.340-lf.jar
-industrialcraft2comboarmors-1.14.1.zip
 InfernalMobs_1.5.2.zip
 invasion_mod_0.11.7.zip
 ironchest-universal-1.5.2-5.2.6.425.zip
@@ -82,8 +75,6 @@ miscperipherals-3.3.jar
 ModularPowersuits-0.7.0-534.jar
 MPSA-0.2.3-144_MPS-531+.jar
 More Pistons - 1.5.2 - 1.3.3 build Smeagol.zip
-mod_AdvancedSolarPanels_3_3_7.zip
-mod_zGraviSuite_1_9_2.zip
 MoreGlowstone v1.0 (1.5.2).zip
 Mutant_Creatures_v1.3.4_mc1.5.2.zip
 Natura_2.0.21.jar
@@ -129,7 +120,6 @@ data/config
 @CustomPortForge.jar
 DynamicLights_1.5.2.jar
 ShoulderSurfing_1.4.0_1.5.2_COREMOD.jar
-@GuiAPI-0.15.6-1.5.2.jar
 """
 
 	Anorak.client_mods += """
