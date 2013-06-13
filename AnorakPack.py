@@ -47,6 +47,7 @@ DungeonPack 1.5.2 v3 Universal.zip
 DynamicElevators-Universal-v2.0.0.4.zip
 EmasherCore-1.6.0.zip
 enhanced-portals_2.1.2.jar
+ExtrabiomesXL-universal-1.5.2-3.13.4.jar
 Extra Doors by Zolandre[Forge][v1.3.1].zip
 Factorization-0.7.37.jar
 Frames-1.5.2-5.0.zip
@@ -71,7 +72,6 @@ InfernalMobs_1.5.2.zip
 invasion_mod_0.11.7.zip
 ironchest-universal-1.5.2-5.2.6.425.zip
 KBI Tinkers Construct Recovery Addon 1.2.1.zip
-Lanterns_1.3.4_Universal.zip
 Mekanism-v5.5.6.76.jar
 MekanismGenerators-v5.5.6.76.jar
 MekanismTools-v5.5.6.76.jar
