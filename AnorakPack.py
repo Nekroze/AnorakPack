@@ -30,7 +30,7 @@ Snowfall 1.2.1.jar
 appeng-rv10-n.zip
 Atomic_Science_v0.5.3.51.jar
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
-BiblioCraft[v1.2.3].zip
+BiblioCraft[v1.3.1].zip
 Carpenter's_Slope_v1.25_-_MC_1.5+.zip
 ChickenChunks 1.3.2.12.jar
 chisel-1.5.2-1.4.4.jar
