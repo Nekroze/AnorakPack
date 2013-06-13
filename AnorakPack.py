@@ -40,15 +40,19 @@ ConfigMod_for_MC_v1.5.2.zip
 coral-reef-universal-1.5.2-r2.zip
 CoroAI_for_MC_v1.5.2.zip
 CraftHeraldry 1.0.1.zip
+Defense-1.4.1.zip
 DimensionalDoors-1.5.2R1.3.6RC1-71.zip
 Dungeon Mobs v2.6.0.zip
 DungeonPack 1.5.2 v3 Universal.zip
+DynamicElevators-Universal-v2.0.0.4.zip
+EmasherCore-1.6.0.zip
 enhanced-portals_2.1.2.jar
 extra-bees-1.6-pre13.jar
 Extra Doors by Zolandre[Forge][v1.3.1].zip
 Factorization-0.7.37.jar
 forestry-A-2.2.6.3.jar
 Frames-1.5.2-5.0.zip
+GasCraft-1.6.1.zip
 GregsLighting-1.8.1-7.jar
 growthcraft-apples-1.5.2-4.0.zip
 growthcraft-core-1.5.2-1.0.zip
@@ -101,6 +105,7 @@ Securecraft 1.1.0.zip
 SGCraft-0.5.1-mc1.5.1.jar
 SimplyHorses_1.5.2_pre6.3.zip
 SkullForge.zip
+SlimevoidLib-Universal-v2.0.1.1.zip
 StevesCarts2.0.0.a117.zip
 TConstruct_1.3.3.15.jar
 TurretMod_v3.0.1.jar
