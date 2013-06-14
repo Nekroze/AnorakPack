@@ -72,12 +72,12 @@ InfernalMobs_1.5.2.zip
 invasion_mod_0.11.7.zip
 ironchest-universal-1.5.2-5.2.6.425.zip
 KBI Tinkers Construct Recovery Addon 1.2.1.zip
-Mekanism-v5.5.6.76.jar
-MekanismGenerators-v5.5.6.76.jar
-MekanismTools-v5.5.6.76.jar
+Mekanism-v5.5.6.79.jar
+MekanismGenerators-v5.5.6.79.jar
+MekanismTools-v5.5.6.79.jar
 MFFS_v3.0.3.129.jar
-MineChem_v3.0.0.214.jar
-MineFactoryReloaded-2.6.2-924.jar
+MineChem_v3.0.0.216.jar
+MineFactoryReloaded-2.6.3-969.jar
 MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
 ModularPowersuits-0.7.0-534.jar
