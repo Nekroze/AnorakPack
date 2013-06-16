@@ -76,7 +76,7 @@ MekanismGenerators-v5.5.6.82.jar
 MekanismTools-v5.5.6.82.jar
 MFFS_v3.0.3.129.jar
 MineChem_v3.0.0.225.jar
-MineFactoryReloaded-2.6.3-969.jar
+MineFactoryReloaded-2.6.3-9675.jar
 MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
 ModularPowersuits-0.7.0-537.jar
