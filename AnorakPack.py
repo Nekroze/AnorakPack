@@ -111,7 +111,7 @@ SAP_ManPack_v142.jar
 SecretRoomsMod-universal-4.6.0.283.zip
 @Securecraft 1.1.0.zip
 SGCraft-0.5.1-mc1.5.1.jar
-SimplyHorses_1.5.2_pre6.3.zip
+@SimplyHorses_1.5.2_pre6.3.zip
 @SkullForge.zip
 SlimevoidLib-Universal-v2.0.1.1.zip
 StevesCarts2.0.0.a117.zip
