@@ -72,7 +72,7 @@ GregsLighting-1.8.1-7.jar
 ICBM_Contraption_v1.2.0.134.jar
 ICBM_Explosion_v1.2.0.134.jar
 ICBM_Sentry_v1.2.0.134.jar
-iChunUtil1.0.1.zip
+@iChunUtil1.0.1.zip
 immibis-core-55.1.3.jar
 immibis-peripherals-55.0.1.jar
 Improved_Mob_Spawn_1.4.0.zip
@@ -103,7 +103,7 @@ OpenXP-0.0.6.jar
 @Panicle_Craft-v1.0.0.4c.zip
 PChan3_mods_0.6(1.5.X).zip
 PluginsforForestry-1.5.2-3.0.16.jar
-PortalGun1.5.2.zip
+@PortalGun1.5.2.zip
 Railcraft_1.5.2-7.2.1.0.jar
 @RancraftPengForge_v152l.zip
 Rotten_Flesh_To_Leather_MC_1.5.2.zip
