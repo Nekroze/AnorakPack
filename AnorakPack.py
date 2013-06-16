@@ -15,7 +15,7 @@ Chemcraft Core 1.3.0.jar
 CodeChickenCore 0.8.7.jar
 CoFHCore-1.5.2.4.jar
 denLib-1.5.2-3.0.14.jar
-Galacticraft-1.5.2-a0.1.35.309.jar
+Galacticraft-1.5.2-a0.1.35.315.jar
 immibis-microblocks-55.0.1.jar
 MultiMine_1.5.2.jar
 NotEnoughItems 1.5.2.28.jar
@@ -34,7 +34,7 @@ BiblioCraft[v1.3.1].zip
 Carpenter's_Slope_v1.25_-_MC_1.5+.zip
 ChickenChunks 1.3.2.12.jar
 chisel-1.5.2-1.4.4.jar
-ComplexMachines_v0.3.3.93.jar
+ComplexMachines_v0.3.3.96.jar
 ComputerCraft1.53.zip
 ConfigMod_for_MC_v1.5.2.zip
 coral-reef-universal-1.5.2-r2.zip
@@ -60,9 +60,9 @@ growthcraft-flowers-1.5.2-5.2.zip
 growthcraft-grapes-1.5.2-4.0.zip
 growthcraft-hops-1.5.2-2.0.zip
 HangableMaps_v1.5.2_1_MC1.5.2.zip
-ICBM_Contraption_v1.2.0.133.jar
-ICBM_Explosion_v1.2.0.133.jar
-ICBM_Sentry_v1.2.0.133.jar
+ICBM_Contraption_v1.2.0.134.jar
+ICBM_Explosion_v1.2.0.134.jar
+ICBM_Sentry_v1.2.0.134.jar
 iChunUtil1.0.1.zip
 immibis-core-55.1.3.jar
 immibis-peripherals-55.0.1.jar
@@ -71,15 +71,15 @@ InfernalMobs_1.5.2.zip
 invasion_mod_0.11.7.zip
 ironchest-universal-1.5.2-5.2.6.425.zip
 KBI Tinkers Construct Recovery Addon 1.2.1.zip
-Mekanism-v5.5.6.79.jar
-MekanismGenerators-v5.5.6.79.jar
-MekanismTools-v5.5.6.79.jar
+Mekanism-v5.5.6.782.jar
+MekanismGenerators-v5.5.6.82.jar
+MekanismTools-v5.5.6.82.jar
 MFFS_v3.0.3.129.jar
-MineChem_v3.0.0.216.jar
+MineChem_v3.0.0.225.jar
 MineFactoryReloaded-2.6.3-969.jar
 MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
-ModularPowersuits-0.7.0-534.jar
+ModularPowersuits-0.7.0-537.jar
 MPSA-0.2.3-144_MPS-531+.jar
 More Pistons - 1.5.2 - 1.3.3 build Smeagol.zip
 MoreGlowstone v1.0 (1.5.2).zip
