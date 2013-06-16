@@ -44,6 +44,7 @@ CoroAI_for_MC_v1.5.2.zip
 CraftHeraldry 1.0.1.zip
 Defense-1.4.1.zip
 DenPipes-1.5.2-2.0.4.jar
+DenPipes-Forestry-1.5.2-1.0.1.jar
 DimensionalDoors-1.5.2R1.3.6RC1-71.zip
 Dungeon Mobs v2.6.0.zip
 DungeonPack 1.5.2 v3 Universal.zip
@@ -52,6 +53,7 @@ EmasherCore-1.6.0.zip
 enhanced-portals_2.1.2.jar
 Extra Doors by Zolandre[Forge][v1.3.1].zip
 Factorization-0.7.37.jar
+forestry-A-2.2.6.3.jar
 Frames-1.5.2-5.0.zip
 GasCraft-1.6.1.zip
 GateCopy-1.5.2-3.0.2.jar
@@ -98,6 +100,7 @@ OpenXP-0.0.6.jar
 Painter's_Flower_Pot_v1.56_-_MC_1.5+.zip
 Panicle_Craft-v1.0.0.4b.zip
 PChan3_mods_0.6(1.5.X).zip
+PluginsforForestry-1.5.2-3.0.16.jar
 PortalGun1.5.2.zip
 Railcraft_1.5.2-7.2.1.0.jar
 RancraftPengForge_v152l.zip
