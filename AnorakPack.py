@@ -142,7 +142,7 @@ data/config
     #CLIENT
     Anorak.client_coremods += """
 CustomPortForge.jar
-DynamicLights_1.5.2.jar
+@DynamicLights_1.5.2.jar
 """
 
     Anorak.client_mods += """
