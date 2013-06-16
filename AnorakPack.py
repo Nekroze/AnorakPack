@@ -89,6 +89,7 @@ MineFactoryReloaded-2.6.4-975.jar
 MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
 ModularPowersuits-0.7.0-537.jar
+More Backpacks 2.1.1.zip
 MPSA-0.2.3-144_MPS-531+.jar
 More Pistons - 1.5.2 - 1.3.3 build Smeagol.zip
 @MoreGlowstone v1.0 (1.5.2).zip
