@@ -122,6 +122,10 @@ Useful_Storage_(5-5)_v.1.8.1.zip
 Wallpaper-1.5.2-5.0.zip
 Weather_v1.5_Mod_for_MC_v1.5.2.zip
 WildCaves3-0.4.2.zip
+WirelessRedstone-Universal-v1.7.zip
+WirelessRedstone-PowerConfig-v1.0.zip
+WirelessRedstone-Remote-v2.1.zip
+WirelessRedstone-SlimeVoidAdditions-v1.0.zip
 Zombie Awareness v1.85 Mod for MC v1.5.2.zip
 [1.5.2]BetterStorage_0.6.1.18.zip
 [1.5.2]bspkrsCorev2.04.zip
