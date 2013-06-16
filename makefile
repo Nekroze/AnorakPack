@@ -1,7 +1,7 @@
 SHELL := /bin/bash
-PRIVATE=TRUE
-ifeq ($(PRIVATE),TRUE)
-	VERSION=0.1.0Pb
+LITE=TRUE
+ifeq ($(LITE),TRUE)
+	VERSION=0.1.0Lb
 else
 	VERSION=0.1.0b
 endif
