@@ -78,12 +78,12 @@ invasion_mod_0.11.7.zip
 ironchest-universal-1.5.2-5.2.6.425.zip
 KBI Tinkers Construct Recovery Addon 1.2.1.zip
 LogisticsPipes-MC1.5.2-0.7.3.dev.524.jar
-Mekanism-v5.5.6.782.jar
+Mekanism-v5.5.6.82.jar
 MekanismGenerators-v5.5.6.82.jar
 MekanismTools-v5.5.6.82.jar
 MFFS_v3.0.3.129.jar
 MineChem_v3.0.0.225.jar
-MineFactoryReloaded-2.6.3-9675.jar
+MineFactoryReloaded-2.6.4-975.jar
 MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
 ModularPowersuits-0.7.0-537.jar
