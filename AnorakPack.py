@@ -51,6 +51,7 @@ DungeonPack 1.5.2 v3 Universal.zip
 DynamicElevators-Universal-v2.0.0.4.zip
 EmasherCore-1.6.0.zip
 enhanced-portals_2.1.2.jar
+extra-bees-1.6-pre13.jar
 Extra Doors by Zolandre[Forge][v1.3.1].zip
 Factorization-0.7.37.jar
 forestry-A-2.2.6.3.jar
