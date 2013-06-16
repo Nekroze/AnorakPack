@@ -31,6 +31,8 @@ appeng-rv10-n.zip
 Atomic_Science_v0.5.3.51.jar
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 BiblioCraft[v1.3.1].zip
+buildcraft-A-3.6.0.jar
+buildcraft-Z-additional-buildcraft-objects-1.0.4.150.jar
 Carpenter's_Slope_v1.25_-_MC_1.5+.zip
 ChickenChunks 1.3.2.12.jar
 chisel-1.5.2-1.4.4.jar
@@ -41,6 +43,7 @@ coral-reef-universal-1.5.2-r2.zip
 CoroAI_for_MC_v1.5.2.zip
 CraftHeraldry 1.0.1.zip
 Defense-1.4.1.zip
+DenPipes-1.5.2-2.0.4.jar
 DimensionalDoors-1.5.2R1.3.6RC1-71.zip
 Dungeon Mobs v2.6.0.zip
 DungeonPack 1.5.2 v3 Universal.zip
@@ -51,6 +54,7 @@ Extra Doors by Zolandre[Forge][v1.3.1].zip
 Factorization-0.7.37.jar
 Frames-1.5.2-5.0.zip
 GasCraft-1.6.1.zip
+GateCopy-1.5.2-3.0.2.jar
 GregsLighting-1.8.1-7.jar
 growthcraft-apples-1.5.2-4.0.zip
 growthcraft-core-1.5.2-1.0.zip
@@ -71,6 +75,7 @@ InfernalMobs_1.5.2.zip
 invasion_mod_0.11.7.zip
 ironchest-universal-1.5.2-5.2.6.425.zip
 KBI Tinkers Construct Recovery Addon 1.2.1.zip
+LogisticsPipes-MC1.5.2-0.7.3.dev.524.jar
 Mekanism-v5.5.6.782.jar
 MekanismGenerators-v5.5.6.82.jar
 MekanismTools-v5.5.6.82.jar
