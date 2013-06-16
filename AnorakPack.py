@@ -43,7 +43,7 @@ ConfigMod_for_MC_v1.5.2.zip
 @coral-reef-universal-1.5.2-r2.zip
 CoroAI_for_MC_v1.5.2.zip
 @CraftHeraldry 1.0.1.zip
-Defense-1.4.1.zip
+@Defense-1.4.1.zip
 DenPipes-1.5.2-2.0.4.jar
 DenPipes-Forestry-1.5.2-1.0.1.jar
 DimensionalDoors-1.5.2R1.4.0RC1-144.zip
