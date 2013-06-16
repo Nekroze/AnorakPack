@@ -46,7 +46,7 @@ CoroAI_for_MC_v1.5.2.zip
 Defense-1.4.1.zip
 DenPipes-1.5.2-2.0.4.jar
 DenPipes-Forestry-1.5.2-1.0.1.jar
-DimensionalDoors-1.5.2R1.3.6RC1-71.zip
+DimensionalDoors-1.5.2R1.4.0RC1-144.zip
 Dungeon Mobs v2.6.0.zip
 @DungeonPack 1.5.2 v3 Universal.zip
 DynamicElevators-Universal-v2.0.0.4.zip
@@ -59,6 +59,7 @@ forestry-A-2.2.6.3.jar
 @Frames-1.5.2-5.0.zip
 GasCraft-1.6.1.zip
 GateCopy-1.5.2-3.0.2.jar
+@GraveStone 2.1.0.zip
 GregsLighting-1.8.1-7.jar
 growthcraft-apples-1.5.2-4.0.zip
 growthcraft-core-1.5.2-1.0.zip
