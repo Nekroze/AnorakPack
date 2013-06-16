@@ -1,12 +1,14 @@
 SHELL := /bin/bash
-LITE=TRUE
-ifeq ($(LITE),TRUE)
-	VERSION=0.1.0Lb
+PACKNAME=AnorakPack
+VERSION=0.1.0b
+LITE=false
+ifeq ($(LITE),false)
+	PACKDIST=${PACKNAME}-${VERSION}
 else
-	VERSION=0.1.0b
+	PACKDIST=${PACKNAME}Lite-${VERSION}
 endif
-CLIENTZIP=releases/AnorakPack-${VERSION}-client.zip
-SERVERZIP=releases/AnorakPack-${VERSION}-server.zip
+CLIENTZIP=releases/${PACKDIST}-client.zip
+SERVERZIP=releases/${PACKDIST}-server.zip
 PUBLIC=/cygdrive/g/Dropbox/Public/${notdir ${CLIENTZIP}}
 
 
@@ -20,16 +22,16 @@ server: ${SERVERZIP}
 
 ${CLIENTZIP}: build/client/bin/modpack.jar
 	@mkdir -p releases
-	@rm -f $@
+	@rm -rf $@
 	cd build/client && zip -rq ../../$@ ./*
 
 build/client/bin/modpack.jar: AnorakPack.py $(shell find components/data -print0 -type f)
-	@rm -rf build
+	@rm -rf
 	python $< ${LITE}
 
 ${SERVERZIP}: build/server/server.jar
 	@mkdir -p releases
-	@rm -f $@
+	@rm -rf $@
 	cd build/server && zip -rq ../../$@ ./*
 
 build/server/server.jar: ${CLIENTZIP}

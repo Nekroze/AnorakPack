@@ -8,8 +8,8 @@ Anorak.server += forge
 
 
 def Define():
-	#UNIVERSAL
-	Anorak.universal_coremods += """
+    #UNIVERSAL
+    Anorak.universal_coremods += """
 [1.5.2]TreeCapitator.Forge.1.5.2.r01.Uni.CoreMod.jar
 Chemcraft Core 1.3.0.jar
 CodeChickenCore 0.8.7.jar
@@ -24,7 +24,7 @@ PowerCrystalsCore-1.1.6-107.jar
 @Snowfall 1.2.1.jar
 """
 
-	Anorak.universal_mods += """
+    Anorak.universal_mods += """
 1.5.2_Jammy_Furniture_Mod_V4.4.zip
 @1.5.2BetterBreeding.zip
 appeng-rv10-n.zip
@@ -133,17 +133,17 @@ WirelessRedstone-SlimeVoidAdditions-v1.0.zip
 [1.5.2]ProjectBench-v1.7.5.zip
 """
 
-	Anorak.universal_data += """
+    Anorak.universal_data += """
 data/config
 """
 
-	#CLIENT
-	Anorak.client_coremods += """
+    #CLIENT
+    Anorak.client_coremods += """
 CustomPortForge.jar
 DynamicLights_1.5.2.jar
 """
 
-	Anorak.client_mods += """
+    Anorak.client_mods += """
 [1.5.2]_Mouse_Tweaks_1.2.zip
 [1.5.2]StatusEffectHUDv1.10.zip
 ExtendedRenderer_for_MC_v1.5.2.zip
@@ -155,37 +155,37 @@ ZansMinimap1.5.2.zip
 data/VoxelMods
 """
 
-	Anorak.client_data += """
+    Anorak.client_data += """
 data/options.txt
 data/optionsof.txt
 data/HUDini.conf
 """
 
-	Anorak.modpack += """
+    Anorak.modpack += """
 fps15.zip
 NoInfiniteWaterMC152.zip
 NoLightUpdateLagMC152.zip
 @BACR v4 MC1,5,2.zip
 """
 
-	#SERVER
-	Anorak.server_coremods += """
+    #SERVER
+    Anorak.server_coremods += """
 forgebackup-universal-coremod-1.5.2-1.1.2.98.jar
 """
 
-	Anorak.server_mods += """
+    Anorak.server_mods += """
 Dynmap-1.7.1-forge-7.8.0.jar
 """
 
-	Anorak.server += """
+    Anorak.server += """
 NoInfiniteWaterMC152.zip
 """
 
 if __name__ == "__main__":
-	#CONSTRUCT
-	import sys
-	if len(sys.argv) > 1:
-		if sys.argv[1].lower() == "false":
-			Anorak.skipable(False)
-	Define()
-	Anorak.construct()
+    #CONSTRUCT
+    import sys
+    if len(sys.argv) > 1:
+        if sys.argv[1].lower() != "false":
+            Anorak.skipable(False)
+    Define()
+    Anorak.construct()
