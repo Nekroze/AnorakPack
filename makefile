@@ -25,7 +25,7 @@ ${CLIENTZIP}: build/client/bin/modpack.jar
 
 build/client/bin/modpack.jar: AnorakPack.py $(shell find components/data -print0 -type f)
 	@rm -rf build
-	python $< ${PRIVATE}
+	python $< ${LITE}
 
 ${SERVERZIP}: build/server/server.jar
 	@mkdir -p releases
