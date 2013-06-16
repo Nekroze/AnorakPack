@@ -25,7 +25,7 @@ PowerCrystalsCore-1.1.6-107.jar
 """
 
     Anorak.universal_mods += """
-1.5.2_Jammy_Furniture_Mod_V4.4.zip
+@1.5.2_Jammy_Furniture_Mod_V4.4.zip
 @1.5.2BetterBreeding.zip
 appeng-rv10-n.zip
 AssemblyLine_v0.3.5.144.jar
@@ -34,9 +34,9 @@ BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 BiblioCraft[v1.3.1].zip
 buildcraft-A-3.6.0.jar
 buildcraft-Z-additional-buildcraft-objects-1.0.4.150.jar
-Carpenter's_Slope_v1.25_-_MC_1.5+.zip
+@Carpenter's_Slope_v1.25_-_MC_1.5+.zip
 ChickenChunks 1.3.2.12.jar
-chisel-1.5.2-1.4.4.jar
+@chisel-1.5.2-1.4.4.jar
 ComplexMachines_v0.3.3.96.jar
 ComputerCraft1.53.zip
 ConfigMod_for_MC_v1.5.2.zip
@@ -47,27 +47,27 @@ Defense-1.4.1.zip
 DenPipes-1.5.2-2.0.4.jar
 DenPipes-Forestry-1.5.2-1.0.1.jar
 DimensionalDoors-1.5.2R1.4.0RC1-144.zip
-Dungeon Mobs v2.6.0.zip
+@Dungeon Mobs v2.6.0.zip
 @DungeonPack 1.5.2 v3 Universal.zip
 DynamicElevators-Universal-v2.0.0.4.zip
-EmasherCore-1.6.0.zip
+@EmasherCore-1.6.0.zip
 enhanced-portals_2.1.2.jar
 extra-bees-1.6-pre13.jar
 @Extra Doors by Zolandre[Forge][v1.3.1].zip
 Factorization-0.7.37.jar
 forestry-A-2.2.6.3.jar
 @Frames-1.5.2-5.0.zip
-GasCraft-1.6.1.zip
+@GasCraft-1.6.1.zip
 GateCopy-1.5.2-3.0.2.jar
 @GraveStone 2.1.0.zip
 GregsLighting-1.8.1-7.jar
-growthcraft-apples-1.5.2-4.0.zip
-growthcraft-core-1.5.2-1.0.zip
-growthcraft-core-booze-1.5.2-1.1.zip
-growthcraft-fishnet-1.5.2-4.1.zip
-growthcraft-flowers-1.5.2-5.2.zip
-growthcraft-grapes-1.5.2-4.0.zip
-growthcraft-hops-1.5.2-2.0.zip
+@growthcraft-apples-1.5.2-4.0.zip
+@growthcraft-core-1.5.2-1.0.zip
+@growthcraft-core-booze-1.5.2-1.1.zip
+@growthcraft-fishnet-1.5.2-4.1.zip
+@growthcraft-flowers-1.5.2-5.2.zip
+@growthcraft-grapes-1.5.2-4.0.zip
+@growthcraft-hops-1.5.2-2.0.zip
 @HangableMaps_v1.5.2_1_MC1.5.2.zip
 ICBM_Contraption_v1.2.0.134.jar
 ICBM_Explosion_v1.2.0.134.jar
@@ -76,7 +76,7 @@ iChunUtil1.0.1.zip
 immibis-core-55.1.3.jar
 immibis-peripherals-55.0.1.jar
 Improved_Mob_Spawn_1.4.0.zip
-InfernalMobs_1.5.2.zip
+@InfernalMobs_1.5.2.zip
 @invasion_mod_0.11.7.zip
 ironchest-universal-1.5.2-5.2.6.425.zip
 LogisticsPipes-MC1.5.2-0.7.3.dev.524.jar
@@ -100,7 +100,7 @@ OpenCCSensors-1.5.2.0.jar
 OpenPeripheral-0.0.7.jar
 OpenXP-0.0.6.jar
 @Painter's_Flower_Pot_v1.56_-_MC_1.5+.zip
-Panicle_Craft-v1.0.0.4c.zip
+@Panicle_Craft-v1.0.0.4c.zip
 PChan3_mods_0.6(1.5.X).zip
 PluginsforForestry-1.5.2-3.0.16.jar
 PortalGun1.5.2.zip
