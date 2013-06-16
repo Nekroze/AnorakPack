@@ -47,7 +47,6 @@ DungeonPack 1.5.2 v3 Universal.zip
 DynamicElevators-Universal-v2.0.0.4.zip
 EmasherCore-1.6.0.zip
 enhanced-portals_2.1.2.jar
-ExtrabiomesXL-universal-1.5.2-3.13.4.jar
 Extra Doors by Zolandre[Forge][v1.3.1].zip
 Factorization-0.7.37.jar
 Frames-1.5.2-5.0.zip
@@ -117,6 +116,7 @@ WildCaves3-0.4.2.zip
 Zombie Awareness v1.85 Mod for MC v1.5.2.zip
 [1.5.2]BetterStorage_0.6.1.18.zip
 [1.5.2]bspkrsCorev2.04.zip
+[1.5.2]ProjectBench-v1.7.5.zip
 """
 
 	Anorak.universal_data += """
