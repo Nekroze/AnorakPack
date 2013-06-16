@@ -52,24 +52,14 @@ key_key.inventory:18
 key_key.chat:20
 key_key.playerlist:15
 key_key.pickItem:-98
-key_Zoom:29
 key_key.command:53
 key_key.tarmor:24
-key_ALT Key:56
-key_Boost Key:29
-key_Mode Switch Key:47
-key_Side Inventory Key:35
-key_Gravi Fly Key:33
 key_FZ Bag of Holding:41
 key_FZ Pocket Crafting Table:45
 key_FZ Exo1:79
 key_FZ Exo2:80
 key_FZ Exo3:81
 key_turretmod3.keys.turretShoot:33
-key_Camera adj left:203
-key_Camera adj right:205
-key_Camera adj closer:200
-key_Camera adj farther:208
 key_Dynamic Lights toggle:25
 key_[GC] Galaxy Map:50
 key_[GC] Open Spaceship Inventory:33
@@ -85,7 +75,6 @@ key_HUDini Modifier:15
 key_HUDini Menu:64
 key_HUDini Text Edit:40
 key_HUDini Commands:46
-key_IC2CA Upgrades Key:21
 key_Open MPS Keybind GUI:37
 key_Go Down (MPS Flight Control):44
 key_Cycle Tool Backward (MPS):-1
@@ -105,6 +94,10 @@ key_Spawner Lasso: Mode:50
 key_Spawner Lasso: Toggle Entity Action:37
 key_Lasso: Mode:50
 key_FZ vanilla sprint:0
+key_OpenAirshipChest:19
+key_AirshipUp:57
+key_AirshipDown:42
+key_AirshipFire:33
 key_Locomotive Faster Key:52
 key_Locmotive Slower Key:51
 key_Locmotive Mode Key:50
