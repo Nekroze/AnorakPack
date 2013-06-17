@@ -192,11 +192,11 @@ worldgen {
 ####################
 
 "worldgen disabler" {
-    B:"Add Village Generation"=true
+    B:"Add Village Generation"=false
     B:"Generate Aluminum"=true
     B:"Generate Aluminum Bushes"=false
     B:"Generate Cobalt and Ardite"=true
-    B:"Generate Copper"=false
+    B:"Generate Copper"=true
     B:"Generate Copper Bushes"=false
     B:"Generate Gold Bushes"=false
     B:"Generate Iron Bushes"=false
@@ -206,7 +206,7 @@ worldgen {
     B:"Generate Surface Gold"=false
     B:"Generate Surface Iron"=false
     B:"Generate Surface Tin"=false
-    B:"Generate Tin"=false
+    B:"Generate Tin"=true
     B:"Generate Tin Bushes"=false
 }
 
