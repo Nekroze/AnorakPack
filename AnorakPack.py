@@ -103,7 +103,7 @@ OpenXP-0.0.6.jar
 @Painter's_Flower_Pot_v1.56_-_MC_1.5+.zip
 @Panicle_Craft-v1.0.0.4c.zip
 PChan3_mods_0.6(1.5.X).zip
-PluginsforForestry-1.5.2-3.0.16.jar
+PluginsforForestry-1.5.2-3.0.17.jar
 @PortalGun1.5.2.zip
 Railcraft_1.5.2-7.2.1.0.jar
 @RancraftPengForge_v152l.zip
