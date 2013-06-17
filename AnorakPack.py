@@ -149,7 +149,7 @@ CustomPortForge.jar
 [1.5.2]_Mouse_Tweaks_1.2.zip
 [1.5.2]StatusEffectHUDv1.10.zip
 ExtendedRenderer_for_MC_v1.5.2.zip
-HUDini_152_019d.zip
+HUDini_0-1-93_152.zip
 InventoryTweaks-1.54b.jar
 neiaddons-1.5.2-1.7.r17.jar
 NEIPlugins-1.0.9.1a.jar
