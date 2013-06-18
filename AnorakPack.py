@@ -88,6 +88,7 @@ More Backpacks 2.1.1.zip
 MPSA-0.2.3-144_MPS-531+.jar
 @MoreGlowstone v1.0 (1.5.2).zip
 Natura_2.0.21.jar
+Necromancy-1.2-1.5.2.jar
 NetherOres-2.1.5-75.jar
 OmniTools-3.1.5.0.jar
 OpenCCSensors-1.5.2.0.jar
