@@ -31,7 +31,7 @@ appeng-rv11-a.zip
 AssemblyLine_v0.3.5.144.jar
 Atomic_Science_v0.5.3.51.jar
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
-BiblioCraft[v1.3.1].zip
+@BiblioCraft[v1.3.1].zip
 buildcraft-A-3.6.0.jar
 buildcraft-Z-additional-buildcraft-objects-1.0.4.150.jar
 @Carpenter's_Slope_v1.25_-_MC_1.5+.zip
