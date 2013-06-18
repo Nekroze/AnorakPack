@@ -48,14 +48,11 @@ DenPipes-1.5.2-2.0.4.jar
 DenPipes-Forestry-1.5.2-1.0.1.jar
 DimensionalDoors-1.5.2R1.4.0RC1-144.zip
 @Dungeon Mobs v2.6.0.zip
-@DungeonPack 1.5.2 v3 Universal.zip
 @EmasherCore-1.6.0.zip
 enhanced-portals_2.1.2.jar
 extra-bees-1.6-pre13.jar
-@Extra Doors by Zolandre[Forge][v1.3.1].zip
 Factorization-0.7.37.jar
 forestry-A-2.2.8.1.jar
-@Frames-1.5.2-5.0.zip
 @GasCraft-1.6.1.zip
 GateCopy-1.5.2-3.0.2.jar
 @GraveStone 2.1.0.zip
@@ -91,14 +88,12 @@ ModularPowersuits-0.7.0-537.jar
 More Backpacks 2.1.1.zip
 MPSA-0.2.3-144_MPS-531+.jar
 @MoreGlowstone v1.0 (1.5.2).zip
-@Mutant_Creatures_v1.3.4_mc1.5.2.zip
 Natura_2.0.21.jar
 NetherOres-2.1.5-75.jar
 OmniTools-3.1.5.0.jar
 OpenCCSensors-1.5.2.0.jar
 OpenPeripheral-0.0.7.jar
 OpenXP-0.0.6.jar
-@Painter's_Flower_Pot_v1.56_-_MC_1.5+.zip
 @Panicle_Craft-v1.0.0.4c.zip
 PChan3_mods_0.6(1.5.X).zip
 PluginsforForestry-1.5.2-3.0.17.jar
@@ -120,7 +115,6 @@ ThermalExpansion-2.4.4.1.jar
 @UpdateCheckerMod_1.5.2.zip
 @UsefulFood-1.5.1_1.4.2-universal.zip
 @Useful_Storage_(5-5)_v.1.8.1.zip
-@Wallpaper-1.5.2-5.0.zip
 @Weather_v1.5_Mod_for_MC_v1.5.2.zip
 @WildCaves3-0.4.2.zip
 WirelessRedstone-Universal-v1.7.zip
