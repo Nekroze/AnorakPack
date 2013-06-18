@@ -90,7 +90,6 @@ miscperipherals-3.3.jar
 ModularPowersuits-0.7.0-537.jar
 More Backpacks 2.1.1.zip
 MPSA-0.2.3-144_MPS-531+.jar
-More Pistons - 1.5.2 - 1.3.3 build Smeagol.zip
 @MoreGlowstone v1.0 (1.5.2).zip
 @Mutant_Creatures_v1.3.4_mc1.5.2.zip
 Natura_2.0.21.jar
