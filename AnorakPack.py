@@ -124,7 +124,6 @@ WirelessRedstone-SlimeVoidAdditions-v1.0.zip
 Zombie Awareness v1.85 Mod for MC v1.5.2.zip
 [1.5.2]BetterStorage_0.6.1.18.zip
 [1.5.2]bspkrsCorev2.04.zip
-[1.5.2]ProjectBench-v1.7.5.zip
 """
 
     Anorak.universal_data += """
