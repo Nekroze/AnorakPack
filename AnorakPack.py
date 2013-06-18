@@ -155,7 +155,6 @@ data/HUDini.conf
 """
 
     Anorak.modpack += """
-noVoidFogNoDimming152.zip
 fps15.zip
 NoInfiniteWaterMC152.zip
 NoLightUpdateLagMC152.zip
