@@ -54,7 +54,7 @@ enhanced-portals_2.1.2.jar
 extra-bees-1.6-pre13.jar
 @Extra Doors by Zolandre[Forge][v1.3.1].zip
 Factorization-0.7.37.jar
-forestry-A-2.2.6.3.jar
+forestry-A-2.2.8.1.jar
 @Frames-1.5.2-5.0.zip
 @GasCraft-1.6.1.zip
 GateCopy-1.5.2-3.0.2.jar
