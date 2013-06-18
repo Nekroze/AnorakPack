@@ -47,7 +47,7 @@ CoroAI_for_MC_v1.5.2.zip
 DenPipes-1.5.2-2.0.4.jar
 DenPipes-Forestry-1.5.2-1.0.1.jar
 DimensionalDoors-1.5.2R1.4.0RC1-144.zip
-@Dungeon Mobs v2.6.0.zip
+Dungeon Mobs v2.6.0.zip
 @EmasherCore-1.6.0.zip
 enhanced-portals_2.1.2.jar
 extra-bees-1.6-pre13.jar
@@ -112,7 +112,7 @@ StevesCarts2.0.0.a117.zip
 TConstruct_1.3.4.3.jar
 ThermalExpansion-2.4.4.1.jar
 @TurretMod_v3.0.1.jar
-@UpdateCheckerMod_1.5.2.zip
+UpdateCheckerMod_1.5.2.zip
 @UsefulFood-1.5.1_1.4.2-universal.zip
 @Useful_Storage_(5-5)_v.1.8.1.zip
 @Weather_v1.5_Mod_for_MC_v1.5.2.zip
@@ -121,7 +121,7 @@ WirelessRedstone-Universal-v1.7.zip
 WirelessRedstone-PowerConfig-v1.0.zip
 WirelessRedstone-Remote-v2.1.zip
 WirelessRedstone-SlimeVoidAdditions-v1.0.zip
-@Zombie Awareness v1.85 Mod for MC v1.5.2.zip
+Zombie Awareness v1.85 Mod for MC v1.5.2.zip
 [1.5.2]BetterStorage_0.6.1.18.zip
 [1.5.2]bspkrsCorev2.04.zip
 [1.5.2]ProjectBench-v1.7.5.zip
