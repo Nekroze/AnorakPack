@@ -50,7 +50,7 @@ DimensionalDoors-1.5.2R1.4.0RC1-144.zip
 Dungeon Mobs v2.6.0.zip
 @EmasherCore-1.6.0.zip
 enhanced-portals_2.1.2.jar
-extra-bees-1.6-pre13.jar
+extra-bees-1.6-pre14b.jar
 Factorization-0.7.37.jar
 forestry-A-2.2.8.1.jar
 @GasCraft-1.6.1.zip
