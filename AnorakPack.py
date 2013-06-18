@@ -49,6 +49,7 @@ DenPipes-Forestry-1.5.2-1.0.1.jar
 DimensionalDoors-1.5.2R1.4.0RC1-144.zip
 Dungeon Mobs v2.6.0.zip
 @EmasherCore-1.6.0.zip
+EnderStorage 1.4.2.12.jar
 enhanced-portals_2.1.2.jar
 extra-bees-1.6-pre14b.jar
 Factorization-0.7.37.jar
@@ -154,6 +155,7 @@ data/HUDini.conf
 """
 
     Anorak.modpack += """
+noVoidFogNoDimming152.zip
 fps15.zip
 NoInfiniteWaterMC152.zip
 NoLightUpdateLagMC152.zip
