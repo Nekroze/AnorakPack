@@ -75,7 +75,7 @@ Improved_Mob_Spawn_1.4.0.zip
 @InfernalMobs_1.5.2.zip
 @invasion_mod_0.11.7.zip
 @ironchest-universal-1.5.2-5.2.6.425.zip
-LogisticsPipes-MC1.5.2-0.7.3.dev.524.jar
+@LogisticsPipes-MC1.5.2-0.7.3.dev.524.jar
 Mekanism-v5.5.6.82.jar
 MekanismGenerators-v5.5.6.82.jar
 MekanismTools-v5.5.6.82.jar
