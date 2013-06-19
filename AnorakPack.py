@@ -25,17 +25,17 @@ PowerCrystalsCore-1.1.6-107.jar
 """
 
     Anorak.universal_mods += """
-@1.5.2_Jammy_Furniture_Mod_V4.4.zip
+1.5.2_Jammy_Furniture_Mod_V4.4.zip
 @1.5.2BetterBreeding.zip
 appeng-rv11-b.zip
 Atomic_Science_v0.6.0.58.jar
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
-@BiblioCraft[v1.3.1].zip
+BiblioCraft[v1.3.1].zip
 buildcraft-A-3.6.0.jar
 buildcraft-Z-additional-buildcraft-objects-1.0.4.150.jar
-@Carpenter's_Slope_v1.25_-_MC_1.5+.zip
+Carpenter's_Slope_v1.25_-_MC_1.5+.zip
 ChickenChunks 1.3.2.12.jar
-@chisel-1.5.2-1.4.4.jar
+chisel-1.5.2-1.4.4.jar
 ComplexMachines_v0.3.3.97.jar
 ComputerCraft1.53.zip
 ConfigMod_for_MC_v1.5.2.zip
@@ -67,12 +67,12 @@ GregsLighting-1.8.1-7.jar
 ICBM_Contraption_v1.2.0.136.jar
 ICBM_Explosion_v1.2.0.136.jar
 ICBM_Sentry_v1.2.0.136.jar
-@iChunUtil1.0.1.zip
+iChunUtil1.0.1.zip
 immibis-core-55.1.3.jar
 immibis-peripherals-55.0.1.jar
 Improved_Mob_Spawn_1.4.0.zip
 @InfernalMobs_1.5.2.zip
-@invasion_mod_0.11.7.zip
+invasion_mod_0.11.7.zip
 @ironchest-universal-1.5.2-5.2.6.425.zip
 Mekanism-v5.5.6.82.jar
 MekanismGenerators-v5.5.6.82.jar
@@ -87,36 +87,36 @@ More Backpacks 2.1.1.zip
 MPSA-0.2.3-144_MPS-531+.jar
 @MoreGlowstone v1.0 (1.5.2).zip
 Natura_2.0.21.jar
-@Necromancy-1.2-1.5.2.jar
+Necromancy-1.2-1.5.2.jar
 NetherOres-2.1.5-75.jar
 OmniTools-3.1.5.0.jar
 OpenCCSensors-1.5.2.0.jar
 OpenPeripheral-0.0.7.jar
 OpenXP-0.0.6.jar
-@Panicle_Craft-v1.0.0.4c.zip
+Panicle_Craft-v1.0.0.4c.zip
 PChan3_mods_0.6(1.5.X).zip
 PluginsforForestry-1.5.2-3.0.17.jar
-@PortalGun1.5.2.zip
+PortalGun1.5.2.zip
 Railcraft_1.5.2-7.2.1.0.jar
 @RancraftPengForge_v152l.zip
 Rotten_Flesh_To_Leather_MC_1.5.2.zip
 SAP_ManPack_v142.jar
 SecretRoomsMod-universal-4.6.0.283.zip
-@Securecraft 1.1.0.zip
+Securecraft 1.1.0.zip
 SGCraft-0.5.1-mc1.5.1.jar
 @SimplyHorses_1.5.2_pre6.3.zip
-@SkullForge.zip
+SkullForge.zip
 SlimevoidLib-Universal-v2.0.1.1.zip
 StevesCarts2.0.0.a117.zip
 @taverns-17-Jun-2013.zip
 TConstruct_1.3.4.3.jar
 ThermalExpansion-2.4.4.1.jar
-@TurretMod_v3.0.1.jar
+TurretMod_v3.0.1.jar
 UpdateCheckerMod_1.5.2.zip
 @UsefulFood-1.5.1_1.4.2-universal.zip
-@Useful_Storage_(5-5)_v.1.8.1.zip
+Useful_Storage_(5-5)_v.1.8.1.zip
 @Weather_v1.5_Mod_for_MC_v1.5.2.zip
-@WildCaves3-0.4.2.zip
+WildCaves3-0.4.2.zip
 WirelessRedstone-Universal-v1.7.zip
 WirelessRedstone-PowerConfig-v1.0.zip
 WirelessRedstone-Remote-v2.1.zip
