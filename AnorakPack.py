@@ -17,7 +17,7 @@ CoFHCore-1.5.2.4.jar
 denLib-1.5.2-3.0.14.jar
 Galacticraft-1.5.2-a0.1.35.323.jar
 immibis-microblocks-55.0.1.jar
-@MultiMine_1.5.2.jar
+MultiMine_1.5.2.jar
 NotEnoughItems 1.5.2.28.jar
 PowerCrystalsCore-1.1.6-107.jar
 @StalkerCreepers_1.5.2.jar
@@ -73,7 +73,7 @@ immibis-peripherals-55.0.1.jar
 Improved_Mob_Spawn_1.4.0.zip
 @InfernalMobs_1.5.2.zip
 invasion_mod_0.11.7.zip
-@ironchest-universal-1.5.2-5.2.6.425.zip
+ironchest-universal-1.5.2-5.2.6.425.zip
 Mekanism-v5.5.6.82.jar
 MekanismGenerators-v5.5.6.82.jar
 MekanismTools-v5.5.6.82.jar
@@ -116,7 +116,7 @@ UpdateCheckerMod_1.5.2.zip
 @UsefulFood-1.5.1_1.4.2-universal.zip
 Useful_Storage_(5-5)_v.1.8.1.zip
 @Weather_v1.5_Mod_for_MC_v1.5.2.zip
-WildCaves3-0.4.2.zip
+@WildCaves3-0.4.2.zip
 WirelessRedstone-Universal-v1.7.zip
 WirelessRedstone-PowerConfig-v1.0.zip
 WirelessRedstone-Remote-v2.1.zip
