@@ -51,6 +51,7 @@ DimensionalDoors-1.5.2R1.4.0RC1-144.zip
 EnderStorage 1.4.2.12.jar
 enhanced-portals_2.1.2.jar
 extra-bees-1.6-pre14b.jar
+ExtraCells-universal-1.2.1d.jar
 Factorization-0.7.37.jar
 forestry-A-2.2.8.1.jar
 @GasCraft-1.6.1.zip
@@ -99,6 +100,7 @@ PluginsforForestry-1.5.2-3.0.17.jar
 PortalGun1.5.2.zip
 Railcraft_1.5.2-7.2.1.0.jar
 @RancraftPengForge_v152l.zip
+redstonebook_0.1.0_1.5.2.zip
 Rotten_Flesh_To_Leather_MC_1.5.2.zip
 SAP_ManPack_v142.jar
 SecretRoomsMod-universal-4.6.0.283.zip
