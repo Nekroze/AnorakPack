@@ -17,7 +17,7 @@ CoFHCore-1.5.2.4.jar
 denLib-1.5.2-3.0.14.jar
 Galacticraft-1.5.2-a0.1.35.323.jar
 immibis-microblocks-55.0.1.jar
-MultiMine_1.5.2.jar
+@MultiMine_1.5.2.jar
 NotEnoughItems 1.5.2.28.jar
 PowerCrystalsCore-1.1.6-107.jar
 @StalkerCreepers_1.5.2.jar
