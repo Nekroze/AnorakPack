@@ -134,7 +134,7 @@ data/config
     #CLIENT
     Anorak.client_coremods += """
 CustomPortForge.jar
-@DynamicLights_1.5.2.jar
+DynamicLights_1.5.2.jar
 """
 
     Anorak.client_mods += """
@@ -158,7 +158,7 @@ data/HUDini.conf
 fps15.zip
 NoInfiniteWaterMC152.zip
 NoLightUpdateLagMC152.zip
-@BACR v4 MC1,5,2.zip
+BACR v4 MC1,5,2.zip
 """
 
     #SERVER
