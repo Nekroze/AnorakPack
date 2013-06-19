@@ -100,7 +100,6 @@ PluginsforForestry-1.5.2-3.0.17.jar
 PortalGun1.5.2.zip
 Railcraft_1.5.2-7.2.1.0.jar
 @RancraftPengForge_v152l.zip
-redstonebook_0.1.0_1.5.2.zip
 Rotten_Flesh_To_Leather_MC_1.5.2.zip
 SAP_ManPack_v142.jar
 SecretRoomsMod-universal-4.6.0.283.zip
