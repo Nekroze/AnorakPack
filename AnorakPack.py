@@ -93,7 +93,7 @@ OmniTools-3.1.5.0.jar
 OpenCCSensors-1.5.2.0.jar
 OpenPeripheral-0.0.7.jar
 OpenXP-0.0.6.jar
-Panicle_Craft-v1.0.0.4c.zip
+@Panicle_Craft-v1.0.0.4c.zip
 PChan3_mods_0.6(1.5.X).zip
 PluginsforForestry-1.5.2-3.0.17.jar
 PortalGun1.5.2.zip
@@ -114,7 +114,7 @@ ThermalExpansion-2.4.4.1.jar
 TurretMod_v3.0.1.jar
 UpdateCheckerMod_1.5.2.zip
 @UsefulFood-1.5.1_1.4.2-universal.zip
-Useful_Storage_(5-5)_v.1.8.1.zip
+@Useful_Storage_(5-5)_v.1.8.1.zip
 @Weather_v1.5_Mod_for_MC_v1.5.2.zip
 @WildCaves3-0.4.2.zip
 WirelessRedstone-Universal-v1.7.zip
