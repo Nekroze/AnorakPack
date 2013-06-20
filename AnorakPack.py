@@ -111,7 +111,7 @@ SlimevoidLib-Universal-v2.0.1.1.zip
 StevesCarts2.0.0.a117.zip
 @taverns-17-Jun-2013.zip
 TConstruct_1.3.4.3.jar
-ThermalExpansion-2.4.4.1.jar
+@ThermalExpansion-2.4.4.1.jar
 @TurretMod_v3.0.1.jar
 UpdateCheckerMod_1.5.2.zip
 @UsefulFood-1.5.1_1.4.2-universal.zip
