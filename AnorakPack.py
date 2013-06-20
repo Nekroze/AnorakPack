@@ -54,6 +54,7 @@ extra-bees-1.6-pre14b.jar
 ExtraCells-universal-1.2.1d.jar
 Factorization-0.7.37.jar
 forestry-A-2.2.8.1.jar
+FlatBedrock-1.1.1-32.jar
 @GasCraft-1.6.1.zip
 GateCopy-1.5.2-3.0.2.jar
 GregsLighting-1.8.1-7.jar
