@@ -33,7 +33,7 @@ BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 BiblioCraft[v1.3.1].zip
 buildcraft-A-3.6.0.jar
 buildcraft-Z-additional-buildcraft-objects-1.0.4.150.jar
-@Carpenter's_Slope_v1.25_-_MC_1.5+.zip
+Carpenter's_Slope_v1.25_-_MC_1.5+.zip
 ChickenChunks 1.3.2.12.jar
 chisel-1.5.2-1.4.4.jar
 ComplexMachines_v0.3.3.103.jar
@@ -96,7 +96,7 @@ OmniTools-3.1.5.0.jar
 OpenCCSensors-1.5.2.0.jar
 OpenPeripheral-0.0.7.jar
 @OpenXP-0.0.6.jar
-@Panicle_Craft-v1.0.0.4c.zip
+Panicle_Craft-v1.0.0.4c.zip
 PChan3_mods_0.6(1.5.X).zip
 PluginsforForestry-1.5.2-3.0.17.jar
 PortalGun1.5.2.zip
@@ -111,13 +111,13 @@ SGCraft-0.5.1-mc1.5.1.jar
 SkullForge.zip
 SlimevoidLib-Universal-v2.0.1.1.zip
 StevesCarts2.0.0.a117.zip
-@taverns-17-Jun-2013.zip
+taverns-17-Jun-2013.zip
 TConstruct_1.3.4.3.jar
 ThermalExpansion-2.4.4.1.jar
 @TurretMod_v3.0.1.jar
 UpdateCheckerMod_1.5.2.zip
 @UsefulFood-1.5.1_1.4.2-universal.zip
-@Useful_Storage_(5-5)_v.1.8.1.zip
+Useful_Storage_(5-5)_v.1.8.1.zip
 @Weather_v1.5_Mod_for_MC_v1.5.2.zip
 @WildCaves3-0.4.2.zip
 WirelessRedstone-Universal-v1.7.zip
