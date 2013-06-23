@@ -10,7 +10,6 @@ Anorak.server += forge
 def Define():
     #UNIVERSAL
     Anorak.universal_coremods += """
-[1.5.2]TreeCapitator.Forge.1.5.2.r01.Uni.CoreMod.jar
 Chemcraft Core 1.3.0.jar
 CodeChickenCore 0.8.7.jar
 CoFHCore-1.5.2.4.jar
