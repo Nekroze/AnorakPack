@@ -59,7 +59,8 @@ key_FZ Pocket Crafting Table:45
 key_FZ Exo1:79
 key_FZ Exo2:80
 key_FZ Exo3:81
-key_turretmod3.keys.turretShoot:33
+key_Shoot Normal Tear:33
+key_Shoot Blood Tear:34
 key_Dynamic Lights toggle:25
 key_[GC] Galaxy Map:50
 key_[GC] Open Spaceship Inventory:33
@@ -70,7 +71,6 @@ key_[GC] Vehicle Left Key:30
 key_[GC] Vehicle Right Key:32
 key_[GC] Vehicle Up Key:57
 key_[GC] Vehicle Down Key:42
-key_Coral Reef GUI:62
 key_HUDini Modifier:15
 key_HUDini Menu:64
 key_HUDini Text Edit:40
@@ -82,17 +82,6 @@ key_Cycle Tool Forward (MPS):-1
 key_Zoom (MPS):21
 key_Cosmetic (MPS):38
 key_Change OneWayBlock face:43
-key_Mounted Walk On:17
-key_Mounted Reign-In:31
-key_Mounted Left:30
-key_Mounted Right:32
-key_Mounted Hard-Stop:42
-key_Mounted Jump:57
-key_Take the Reigns!:19
-key_Change Seats:33
-key_Spawner Lasso: Mode:50
-key_Spawner Lasso: Toggle Entity Action:37
-key_Lasso: Mode:50
 key_FZ vanilla sprint:0
 key_OpenAirshipChest:19
 key_AirshipUp:57
