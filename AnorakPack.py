@@ -77,6 +77,7 @@ Improved_Mob_Spawn_1.4.0.zip
 @InfernalMobs_1.5.2.zip
 invasion_mod_0.11.7.zip
 ironchest-universal-1.5.2-5.2.6.425.zip
+KBI Tinkers Construct Recovery Addon 1.2.1.zip
 Mekanism-v5.5.6.84.jar
 MekanismGenerators-v5.5.6.84.jar
 MekanismTools-v5.5.6.84.jar
@@ -112,7 +113,7 @@ SkullForge.zip
 SlimevoidLib-Universal-v2.0.1.1.zip
 StevesCarts2.0.0.a117.zip
 taverns-17-Jun-2013.zip
-TConstruct_1.3.4.3.jar
+TConstruct_1.3.6.jar
 ThermalExpansion-2.4.4.1.jar
 @TurretMod_v3.0.1.jar
 UpdateCheckerMod_1.5.2.zip
