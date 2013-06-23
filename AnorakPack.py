@@ -31,7 +31,7 @@ appeng-rv11-b.zip
 Atomic_Science_v0.6.0.67.jar
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 BiblioCraft[v1.3.1].zip
-buildcraft-A-3.6.0.jar
+buildcraft-A-3.7.1.jar
 buildcraft-Z-additional-buildcraft-objects-1.0.4.150.jar
 Carpenter's_Slope_v1.25_-_MC_1.5+.zip
 ChickenChunks 1.3.2.12.jar
@@ -54,7 +54,7 @@ enhanced-portals_2.1.2.jar
 extra-bees-1.6-pre14b.jar
 ExtraCells-universal-1.2.1d.jar
 Factorization-0.7.37.jar
-forestry-A-2.2.8.1.jar
+forestry-A-2.2.8.2_1_.jar
 FlatBedrock-1.1.1-32.jar
 @GasCraft-1.6.1.zip
 GateCopy-1.5.2-3.0.2.jar
