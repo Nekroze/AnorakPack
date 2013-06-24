@@ -98,6 +98,7 @@ OpenPeripheral-0.0.7.jar
 @OpenXP-0.0.6.jar
 Panicle_Craft-v1.0.0.4c.zip
 PChan3_mods_0.6(1.5.X).zip
+redlogic-55.2.1.jar
 PluginsforForestry-1.5.2-3.0.17.jar
 PortalGun1.5.2.zip
 Railcraft_1.5.2-7.2.1.0.jar
