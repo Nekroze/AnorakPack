@@ -78,9 +78,9 @@ Improved_Mob_Spawn_1.4.0.zip
 @invasion_mod_0.11.7.zip
 ironchest-universal-1.5.2-5.2.8.433.zip
 KBI Tinkers Construct Recovery Addon 1.2.1.zip
-Mekanism-v5.5.6.87.jar
-MekanismGenerators-v5.5.6.87.jar
-MekanismTools-v5.5.6.87.jar
+Mekanism-v5.5.6.84.jar
+MekanismGenerators-v5.5.6.84.jar
+MekanismTools-v5.5.6.84.jar
 MFFS_v3.0.4.139.jar
 MineChem_v3.0.0.234.jar
 MineFactoryReloaded-2.6.4-975.jar
