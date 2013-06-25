@@ -12,10 +12,10 @@ def Define():
     Anorak.universal_coremods += """
 Chemcraft Core 1.3.0.jar
 CodeChickenCore 0.8.7.jar
-CoFHCore-1.5.2.4.jar
+CoFHCore-1.5.2.5.jar
 denLib-1.5.2-3.0.14.jar
 Galacticraft-1.5.2-a0.1.35.325.jar
-immibis-microblocks-55.0.1.jar
+immibis-microblocks-55.0.4.jar
 @MultiMine_1.5.2.jar
 NotEnoughItems 1.5.2.28.jar
 PowerCrystalsCore-1.1.6-107.jar
@@ -42,8 +42,8 @@ ConfigMod_for_MC_v1.5.2.zip
 @CoroAI_for_MC_v1.5.2.zip
 @CraftHeraldry 1.0.1.zip
 @Defense-1.4.1.zip
-DenPipes-1.5.2-2.0.4.jar
-DenPipes-Forestry-1.5.2-1.0.1.jar
+DenPipes-1.5.2-2.0.7.jar
+DenPipes-Forestry-1.5.2-1.0.3.jar
 @DimensionalDoors-1.5.2R1.4.0RC1-144.zip
 @Dungeon Mobs v2.6.0.zip
 @EmasherCore-1.6.0.zip
@@ -52,13 +52,13 @@ DenPipes-Forestry-1.5.2-1.0.1.jar
 EnderStorage 1.4.2.12.jar
 @enhanced-portals_2.1.2.jar
 extra-bees-1.6-pre14b.jar
-ExtraCells-universal-1.2.1d.jar
+ExtraCells-universal-1.2.2b.jar
 Factorization-0.7.37.jar
 forestry-A-2.2.8.2_1_.jar
 FlatBedrock-1.1.1-32.jar
 @GasCraft-1.6.1.zip
 GateCopy-1.5.2-3.0.2.jar
-GregsLighting-1.8.1-7.jar
+GregsLighting-1.8.1-mc1.5.1.jar
 @growthcraft-apples-1.5.2-4.0.zip
 @growthcraft-core-1.5.2-1.0.zip
 @growthcraft-core-booze-1.5.2-1.1.zip
@@ -71,12 +71,12 @@ ICBM_Contraption_v1.2.0.151.jar
 ICBM_Explosion_v1.2.0.151.jar
 ICBM_Sentry_v1.2.0.151.jar
 iChunUtil1.0.1.zip
-immibis-core-55.1.3.jar
-immibis-peripherals-55.0.1.jar
+immibis-core-55.1.4.jar
+immibis-peripherals-55.0.4.jar
 Improved_Mob_Spawn_1.4.0.zip
 @InfernalMobs_1.5.2.zip
 @invasion_mod_0.11.7.zip
-ironchest-universal-1.5.2-5.2.6.425.zip
+ironchest-universal-1.5.2-5.2.8.433.zip
 KBI Tinkers Construct Recovery Addon 1.2.1.zip
 Mekanism-v5.5.6.84.jar
 MekanismGenerators-v5.5.6.84.jar
@@ -90,21 +90,21 @@ ModularPowersuits-0.7.0-539.jar
 More Backpacks 2.1.1.zip
 MPSA-0.2.3-144_MPS-531+.jar
 @MoreGlowstone v1.0 (1.5.2).zip
-Natura_2.0.21.jar
-Necromancy-1.2-1.5.2.jar
+Natura_2.1.jar
+Necromancy-1.3-1.5.2.jar
 NetherOres-2.1.5-75.jar
-OmniTools-3.1.5.0.jar
+OmniTools-3.1.6.0.jar
 OpenCCSensors-1.5.2.0.jar
 OpenPeripheral-0.0.7.jar
 @OpenXP-0.0.6.jar
 Panicle_Craft-v1.0.0.4c.zip
 PChan3_mods_0.6(1.5.X).zip
-redlogic-55.2.1.jar
-RedstoneInMotion_1.0.0.0_mc1.5.zip
 PluginsforForestry-1.5.2-3.0.17.jar
 PortalGun1.5.2.zip
-Railcraft_1.5.2-7.2.1.0.jar
-@RancraftPengForge_v152l.zip
+Railcraft_1.5.2-7.2.3.0.jar
+@RancraftPengForge_v152l.zi
+redlogic-55.2.1.jar
+RedstoneInMotion_1.0.0.0_mc1.5.zip
 Rotten_Flesh_To_Leather_MC_1.5.2.zip
 SAP_ManPack_v142.jar
 SecretRoomsMod-universal-4.6.0.283.zip
@@ -113,10 +113,10 @@ SGCraft-0.5.1-mc1.5.1.jar
 @SimplyHorses_1.5.2_pre6.3.zip
 SkullForge.zip
 SlimevoidLib-Universal-v2.0.1.1.zip
-StevesCarts2.0.0.a117.zip
+StevesCarts2.0.0.a122.zip
 @taverns-17-Jun-2013.zip
 TConstruct_1.3.6.jar
-ThermalExpansion-2.4.4.1.jar
+ThermalExpansion-2.4.6.0.jar
 @TurretMod_v3.0.1.jar
 UpdateCheckerMod_1.5.2.zip
 @UsefulFood-1.5.1_1.4.2-universal.zip
@@ -148,8 +148,8 @@ DynamicLights_1.5.2.jar
 ExtendedRenderer_for_MC_v1.5.2.zip
 HUDini_0-1-93_152.zip
 InventoryTweaks-1.54b.jar
-neiaddons-1.5.2-1.7.r17.jar
-NEIPlugins-1.0.9.1a.jar
+neiaddons-1.5.2-1.8.0.r23.jar
+NEIPlugins-1.0.9.3.jar
 ZansMinimap1.5.2.zip
 data/VoxelMods
 """
