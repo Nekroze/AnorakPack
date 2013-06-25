@@ -97,7 +97,7 @@ OmniTools-3.1.5.0.jar
 OpenCCSensors-1.5.2.0.jar
 OpenPeripheral-0.0.7.jar
 @OpenXP-0.0.6.jar
-Panicle_Craft-v1.0.0.4c.zip
+@Panicle_Craft-v1.0.0.4c.zip
 PChan3_mods_0.6(1.5.X).zip
 redlogic-55.2.1.jar
 RedstoneInMotion_1.0.0.0_mc1.5.zip
