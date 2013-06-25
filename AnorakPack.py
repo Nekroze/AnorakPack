@@ -32,7 +32,7 @@ BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 BiblioCraft[v1.3.1].zip
 buildcraft-A-3.7.1.jar
 buildcraft-Z-additional-buildcraft-objects-1.0.4.150.jar
-Carpenter's_Slope_v1.25_-_MC_1.5+.zip
+Carpenter's Blocks v1.44 - MC 1.5+.zip
 ChickenChunks 1.3.2.12.jar
 chisel-1.5.2-1.4.4.jar
 ComplexMachines_v0.3.3.103.jar
