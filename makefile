@@ -1,6 +1,6 @@
 SHELL := /bin/bash
 PACKNAME=AnorakPack
-VERSION=0.2
+VERSION=0.3
 LITE=false
 ifeq ($(LITE),false)
 	PACKDIST=${PACKNAME}-${VERSION}
