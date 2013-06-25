@@ -75,7 +75,7 @@ immibis-core-55.1.3.jar
 immibis-peripherals-55.0.1.jar
 Improved_Mob_Spawn_1.4.0.zip
 @InfernalMobs_1.5.2.zip
-invasion_mod_0.11.7.zip
+@invasion_mod_0.11.7.zip
 ironchest-universal-1.5.2-5.2.6.425.zip
 KBI Tinkers Construct Recovery Addon 1.2.1.zip
 Mekanism-v5.5.6.84.jar
