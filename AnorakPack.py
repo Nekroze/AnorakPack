@@ -50,7 +50,7 @@ DenPipes-Forestry-1.5.2-1.0.1.jar
 ElectricExpansion_v2.3.0.51.jar
 Electrodynamics-Alpha-0.1.2.jar
 EnderStorage 1.4.2.12.jar
-enhanced-portals_2.1.2.jar
+@enhanced-portals_2.1.2.jar
 extra-bees-1.6-pre14b.jar
 @ExtraCells-universal-1.2.1d.jar
 Factorization-0.7.37.jar
