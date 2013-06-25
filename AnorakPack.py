@@ -86,9 +86,9 @@ MineChem_v3.0.0.234.jar
 MineFactoryReloaded-2.6.4-975.jar
 MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
-ModularPowersuits-0.7.0-539.jar
+ModularPowersuits-0.7.0-540.jar
 More Backpacks 2.1.1.zip
-MPSA-0.2.3-144_MPS-531+.jar
+MPSA-0.2.3-165_MPS-531+.jar
 @MoreGlowstone v1.0 (1.5.2).zip
 Natura_2.1.jar
 Necromancy-1.3-1.5.2.jar
