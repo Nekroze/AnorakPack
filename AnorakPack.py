@@ -52,7 +52,7 @@ Electrodynamics-Alpha-0.1.2.jar
 EnderStorage 1.4.2.12.jar
 enhanced-portals_2.1.2.jar
 extra-bees-1.6-pre14b.jar
-ExtraCells-universal-1.2.1d.jar
+@ExtraCells-universal-1.2.1d.jar
 Factorization-0.7.37.jar
 forestry-A-2.2.8.2_1_.jar
 FlatBedrock-1.1.1-32.jar
