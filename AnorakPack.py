@@ -14,7 +14,7 @@ Chemcraft Core 1.3.0.jar
 CodeChickenCore 0.8.7.jar
 CoFHCore-1.5.2.5.jar
 denLib-1.5.2-3.0.14.jar
-Galacticraft-1.5.2-a0.1.36.353.jar
+Galacticraft-1.5.2-a0.1.36.355.jar
 immibis-microblocks-55.0.4.jar
 @MultiMine_1.5.2.jar
 NotEnoughItems 1.5.2.28.jar
@@ -35,7 +35,7 @@ buildcraft-Z-additional-buildcraft-objects-1.0.4.150.jar
 Carpenter's Blocks v1.44 - MC 1.5+.zip
 ChickenChunks 1.3.2.12.jar
 chisel-1.5.2-1.4.4.jar
-ComplexMachines_v0.3.3.108.jar
+ComplexMachines_v0.3.3.111.jar
 ComputerCraft1.53.zip
 ConfigMod_for_MC_v1.5.2.zip
 @coral-reef-universal-1.5.2-r2.zip
