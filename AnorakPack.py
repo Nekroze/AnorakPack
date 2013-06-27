@@ -14,7 +14,7 @@ Chemcraft Core 1.3.0.jar
 CodeChickenCore 0.8.7.jar
 CoFHCore-1.5.2.5.jar
 denLib-1.5.2-3.0.14.jar
-Galacticraft-1.5.2-a0.1.36.355.jar
+Galacticraft-1.5.2-a0.1.36.363.jar
 immibis-microblocks-55.0.4.jar
 @MultiMine_1.5.2.jar
 NotEnoughItems 1.5.2.28.jar
