@@ -14,7 +14,7 @@ Chemcraft Core 1.3.0.jar
 CodeChickenCore 0.8.7.jar
 CoFHCore-1.5.2.5.jar
 denLib-1.5.2-3.0.14.jar
-Galacticraft-1.5.2-a0.1.36.363.jar
+Galacticraft-1.5.2-a0.1.36.379.jar
 immibis-microblocks-55.0.4.jar
 @MultiMine_1.5.2.jar
 NotEnoughItems 1.5.2.28.jar
@@ -35,7 +35,7 @@ buildcraft-Z-additional-buildcraft-objects-1.0.4.150.jar
 Carpenter's Blocks v1.44 - MC 1.5+.zip
 ChickenChunks 1.3.2.12.jar
 chisel-1.5.2-1.4.4.jar
-ComplexMachines_v0.3.3.115.jar
+ComplexMachines_v0.3.3.117.jar
 ComputerCraft1.53.zip
 ConfigMod_for_MC_v1.5.2.zip
 @coral-reef-universal-1.5.2-r2.zip
@@ -54,7 +54,7 @@ EnderStorage 1.4.2.12.jar
 extra-bees-1.6-pre14b.jar
 ExtraCells-universal-1.2.2b.jar
 Factorization-0.7.37.jar
-forestry-A-2.2.8.2_1_.jar
+forestry-A-2.2.8.3.jar
 FlatBedrock-1.1.1-32.jar
 @GasCraft-1.6.1.zip
 GateCopy-1.5.2-3.0.2.jar
@@ -78,17 +78,17 @@ Improved_Mob_Spawn_1.4.0.zip
 @invasion_mod_0.11.7.zip
 ironchest-universal-1.5.2-5.2.8.433.zip
 KBI Tinkers Construct Recovery Addon 1.2.1.zip
-Mekanism-v5.5.6.91.jar
-MekanismGenerators-v5.5.6.91.jar
-MekanismTools-v5.5.6.91.jar
-MFFS_v3.1.0.143.jar
+Mekanism-v5.5.6.93.jar
+MekanismGenerators-v5.5.6.93.jar
+MekanismTools-v5.5.6.93.jar
+MFFS_v3.1.0.145.jar
 MineChem_v3.0.0.237.jar
 MineFactoryReloaded-2.6.4-975.jar
 MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
-ModularPowersuits-0.7.0-540.jar
+ModularPowersuits-0.7.1-559.jar
 More Backpacks 2.1.1.zip
-MPSA-0.2.3-165_MPS-531+.jar
+MPSA-0.3.0-174_MPS-555+.jar
 @MoreGlowstone v1.0 (1.5.2).zip
 Natura_2.1.jar
 Necromancy-1.3-1.5.2.jar
