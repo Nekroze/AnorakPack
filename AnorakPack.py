@@ -28,7 +28,7 @@ Atomic_Science_v0.6.0.73.jar
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 @BiblioCraft[v1.3.1].zip
 buildcraft-A-3.7.1.jar
-buildcraft-Z-additional-buildcraft-objects-1.0.4.150.jar
+@buildcraft-Z-additional-buildcraft-objects-1.0.4.150.jar
 @Carpenter's Blocks v1.44 - MC 1.5+.zip
 ChickenChunks 1.3.2.12.jar
 @chisel-1.5.2-1.4.4.jar
@@ -41,12 +41,12 @@ DenPipes-1.5.2-2.0.7.jar
 DenPipes-Forestry-1.5.2-1.0.3.jar
 ElectricExpansion_v2.3.0.51.jar
 EnderStorage 1.4.2.12.jar
-extra-bees-1.6-pre14b.jar
-ExtraCells-universal-1.2.2b.jar
+@extra-bees-1.6-pre14b.jar
+@ExtraCells-universal-1.2.2b.jar
 Factorization-0.7.37.jar
 forestry-A-2.2.8.3.jar
 FlatBedrock-1.1.1-32.jar
-GateCopy-1.5.2-3.0.2.jar
+@GateCopy-1.5.2-3.0.2.jar
 GregsLighting-1.8.1-mc1.5.1.jar
 @HangableMaps_v1.5.2_1_MC1.5.2.zip
 ICBM_Contraption_v1.2.0.155.jar
@@ -65,10 +65,10 @@ MekanismTools-v5.5.6.103.jar
 MFFS_v3.1.0.154.jar
 MineChem_v3.0.0.239.jar
 MineFactoryReloaded-2.6.4-975.jar
-MineForever_0.2.0b.jar
+@MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
 ModularPowersuits-0.7.1-559.jar
-More Backpacks 2.1.1.zip
+@More Backpacks 2.1.1.zip
 MPSA-0.3.0-174_MPS-555+.jar
 Natura_2.1.jar
 @Necromancy-1.3-1.5.2.jar
@@ -81,21 +81,21 @@ PluginsforForestry-1.5.2-3.0.17.jar
 @PortalGun1.5.2.zip
 Railcraft_1.5.2-7.2.3.0.jar
 redlogic-55.3.3.jar
-RedstoneInMotion_1.1.0.0_mc1.5.zip
+@RedstoneInMotion_1.1.0.0_mc1.5.zip
 Rotten_Flesh_To_Leather_MC_1.5.2.zip
 SAP_ManPack_v142.jar
 SecretRoomsMod-universal-4.6.0.283.zip
-Securecraft 1.1.0.zip
+@Securecraft 1.1.0.zip
 SGCraft-0.5.1-mc1.5.1.jar
 SkullForge.zip
 SlimevoidLib-Universal-v2.0.1.1.zip
-StevesCarts2.0.0.a122.zip
+@StevesCarts2.0.0.a122.zip
 @taverns-17-Jun-2013.zip
 TConstruct_1.3.6.jar
 ThermalExpansion-2.4.6.0.jar
 @TurretMod_v3.0.1.jar
 UpdateCheckerMod_1.5.2.zip
-Useful_Storage_(5-5)_v.1.8.1.zip
+@Useful_Storage_(5-5)_v.1.8.1.zip
 @WildCaves3-0.4.2.zip
 WirelessRedstone-Universal-v1.7.zip
 WirelessRedstone-PowerConfig-v1.0.zip
