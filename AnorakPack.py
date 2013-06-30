@@ -15,7 +15,7 @@ CodeChickenCore 0.8.7.jar
 CoFHCore-1.5.2.5.jar
 denLib-1.5.2-3.0.14.jar
 Galacticraft-1.5.2-a0.1.36.402.jar
-immibis-microblocks-55.0.4.jar
+immibis-microblocks-55.0.5.jar
 @MultiMine_1.5.2.jar
 NotEnoughItems 1.5.2.28.jar
 PowerCrystalsCore-1.1.6-107.jar
@@ -71,7 +71,7 @@ ICBM_Contraption_v1.2.0.155.jar
 ICBM_Explosion_v1.2.0.155.jar
 ICBM_Sentry_v1.2.0.155.jar
 iChunUtil1.0.1.zip
-immibis-core-55.1.4.jar
+immibis-core-55.1.5.jar
 immibis-peripherals-55.0.4.jar
 Improved_Mob_Spawn_1.4.0.zip
 @InfernalMobs_1.5.2.zip
@@ -103,8 +103,8 @@ PluginsforForestry-1.5.2-3.0.17.jar
 PortalGun1.5.2.zip
 Railcraft_1.5.2-7.2.3.0.jar
 @RancraftPengForge_v152l.zi
-redlogic-55.2.1.jar
-RedstoneInMotion_1.0.0.0_mc1.5.zip
+redlogic-55.3.3.jar
+RedstoneInMotion_1.1.0.0_mc1.5.zip
 Rotten_Flesh_To_Leather_MC_1.5.2.zip
 SAP_ManPack_v142.jar
 SecretRoomsMod-universal-4.6.0.283.zip
