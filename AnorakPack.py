@@ -6,7 +6,7 @@ server = "minecraft_server_1.5.2.jar"
 Anorak = Modpack(forge, server)
 Anorak.server += forge
 
-
+#Files preceded by '@' are not in the lite version of the modpack
 def Define():
     #UNIVERSAL
     Anorak.universal_coremods += """
