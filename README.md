@@ -127,7 +127,6 @@ TODO
  - Message all mod authors for permissions
  - Review if turretmod is unbalancing
  - Update Modlist
- - Review MapWriter as a replacement for Zans minimap
  
 Changelog
 =========
