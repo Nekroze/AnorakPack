@@ -14,7 +14,7 @@ Chemcraft Core 1.3.0.jar
 CodeChickenCore 0.8.7.3.jar
 CoFHCore-1.5.2.5.jar
 denLib-1.5.2-3.0.14.jar
-Galacticraft-1.5.2-a0.1.36.404.jar
+Galacticraft-1.5.2-a0.1.36.407.jar
 immibis-microblocks-55.0.5.jar
 @MultiMine_1.5.2.jar
 NotEnoughItems 1.5.2.28.jar
@@ -63,7 +63,7 @@ KBI Tinkers Construct Recovery Addon 1.2.1.zip
 Mekanism-v5.5.6.103.jar
 MekanismGenerators-v5.5.6.103.jar
 MekanismTools-v5.5.6.103.jar
-MFFS_v3.1.0.156.jar
+MFFS_v3.1.0.160.jar
 MineChem_v3.0.0.239.jar
 MineFactoryReloaded-2.6.4-975.jar
 @MineForever_0.2.0b.jar
