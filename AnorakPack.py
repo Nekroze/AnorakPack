@@ -72,7 +72,6 @@ ModularPowersuits-0.7.1-559.jar
 @More Backpacks 2.1.1.zip
 MPSA-0.3.0-174_MPS-555+.jar
 Natura_2.1.jar
-@Necromancy-1.3-1.5.2.jar
 NetherOres-2.1.5-75.jar
 OmniTools-3.1.6.0.jar
 OpenCCSensors-1.5.2.0.jar
