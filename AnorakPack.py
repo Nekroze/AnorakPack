@@ -63,14 +63,14 @@ KBI Tinkers Construct Recovery Addon 1.2.1.zip
 Mekanism-v5.5.6.103.jar
 MekanismGenerators-v5.5.6.103.jar
 MekanismTools-v5.5.6.103.jar
-MFFS_v3.1.0.154.jar
+MFFS_v3.1.0.156.jar
 MineChem_v3.0.0.239.jar
 MineFactoryReloaded-2.6.4-975.jar
 @MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
-ModularPowersuits-0.7.1-559.jar
+ModularPowersuits-0.7.1-565.jar
 @More Backpacks 2.1.1.zip
-MPSA-0.3.0-174_MPS-555+.jar
+MPSA-0.3.0-175_MPS-561+.jar
 Natura_2.1.jar
 NetherOres-2.1.5-75.jar
 OmniTools-3.1.6.0.jar
