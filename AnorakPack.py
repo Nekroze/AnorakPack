@@ -143,10 +143,10 @@ forgebackup-universal-coremod-1.5.2-1.1.2.98.jar
 """
 
     Anorak.server_plugins += """
-dynmap-1.7.1.jar	
 """
 
     Anorak.server_mods += """
+Dynmap-1.7.1-forge-7.8.0.jar
 """
 
     Anorak.server += """
