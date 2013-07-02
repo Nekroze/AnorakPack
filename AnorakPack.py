@@ -48,7 +48,6 @@ Factorization-0.7.37.jar
 forestry-A-2.2.8.3.jar
 @GateCopy-1.5.2-3.0.2.jar
 GregsLighting-1.8.1-mc1.5.1.jar
-@HangableMaps_v1.5.2_1_MC1.5.2.zip
 ICBM_Contraption_v1.2.0.155.jar
 ICBM_Explosion_v1.2.0.155.jar
 ICBM_Sentry_v1.2.0.155.jar
