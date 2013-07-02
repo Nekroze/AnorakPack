@@ -99,6 +99,7 @@ WirelessRedstone-PowerConfig-v1.0.zip
 WirelessRedstone-Remote-v2.1.zip
 WirelessRedstone-SlimeVoidAdditions-v1.0.zip
 [1.5.2]bspkrsCorev2.04.zip
+[1.5.2][Forge]Cartographer_1.3.zip
 """
 
     Anorak.universal_data += """
