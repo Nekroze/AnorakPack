@@ -4,7 +4,6 @@ forge = "minecraftforge-universal-1.5.2-7.8.1.737.zip"
 server = "mcpc-plus-1.5.2-R1.1-forge738-B592.jar"
 
 Anorak = Modpack(forge, server)
-Anorak.server += forge
 
 #Files preceded by '@' are not in the lite version of the modpack
 def Define():
