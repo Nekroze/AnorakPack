@@ -24,7 +24,7 @@ PowerCrystalsCore-1.1.6-107.jar
     Anorak.universal_mods += """
 @1.5.2_Jammy_Furniture_Mod_V4.4.zip
 appeng-rv11-b.zip
-Atomic_Science_v0.6.0.73.jar
+Atomic_Science_v0.6.0.74.jar
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 @BiblioCraft[v1.3.1].zip
 @binnie-mods-1.7.0.jar
@@ -48,9 +48,9 @@ Factorization-0.7.37.jar
 forestry-A-2.2.8.3.jar
 @GateCopy-1.5.2-3.0.2.jar
 GregsLighting-1.8.1-mc1.5.1.jar
-ICBM_Contraption_v1.2.0.155.jar
-ICBM_Explosion_v1.2.0.155.jar
-ICBM_Sentry_v1.2.0.155.jar
+ICBM_Contraption_v1.2.1.157.jar
+ICBM_Explosion_v1.2.1.157.jar
+ICBM_Sentry_v1.2.1.157.jar
 iChunUtil1.0.1.zip
 immibis-core-55.1.5.jar
 immibis-peripherals-55.0.4.jar
@@ -61,7 +61,7 @@ KBI Tinkers Construct Recovery Addon 1.2.1.zip
 Mekanism-v5.5.6.103.jar
 MekanismGenerators-v5.5.6.103.jar
 MekanismTools-v5.5.6.103.jar
-MFFS_v3.1.0.160.jar
+MFFS_v3.1.0.162.jar
 MineChem_v3.0.0.239.jar
 MineFactoryReloaded-2.6.4-975.jar
 @MineForever_0.2.0b.jar
