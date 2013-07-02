@@ -10,7 +10,7 @@ Anorak.server += forge
 def Define():
     #UNIVERSAL
     Anorak.universal_coremods += """
-Chemcraft Core 1.3.0.jar
+Chemcraft_Core_1.4.1.jar
 CodeChickenCore 0.8.7.3.jar
 CoFHCore-1.5.2.5.jar
 denLib-1.5.2-3.0.14.jar
@@ -29,14 +29,14 @@ BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 @BiblioCraft[v1.3.1].zip
 buildcraft-A-3.7.1.jar
 @buildcraft-Z-additional-buildcraft-objects-1.0.4.150.jar
-@Carpenter's Blocks v1.44 - MC 1.5+.zip
+@Carpenter's Blocks v1.5 - MC 1.5+.zip
 ChickenChunks 1.3.2.14.jar
 @chisel-1.5.2-1.4.4.jar
 ComplexMachines_v0.3.3.119.jar
 ComputerCraft1.53.zip
 ConfigMod_for_MC_v1.5.2.zip
 @coral-reef-universal-1.5.2-r2.zip
-@CraftHeraldry 1.0.1.zip
+@CraftHeraldry 1.0.2.zip
 DenPipes-1.5.2-2.0.7.jar
 DenPipes-Forestry-1.5.2-1.0.3.jar
 ElectricExpansion_v2.3.0.51.jar
@@ -55,7 +55,7 @@ immibis-core-55.1.5.jar
 immibis-peripherals-55.0.4.jar
 Improved_Mob_Spawn_1.4.0.zip
 @invasion_mod_0.11.7.zip
-ironchest-universal-1.5.2-5.2.8.433.zip
+ironchest-universal-1.5.2-5.2.8.446.zip
 KBI Tinkers Construct Recovery Addon 1.2.1.zip
 Mekanism-v5.5.6.103.jar
 MekanismGenerators-v5.5.6.103.jar
@@ -66,9 +66,9 @@ MineFactoryReloaded-2.6.4-975.jar
 @MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
 ModularPowersuits-0.7.1-565.jar
-@More Backpacks 2.1.1.zip
+@More Backpacks 2.1.4.zip
 MPSA-0.3.0-175_MPS-561+.jar
-Natura_2.1.jar
+Natura_2.1.1.jar
 NetherOres-2.1.5-75.jar
 OmniTools-3.1.6.0.jar
 OpenCCSensors-1.5.2.0.jar
@@ -78,16 +78,16 @@ PluginsforForestry-1.5.2-3.0.17.jar
 @PortalGun1.5.2.zip
 Railcraft_1.5.2-7.2.3.0.jar
 redlogic-55.3.3.jar
-@RedstoneInMotion_1.1.0.0_mc1.5.zip
+@RedstoneInMotion_1.1.1.0_mc1.5.zip
 Rotten_Flesh_To_Leather_MC_1.5.2.zip
 SAP_ManPack_v142.jar
 SecretRoomsMod-universal-4.6.0.283.zip
-@Securecraft 1.1.0.zip
-SGCraft-0.5.1-mc1.5.1.jar
+@Securecraft_1.1.1.zip
+SGCraft-0.5.2-mc1.5.1.jar
 SkullForge.zip
 SlimevoidLib-Universal-v2.0.1.1.zip
 @StevesCarts2.0.0.a122.zip
-@taverns-17-Jun-2013.zip
+@taverns-21-Jun-2013.zip
 TConstruct_1.3.6.7.jar
 ThermalExpansion-2.4.6.0.jar
 @TurretMod_v3.0.1.jar
