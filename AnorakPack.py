@@ -27,6 +27,7 @@ appeng-rv11-b.zip
 Atomic_Science_v0.6.0.73.jar
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 @BiblioCraft[v1.3.1].zip
+@binnie-mods-1.7.0.jar
 buildcraft-A-3.7.1.jar
 @buildcraft-Z-additional-buildcraft-objects-1.0.4.150.jar
 @Carpenter's Blocks v1.5 - MC 1.5+.zip
@@ -41,7 +42,6 @@ DenPipes-1.5.2-2.0.7.jar
 DenPipes-Forestry-1.5.2-1.0.3.jar
 ElectricExpansion_v2.3.0.51.jar
 EnderStorage 1.4.2.16.jar
-@extra-bees-1.6-pre14b.jar
 @ExtraCells-universal-1.2.2b.jar
 Factorization-0.7.37.jar
 forestry-A-2.2.8.3.jar
