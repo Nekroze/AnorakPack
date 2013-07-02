@@ -143,6 +143,10 @@ BACR v4 MC1,5,2.zip
 forgebackup-universal-coremod-1.5.2-1.1.2.98.jar
 """
 
+    Anorak.server_plugins += """
+dynmap-1.7.1.jar	
+"""
+
     Anorak.server_mods += """
 """
 
