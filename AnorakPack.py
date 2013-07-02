@@ -1,9 +1,10 @@
 from pakpak import Modpack
 
 forge = "minecraftforge-universal-1.5.2-7.8.1.737.zip"
-server = "mcpc-plus-1.5.2-R1.1-forge738-B592.jar"
+server = "minecraft_server_1.5.2.jar"
 
 Anorak = Modpack(forge, server)
+Anorak.server += forge
 
 #Files preceded by '@' are not in the lite version of the modpack
 def Define():
@@ -15,6 +16,7 @@ CoFHCore-1.5.2.5.jar
 denLib-1.5.2-3.0.14.jar
 Galacticraft-1.5.2-a0.1.36.407.jar
 immibis-microblocks-55.0.5.jar
+@MultiMine_1.5.2.jar
 NotEnoughItems 1.5.2.28.jar
 PowerCrystalsCore-1.1.6-107.jar
 """
@@ -146,7 +148,7 @@ forgebackup-universal-coremod-1.5.2-1.1.2.98.jar
 """
 
     Anorak.server_mods += """
-Dynmap-1.7.1-forge-7.8.0.jar
+@Dynmap-1.7.1-forge-7.8.0.jar
 """
 
     Anorak.server += """
