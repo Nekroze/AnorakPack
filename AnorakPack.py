@@ -46,7 +46,6 @@ EnderStorage 1.4.2.16.jar
 @ExtraCells-universal-1.2.2b.jar
 Factorization-0.7.37.jar
 forestry-A-2.2.8.3.jar
-FlatBedrock-1.1.1-32.jar
 @GateCopy-1.5.2-3.0.2.jar
 GregsLighting-1.8.1-mc1.5.1.jar
 @HangableMaps_v1.5.2_1_MC1.5.2.zip
