@@ -37,6 +37,7 @@ ComplexMachines_v0.3.3.119.jar
 ComputerCraft1.53.zip
 ConfigMod_for_MC_v1.5.2.zip
 @coral-reef-universal-1.5.2-r2.zip
+cpm-rec-1.5.2.zip
 @CraftHeraldry 1.0.2.zip
 DenPipes-1.5.2-2.0.7.jar
 DenPipes-Forestry-1.5.2-1.0.3.jar
