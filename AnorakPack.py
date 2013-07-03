@@ -37,7 +37,6 @@ ComplexMachines_v0.3.3.119.jar
 ComputerCraft1.53.zip
 ConfigMod_for_MC_v1.5.2.zip
 @coral-reef-universal-1.5.2-r2.zip
-cpm-rec-1.5.2.zip
 @CraftHeraldry 1.0.2.zip
 DenPipes-1.5.2-2.0.7.jar
 DenPipes-Forestry-1.5.2-1.0.3.jar
@@ -87,6 +86,7 @@ SAP_ManPack_v142.jar
 SecretRoomsMod-universal-4.6.0.283.zip
 @Securecraft_1.1.1.zip
 SGCraft-0.5.2-mc1.5.1.jar
+SkullForge.zip
 SlimevoidLib-Universal-v2.0.1.1.zip
 @StevesCarts2.0.0.a122.zip
 @taverns-21-Jun-2013.zip
