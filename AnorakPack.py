@@ -14,7 +14,7 @@ Chemcraft_Core_1.4.1.jar
 CodeChickenCore 0.8.7.3.jar
 CoFHCore-1.5.2.5.jar
 denLib-1.5.2-3.0.14.jar
-Galacticraft-1.5.2-a0.1.36.407.jar
+Galacticraft-1.5.2-a0.1.36.410.jar
 immibis-microblocks-55.0.5.jar
 @MultiMine_1.5.2.jar
 NotEnoughItems 1.5.2.28.jar
@@ -59,11 +59,11 @@ Improved_Mob_Spawn_1.4.0.zip
 @invasion_mod_0.11.7.zip
 ironchest-universal-1.5.2-5.2.8.446.zip
 KBI Tinkers Construct Recovery Addon 1.2.1.zip
-Mekanism-v5.5.6.103.jar
-MekanismGenerators-v5.5.6.103.jar
-MekanismTools-v5.5.6.103.jar
+Mekanism-v5.5.6.105.jar
+MekanismGenerators-v5.5.6.105.jar
+MekanismTools-v5.5.6.105.jar
 MFFS_v3.1.0.162.jar
-MineChem_v3.0.0.239.jar
+MineChem_v3.0.0.240.jar
 MineFactoryReloaded-2.6.4-975.jar
 @MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
