@@ -23,7 +23,7 @@ PowerCrystalsCore-1.1.6-107.jar
 
     Anorak.universal_mods += """
 @1.5.2_Jammy_Furniture_Mod_V4.4.zip
-appeng-rv11-b.zip
+appeng-rv11-c.zip
 Atomic_Science_v0.6.0.74.jar
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 @BiblioCraft[v1.3.1].zip
