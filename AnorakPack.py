@@ -15,7 +15,7 @@ CodeChickenCore 0.8.7.3.jar
 CoFHCore-1.5.2.5.jar
 denLib-1.5.2-3.0.14.jar
 Galacticraft-1.5.2-a0.1.36.410.jar
-immibis-microblocks-55.0.5.jar
+immibis-microblocks-55.0.7.jar
 @MultiMine_1.5.2.jar
 NotEnoughItems 1.5.2.28.jar
 PowerCrystalsCore-1.1.6-107.jar
@@ -62,12 +62,12 @@ KBI Tinkers Construct Recovery Addon 1.2.1.zip
 Mekanism-v5.5.6.105.jar
 MekanismGenerators-v5.5.6.105.jar
 MekanismTools-v5.5.6.105.jar
-MFFS_v3.1.0.162.jar
+MFFS_v3.1.0.166.jar
 MineChem_v3.0.0.240.jar
 MineFactoryReloaded-2.6.4-975.jar
 @MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
-ModularPowersuits-0.7.1-565.jar
+ModularPowersuits-0.7.1-566.jar
 @More Backpacks 2.1.4.zip
 @MoreStorage.zip
 MPSA-0.3.0-175_MPS-561+.jar
