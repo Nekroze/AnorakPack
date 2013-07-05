@@ -33,7 +33,6 @@ buildcraft-A-3.7.1.jar
 @Carpenter's Blocks v1.5 - MC 1.5+.zip
 ChickenChunks 1.3.2.14.jar
 @chisel-1.5.2-1.4.4.jar
-ComplexMachines_v0.3.3.119.jar
 ComputerCraft1.53.zip
 ConfigMod_for_MC_v1.5.2.zip
 @coral-reef-universal-1.5.2-r2.zip
