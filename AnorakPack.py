@@ -80,7 +80,7 @@ OpenPeripheral-0.0.7.jar
 @Panicle_Craft-v1.0.0.4c.zip
 @PluginsforForestry-1.5.2-3.0.17.jar
 @PortalGun1.5.2.zip
-Railcraft_1.5.2-7.2.3.0.jar
+Railcraft_1.5.2-7.3.0.0.jar
 redlogic-55.3.3.jar
 @RedstoneInMotion_1.1.1.0_mc1.5.zip
 Rotten_Flesh_To_Leather_MC_1.5.2.zip
