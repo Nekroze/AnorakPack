@@ -61,7 +61,6 @@ MineFactoryReloaded-2.6.4-975.jar
 @MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
 ModularPowersuits-0.7.1-569.jar
-@More Backpacks 2.1.4.zip
 MoreStorage.zip
 MPSA-0.3.0-175_MPS-561+.jar
 Natura_2.1.1.jar
