@@ -41,6 +41,15 @@ Factorization-0.7.37.jar
 FlatBedrock-1.1.1-32.jar
 FluidMechanics_v0.5.1.103.jar
 GregsLighting-1.8.1-mc1.5.1.jar
+@growthcraft-apples-1.5.2-4.2.zip
+@growthcraft-bamboo-1.5.2-1.2.zip
+@growthcraft-core-1.5.2-2.1.zip
+@growthcraft-core-cellar-1.5.2-2.1.zip
+@growthcraft-fishnet-1.5.2-4.3.zip
+@growthcraft-flowers-1.5.2-5.4.zip
+@growthcraft-grapes-1.5.2-5.1.zip
+@growthcraft-hops-1.5.2-3.1.zip
+@growthcraft-rice-1.5.2-1.1.zip
 @HangableMaps_v1.5.2_1_MC1.5.2.zip
 ICBM_Contraption_v1.2.1.166.jar
 ICBM_Explosion_v1.2.1.166.jar
