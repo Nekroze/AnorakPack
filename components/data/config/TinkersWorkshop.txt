@@ -238,7 +238,7 @@ worldgen {
 ####################
 
 "worldgen disabler" {
-    B:"Add Village Generation"=false
+    B:"Add Village Generation"=true
     B:"Generate Aluminum"=true
     B:"Generate Aluminum Bushes"=true
     B:"Generate Cobalt and Ardite"=true
