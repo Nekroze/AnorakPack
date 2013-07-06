@@ -27,9 +27,9 @@ appeng-rv11-c.zip
 Atomic_Science_v0.6.0.74.jar
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 @BiblioCraft[v1.3.1].zip
-Carpenter's Blocks v1.5 - MC 1.5+.zip
+@Carpenter's Blocks v1.5 - MC 1.5+.zip
 ChickenChunks 1.3.2.14.jar
-chisel-1.5.2-1.4.4.jar
+@chisel-1.5.2-1.4.4.jar
 ComplexMachines_v0.3.3.120.jar
 ComputerCraft1.53.zip
 ConfigMod_for_MC_v1.5.2.zip
@@ -60,7 +60,7 @@ MineFactoryReloaded-2.6.4-975.jar
 @MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
 ModularPowersuits-0.7.1-569.jar
-MoreStorage.zip
+@MoreStorage.zip
 MPSA-0.3.0-175_MPS-561+.jar
 Natura_2.1.1.jar
 NetherOres-2.1.5-75.jar
