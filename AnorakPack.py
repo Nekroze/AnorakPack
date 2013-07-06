@@ -88,6 +88,7 @@ SecretRoomsMod-universal-4.6.0.283.zip
 SGCraft-0.5.2-mc1.5.1.jar
 SkullForge.zip
 SlimevoidLib-Universal-v2.0.1.1.zip
+@SolarApocalypse.jar
 @StevesCarts2.0.0.a122.zip
 @taverns-21-Jun-2013.zip
 TConstruct_1.3.6.7.jar
