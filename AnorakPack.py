@@ -27,9 +27,6 @@ appeng-rv11-c.zip
 Atomic_Science_v0.6.0.74.jar
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 @BiblioCraft[v1.3.1].zip
-@binnie-mods-1.7.0.jar
-@buildcraft-A-3.7.1.jar
-@buildcraft-Z-additional-buildcraft-objects-1.0.4.150.jar
 Carpenter's Blocks v1.5 - MC 1.5+.zip
 ChickenChunks 1.3.2.14.jar
 chisel-1.5.2-1.4.4.jar
@@ -38,16 +35,12 @@ ComputerCraft1.53.zip
 ConfigMod_for_MC_v1.5.2.zip
 @coral-reef-universal-1.5.2-r2.zip
 @CraftHeraldry 1.0.2.zip
-@DenPipes-1.5.2-2.0.7.jar
-@DenPipes-Forestry-1.5.2-1.0.3.jar
 ElectricExpansion_v2.3.0.51.jar
 EnderStorage 1.4.2.16.jar
 ExtraCells-universal-1.2.2b.jar
 Factorization-0.7.37.jar
 FlatBedrock-1.1.1-32.jar
 FluidMechanics_v0.5.1.103.jar
-@forestry-A-2.2.8.3.jar
-@GateCopy-1.5.2-3.0.2.jar
 GregsLighting-1.8.1-mc1.5.1.jar
 @HangableMaps_v1.5.2_1_MC1.5.2.zip
 ICBM_Contraption_v1.2.1.166.jar
@@ -64,7 +57,6 @@ Mekanism-v5.5.6.105.jar
 MekanismGenerators-v5.5.6.105.jar
 MekanismTools-v5.5.6.105.jar
 MFFS_v3.1.0.173.jar
-@MineChem_v3.0.0.240.jar
 MineFactoryReloaded-2.6.4-975.jar
 @MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
@@ -78,7 +70,6 @@ OmniTools-3.1.6.0.jar
 OpenCCSensors-1.5.2.0.jar
 OpenPeripheral-0.0.7.jar
 @Panicle_Craft-v1.0.0.4c.zip
-@PluginsforForestry-1.5.2-3.0.17.jar
 @PortalGun1.5.2.zip
 Railcraft_1.5.2-7.3.0.0.jar
 redlogic-55.3.3.jar
