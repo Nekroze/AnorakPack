@@ -39,8 +39,10 @@ ConfigMod_for_MC_v1.5.2.zip
 EnderStorage 1.4.2.16.jar
 ExtraCells-universal-1.2.2b.jar
 Factorization-0.7.37.jar
+@FiniteLiquidv5_93.zip
 FlatBedrock-1.1.1-32.jar
 FluidMechanics_v0.5.1.103.jar
+GlassLight.zip
 GregsLighting-1.8.1-mc1.5.1.jar
 @growthcraft-apples-1.5.2-4.2.zip
 @growthcraft-bamboo-1.5.2-1.2.zip
@@ -66,6 +68,7 @@ Mekanism-v5.5.6.106.jar
 MekanismGenerators-v5.5.6.106.jar
 MekanismTools-v5.5.6.106.jar
 MFFS_v3.1.0.173.jar
+MineChem_v3.0.0.240.jar
 MineFactoryReloaded-2.6.4-975.jar
 @MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
@@ -82,6 +85,7 @@ OpenPeripheral-0.0.7.jar
 Railcraft_1.5.2-7.3.0.0.jar
 redlogic-55.3.3.jar
 @RedstoneInMotion_1.1.1.0_mc1.5.zip
+Rope.zip
 Rotten_Flesh_To_Leather_MC_1.5.2.zip
 SAP_ManPack_v142.jar
 SecretRoomsMod-universal-4.6.0.283.zip
@@ -101,6 +105,7 @@ WirelessRedstone-Universal-v1.7.zip
 WirelessRedstone-PowerConfig-v1.0.zip
 WirelessRedstone-Remote-v2.1.zip
 WirelessRedstone-SlimeVoidAdditions-v1.0.zip
+@[1.5.2] [2.3.1] [Forge] Multi Colored Things Mod.zip
 [1.5.2]bspkrsCorev2.04.zip
 """
 
@@ -135,7 +140,6 @@ data/HUDini.conf
 
     Anorak.modpack += """
 fps15.zip
-NoInfiniteWaterMC152.zip
 NoLightUpdateLagMC152.zip
 BACR v4 MC1,5,2.zip
 """
@@ -152,7 +156,6 @@ forgebackup-universal-coremod-1.5.2-1.1.2.98.jar
 """
 
     Anorak.server += """
-NoInfiniteWaterMC152.zip
 """
 
 if __name__ == "__main__":
