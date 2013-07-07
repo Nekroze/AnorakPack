@@ -142,6 +142,7 @@ data/HUDini.conf
 fps15.zip
 NoLightUpdateLagMC152.zip
 BACR v4 MC1,5,2.zip
+LFM152 - Toggle.zip
 """
 
     #SERVER
@@ -156,6 +157,7 @@ forgebackup-universal-coremod-1.5.2-1.1.2.98.jar
 """
 
     Anorak.server += """
+LFM152 - Toggle.zip
 """
 
 if __name__ == "__main__":
