@@ -157,7 +157,6 @@ forgebackup-universal-coremod-1.5.2-1.1.2.98.jar
 """
 
     Anorak.server += """
-LFM152 - Toggle.zip
 """
 
 if __name__ == "__main__":
