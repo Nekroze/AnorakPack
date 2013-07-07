@@ -52,9 +52,9 @@ GregsLighting-1.8.1-mc1.5.1.jar
 @growthcraft-hops-1.5.2-3.1.zip
 @growthcraft-rice-1.5.2-1.1.zip
 @HangableMaps_v1.5.2_1_MC1.5.2.zip
-ICBM_Contraption_v1.2.1.166.jar
-ICBM_Explosion_v1.2.1.166.jar
-ICBM_Sentry_v1.2.1.166.jar
+ICBM_Contraption_v1.2.1.170.jar
+ICBM_Explosion_v1.2.1.170.jar
+ICBM_Sentry_v1.2.1.170.jar
 iChunUtil1.0.1.zip
 immibis-core-55.1.5.jar
 immibis-peripherals-55.0.4.jar
@@ -62,16 +62,16 @@ Improved_Mob_Spawn_1.4.0.zip
 @invasion_mod_0.11.7.zip
 ironchest-universal-1.5.2-5.2.8.446.zip
 KBI Tinkers Construct Recovery Addon 1.2.1.zip
-Mekanism-v5.5.6.105.jar
-MekanismGenerators-v5.5.6.105.jar
-MekanismTools-v5.5.6.105.jar
+Mekanism-v5.5.6.106.jar
+MekanismGenerators-v5.5.6.106.jar
+MekanismTools-v5.5.6.106.jar
 MFFS_v3.1.0.173.jar
 MineFactoryReloaded-2.6.4-975.jar
 @MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
 @ModularPowersuits-0.7.1-569.jar
 @MoreStorage.zip
-@MPSA-0.3.0-175_MPS-561+.jar
+@MPSA-176_Requires_MPS-561+.jar
 Natura_2.1.1.jar
 NetherOres-2.1.5-75.jar
 OmniTools-3.1.6.0.jar
