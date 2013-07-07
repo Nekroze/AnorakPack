@@ -36,6 +36,7 @@ ComputerCraft1.53.zip
 ConfigMod_for_MC_v1.5.2.zip
 @coral-reef-universal-1.5.2-r2.zip
 @CraftHeraldry 1.0.2.zip
+ElectricExpansion_v2.3.0.51.jar
 EnderStorage 1.4.2.16.jar
 ExtraCells-universal-1.2.2b.jar
 Factorization-0.7.37.jar
