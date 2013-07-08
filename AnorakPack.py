@@ -24,8 +24,8 @@ PowerCrystalsCore-1.1.6-107.jar
     Anorak.universal_mods += """
 @1.5.2_Jammy_Furniture_Mod_V4.4.zip
 appeng-rv11-c.zip
-AssemblyLine_v0.3.5.149.jar
-Atomic_Science_v0.6.0.74.jar
+AssemblyLine_v0.4.1.153.jar
+Atomic_Science_v0.6.1.80.jar
 BaMsDoubledoor_v2.0_for_1.5.2_ForgeMod.zip
 @BiblioCraft[v1.3.1].zip
 @Carpenter's Blocks v1.5 - MC 1.5+.zip
@@ -42,7 +42,7 @@ ExtraCells-universal-1.2.2b.jar
 Factorization-0.7.37.jar
 @FiniteLiquidv5_93.zip
 FlatBedrock-1.1.1-32.jar
-FluidMechanics_v0.5.1.103.jar
+FluidMechanics_v0.5.2.106.jar
 GlassLight.zip
 GregsLighting-1.8.1-mc1.5.1.jar
 @growthcraft-apples-1.5.2-4.2.zip
@@ -55,9 +55,9 @@ GregsLighting-1.8.1-mc1.5.1.jar
 @growthcraft-hops-1.5.2-3.1.zip
 @growthcraft-rice-1.5.2-1.1.zip
 @HangableMaps_v1.5.2_1_MC1.5.2.zip
-ICBM_Contraption_v1.2.1.170.jar
-ICBM_Explosion_v1.2.1.170.jar
-ICBM_Sentry_v1.2.1.170.jar
+ICBM_Contraption_v1.2.1.172.jar
+ICBM_Explosion_v1.2.1.172.jar
+ICBM_Sentry_v1.2.1.172.jar
 iChunUtil1.0.1.zip
 immibis-core-55.1.5.jar
 immibis-peripherals-55.0.4.jar
@@ -65,11 +65,11 @@ Improved_Mob_Spawn_1.4.0.zip
 @invasion_mod_0.11.7.zip
 ironchest-universal-1.5.2-5.2.8.446.zip
 KBI Tinkers Construct Recovery Addon 1.2.1.zip
-Mekanism-v5.5.6.106.jar
-MekanismGenerators-v5.5.6.106.jar
-MekanismTools-v5.5.6.106.jar
-MFFS_v3.1.0.173.jar
-MineChem_v3.0.0.240.jar
+Mekanism-v5.5.6.121.jar
+MekanismGenerators-v5.5.6.121.jar
+MekanismTools-v5.5.6.121.jar
+MFFS_v3.1.0.175.jar
+MineChem_v3.0.0.243.jar
 MineFactoryReloaded-2.6.4-975.jar
 @MineForever_0.2.0b.jar
 miscperipherals-3.3.jar
