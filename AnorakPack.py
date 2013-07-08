@@ -15,7 +15,7 @@ CodeChickenCore 0.8.7.3.jar
 CoFHCore-1.5.2.5.jar
 denLib-1.5.2-3.0.14.jar
 Galacticraft-1.5.2-a0.1.36.410.jar
-immibis-microblocks-55.0.7.jar
+immibis-microblocks-55.0.8.jar
 @MultiMine_1.5.2.jar
 NotEnoughItems 1.5.2.28.jar
 PowerCrystalsCore-1.1.6-107.jar
@@ -59,7 +59,7 @@ ICBM_Contraption_v1.2.1.172.jar
 ICBM_Explosion_v1.2.1.172.jar
 ICBM_Sentry_v1.2.1.172.jar
 iChunUtil1.0.1.zip
-immibis-core-55.1.5.jar
+immibis-core-55.1.6.jar
 immibis-peripherals-55.0.4.jar
 Improved_Mob_Spawn_1.4.0.zip
 @invasion_mod_0.11.7.zip
@@ -84,8 +84,8 @@ OpenPeripheral-0.0.7.jar
 @Panicle_Craft-v1.0.0.4c.zip
 @PortalGun1.5.2.zip
 Railcraft_1.5.2-7.3.0.0.jar
-redlogic-55.3.3.jar
-@RedstoneInMotion_1.1.1.0_mc1.5.zip
+redlogic-55.4.1.jar
+@RedstoneInMotion_1.2.0.0_mc1.5.zip
 Rope.zip
 Rotten_Flesh_To_Leather_MC_1.5.2.zip
 SAP_ManPack_v142.jar
