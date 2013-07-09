@@ -137,6 +137,7 @@ data/HUDini.conf
 
     Anorak.modpack += """
 fps15.zip
+NoInfiniteWaterMC152.zip
 NoLightUpdateLagMC152.zip
 BACR v4 MC1,5,2.zip
 LFM152 - Toggle.zip
@@ -154,6 +155,7 @@ forgebackup-universal-coremod-1.5.2-1.1.2.98.jar
 """
 
     Anorak.server += """
+NoInfiniteWaterMC152.zip
 """
 
 if __name__ == "__main__":
