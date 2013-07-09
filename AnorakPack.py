@@ -40,10 +40,8 @@ ElectricExpansion_v2.3.0.51.jar
 EnderStorage 1.4.2.16.jar
 ExtraCells-universal-1.2.2b.jar
 Factorization-0.7.37.jar
-@FiniteLiquidv5_93.zip
 FlatBedrock-1.1.1-32.jar
 FluidMechanics_v0.5.2.106.jar
-GlassLight.zip
 GregsLighting-1.8.1-mc1.5.1.jar
 @growthcraft-apples-1.5.2-4.2.zip
 @growthcraft-bamboo-1.5.2-1.2.zip
@@ -86,7 +84,6 @@ OpenPeripheral-0.0.7.jar
 Railcraft_1.5.2-7.3.0.0.jar
 redlogic-55.4.1.jar
 @RedstoneInMotion_1.2.0.0_mc1.5.zip
-Rope.zip
 Rotten_Flesh_To_Leather_MC_1.5.2.zip
 SAP_ManPack_v142.jar
 SecretRoomsMod-universal-4.6.0.283.zip
@@ -94,7 +91,6 @@ SecretRoomsMod-universal-4.6.0.283.zip
 SGCraft-0.5.2-mc1.5.1.jar
 SkullForge.zip
 SlimevoidLib-Universal-v2.0.1.1.zip
-@SolarApocalypse.jar
 @StevesCarts2.0.0.a122.zip
 @taverns-21-Jun-2013.zip
 TConstruct_1.3.6.7.jar
