@@ -15,7 +15,7 @@ CodeChickenCore 0.8.7.3.jar
 CoFHCore-1.5.2.5.jar
 denLib-1.5.2-3.0.14.jar
 Galacticraft-1.5.2-a0.1.36.410.jar
-immibis-microblocks-55.0.8.jar
+immibis-microblocks-55.0.7.jar
 @MultiMine_1.5.2.jar
 NotEnoughItems 1.5.2.28.jar
 PowerCrystalsCore-1.1.6-107.jar
