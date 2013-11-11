@@ -1,7 +1,7 @@
 from pakpak import Modpack
 
-forge = "minecraftforge-universal-1.5.2-7.8.1.737.zip"
-server = "minecraft_server_1.5.2.jar"
+forge = "minecraftforge-universal-1.6.4-9.11.1.916.jar"
+server = "minecraft_server_1.6.4.jar"
 
 Anorak = Modpack(forge, server)
 Anorak.server += forge
@@ -38,7 +38,6 @@ data/config
 
     #SERVER
     Anorak.server_coremods += """
-forgebackup-universal-coremod-1.5.2-1.1.2.98.jar
 """
 
     Anorak.server_plugins += """
