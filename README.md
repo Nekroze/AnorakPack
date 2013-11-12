@@ -125,7 +125,6 @@ TODO
 ====
 
  - Message all mod authors for permissions
- - Review if turretmod is unbalancing
  - Update Modlist
  
 Changelog
