@@ -9,9 +9,6 @@ Anorak.server += forge
 #Files preceded by '@' are not in the lite version of the modpack
 def Define():
     #UNIVERSAL
-    Anorak.universal_coremods += """
-"""
-
     Anorak.universal_mods += """
 [1.6.4]BlockBreaker.Forge.1.6.4.r02.Universal.jar
 [1.6.4]bspkrsCorev5.0.zip
@@ -90,10 +87,6 @@ data/config
 """
 
     #CLIENT
-    Anorak.client_coremods += """
-
-"""
-
     Anorak.client_mods += """
 [1.6.4] Mouse Tweaks 2.3.4.zip
 BackTools2.0.0.zip
@@ -111,9 +104,6 @@ data/options.txt
 """
 
     #SERVER
-    Anorak.server_coremods += """
-"""
-
     Anorak.server_plugins += """
 """
 
