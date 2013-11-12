@@ -1,8 +1,8 @@
-music:0.0
-sound:0.1056338
+music:1.0
+sound:1.0
 invertYMouse:false
 mouseSensitivity:0.5
-fov:0.26760563
+fov:0.0
 gamma:1.0
 viewDistance:0
 guiScale:2
@@ -10,12 +10,12 @@ particles:0
 bobView:true
 anaglyph3d:false
 advancedOpengl:true
-fpsLimit:0
+fpsLimit:1
 difficulty:2
 fancyGraphics:true
 ao:2
 clouds:false
-skin:NONE
+skin:Default
 lastServer:
 lang:en_US
 chatVisibility:0
@@ -54,26 +54,24 @@ key_key.playerlist:15
 key_key.pickItem:-98
 key_key.command:53
 key_key.tarmor:24
-key_FZ Bag of Holding:41
-key_FZ Pocket Crafting Table:45
-key_FZ Exo1:79
-key_FZ Exo2:80
-key_FZ Exo3:81
-key_turretmod3.keys.turretShoot:33
-key_Dynamic Lights toggle:25
-key_Coral Reef GUI:46
-key_HUDini Modifier:15
-key_HUDini Menu:64
-key_HUDini Text Edit:40
-key_HUDini Commands:46
+key_key.tcapes.reload:88
+key_Open CraftGuide:34
+key_User Access Settings:35
+key_Show force-loaded chunks:67
+key_Dynamic Lights toggle:36
+key_Mekanism Mode Switch:49
+key_Mekanism Voice:22
 key_Open MPS Keybind GUI:37
 key_Go Down (MPS Flight Control):44
 key_Cycle Tool Backward (MPS):-1
 key_Cycle Tool Forward (MPS):-1
 key_Zoom (MPS):21
 key_Cosmetic (MPS):38
-key_Change OneWayBlock face:43
-key_[GC] Galaxy Map:34
+key_SwapArrowsForward:51
+key_SwapArrowsBackward:52
+key_[SGTech2] Activate rings (Up):200
+key_[SGTech2] Activate rings (Down):208
+key_[GC] Galaxy Map:50
 key_[GC] Open Spaceship Inventory:33
 key_[GC] Toggle Sensor Goggles Mode:37
 key_[GC] Vehicle Forward Key:17
@@ -82,8 +80,8 @@ key_[GC] Vehicle Left Key:30
 key_[GC] Vehicle Right Key:32
 key_[GC] Vehicle Up Key:57
 key_[GC] Vehicle Down Key:42
-key_FZ vanilla sprint:0
+key_key.control:29
 key_keybind.loco.faster:52
 key_keybind.loco.slower:51
 key_keybind.loco.mode:50
-key_keybind.loco.whistle:35
+key_keybind.loco.whistle:49

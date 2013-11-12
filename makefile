@@ -23,7 +23,7 @@ server: ${SERVERZIP}
 ${CLIENTZIP}: build/client/bin/modpack.jar
 	@mkdir -p releases
 	@rm -rf $@
-	cd build/client && zip -rq ../../$@ ./*
+	cd build/client && rm -rf coremods && zip -rq ../../$@ ./*
 
 build/client/bin/modpack.jar: AnorakPack.py $(shell find components/data -print0 -type f)
 	@rm -rf .tmp
@@ -32,7 +32,7 @@ build/client/bin/modpack.jar: AnorakPack.py $(shell find components/data -print0
 ${SERVERZIP}: build/server/server.jar
 	@mkdir -p releases
 	@rm -rf $@
-	cd build/server && zip -rq ../../$@ ./*
+	cd build/server && rm -rf coremods plugins server.jar start* && zip -rq ../../$@ ./*
 
 build/server/server.jar: ${CLIENTZIP}
 
