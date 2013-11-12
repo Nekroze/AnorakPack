@@ -35,8 +35,8 @@ ExtraCells-1.5.3b.jar
 forestry-A-2.3.0.7.jar
 Galacticraft-1.6.4-2.0.6.895.jar
 Galacticraft-Planets-1.6.4-2.0.6.895.jar
-gases-1.4.0-1.6.4.jar
-gasesCore-1.4.0-1.6.4.jar
+gases-1.4.1-1.6.4.jar
+gasesCore-1.4.1-1.6.4.jar
 @GravityGun2.0.0.zip
 ICBM_Contraption_v1.3.4.265.jar
 ICBM_Explosion_v1.3.4.265.jar
@@ -47,9 +47,9 @@ immibis-microblocks-57.2.3.jar
 immibis-peripherals-57.0.0.jar
 InfernalMobs_1.6.4.zip
 InventoryTweaks-MC1.6.2-1.56-b77.jar
-Mekanism-v5.6.0.355.jar
-MekanismGenerators-v5.6.0.355.jar
-MekanismTools-v5.6.0.355.jar
+Mekanism-v5.6.0.362.jar
+MekanismGenerators-v5.6.0.362.jar
+MekanismTools-v5.6.0.362.jar
 MFFS_v3.4.0.232.jar
 MicdoodleCore-1.6.4-2.0.6.895.jar
 Minechem4-7.jar
