@@ -75,7 +75,7 @@ block {
     I:SDX=3247
     I:"Seared Slab"=3230
     I:"Seared Table"=1477
-    I:"Slime Channel"=4087
+    I:"Slime Channel"=3940
     I:"Slime Grass"=3238
     I:"Slime Grass Leaves"=3240
     I:"Slime Pad"=4086
