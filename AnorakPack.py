@@ -100,7 +100,6 @@ data/options.txt
 """
 
     Anorak.modpack += """
-
 """
 
     #SERVER
