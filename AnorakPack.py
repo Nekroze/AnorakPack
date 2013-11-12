@@ -58,9 +58,9 @@ MissionControl1-2.jar
 ModularPowersuits-1.6.2-0.8.0-38.jar
 @MultiMine_1.6.4.jar
 Natura-1.6.4-2.1.11.1.jar
-@neiaddons-1.6.2-1.9.3.r47.jar
-@NEIPlugins-1.1.0.4.jar
-@NotEnoughItems 1.6.1.5.jar
+#@neiaddons-1.6.2-1.9.3.r47.jar
+#@NEIPlugins-1.1.0.4.jar
+#@NotEnoughItems 1.6.1.5.jar
 Numina-1.6.2-0.0.1-28.jar
 ParticlePhysics4-19.jar
 @PortalGun2.0.1.zip
