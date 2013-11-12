@@ -103,6 +103,7 @@ MobDismemberment2.0.0.zip
 """
 
     Anorak.client_data += """
+data/options.txt
 """
 
     Anorak.modpack += """
