@@ -24,7 +24,6 @@ Atomic_Science_v1.0.0.146.jar
 BetterBreeds 1.6.4 v5.zip
 @BetterGrassAndLeavesMod[v1.6.4.C].jar
 BetterSignsMod[v1.6.4.B].jar
-@BetterWood 1.0.5.0 - MC 1.6.2 - Forge (9.10.0.789).zip
 BiblioCraft[v1.5.1].zip
 BiblioWoods[Forestry][v1.3].zip
 BiblioWoods[Natura][v1.1].zip
