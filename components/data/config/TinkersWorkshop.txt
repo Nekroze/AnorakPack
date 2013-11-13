@@ -59,7 +59,7 @@ block {
     I:"Molten Nickel"=3197
     I:"Molten Obsidian"=3212
     I:"Molten Platinum"=3198
-    I:"Molten Silver"=4085
+    I:"Molten Silver"=3385
     I:"Molten Steel"=3213
     I:"Molten Stone"=3215
     I:"Molten Tin"=3204
@@ -78,7 +78,7 @@ block {
     I:"Slime Channel"=3940
     I:"Slime Grass"=3238
     I:"Slime Grass Leaves"=3240
-    I:"Slime Pad"=4086
+    I:"Slime Pad"=3386
     I:"Slime Tall Grass"=3239
     I:"Slime Tree Sapling"=3241
     I:Smeltery=1474
