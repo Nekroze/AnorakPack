@@ -14,7 +14,6 @@ def Define():
 @[1.6.4][c][forge]BetterSnow.zip
 [1.6.4]BlockBreaker.Forge.1.6.4.r02.Universal.jar
 [1.6.4]bspkrsCorev5.0.zip
-@[1.6.4]MusicCraft 2.8.zip
 [1.6.4]TreeCapitator.Forge.1.6.4.r06.Universal.jar
 @[Forge]FurnitureModv3.2(1.6.4).zip
 @1.6.2_Jammy_Furniture_Mod_V4.5.zip
