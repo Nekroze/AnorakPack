@@ -47,6 +47,7 @@ immibis-microblocks-57.2.3.jar
 immibis-peripherals-57.0.0.jar
 InfernalMobs_1.6.4.zip
 InventoryTweaks-MC1.6.2-1.56-b77.jar
+mapwriter-2.0.11.zip
 Mekanism-v5.6.0.362.jar
 MekanismGenerators-v5.6.0.362.jar
 MekanismTools-v5.6.0.362.jar
