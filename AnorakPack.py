@@ -27,7 +27,6 @@ BetterBreeds 1.6.4 v5.zip
 BetterSignsMod[v1.6.4.B].jar
 @BetterWood 1.0.5.0 - MC 1.6.2 - Forge (9.10.0.789).zip
 BiblioCraft[v1.5.1].zip
-@BiblioWoods[ExtraBiomesXL][v1.1].zip
 BiblioWoods[Forestry][v1.3].zip
 BiblioWoods[Natura][v1.1].zip
 @BigTrees-164-forge.zip
@@ -47,7 +46,6 @@ Dark-GreaterSecurity_v0.2.0.119.jar
 dimensional-anchor-57.0.0.jar
 dragonmount_r33_mc1.6.x.zip
 EnchantingPlus-1.16.5.zip
-@ExtrabiomesXL-universal-1.6.4-3.14.2.jar
 ExtraCells-1.5.3b.jar
 forestry-A-2.3.0.7.jar
 FpsPlus_1.6.4.zip
