@@ -105,7 +105,6 @@ StalkerCreepers_1.6.4.zip
 StargateTech2-Alpha-0-4-2-MC164-Forge942.jar
 StevesCarts2.0.0.a134.zip
 TConstruct_1.6.4_1.5.0.2.jar
-uncrafter_1.6.zip
 UpdateCheckerMod_1.6.4.zip
 WR-CBE 1.4.0.6.jar
 """
