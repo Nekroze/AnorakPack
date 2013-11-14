@@ -11,7 +11,6 @@ def Define():
     #UNIVERSAL
     Anorak.universal_mods += """
 @[1.6.4] Glacier Ice 6.6.jar
-@[1.6.4][c][forge]BetterSnow.zip
 [1.6.4]BlockBreaker.Forge.1.6.4.r02.Universal.jar
 [1.6.4]bspkrsCorev5.0.zip
 [1.6.4]TreeCapitator.Forge.1.6.4.r06.Universal.jar
