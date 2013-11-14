@@ -17,12 +17,10 @@ def Define():
 @[Forge]FurnitureModv3.2(1.6.4).zip
 @1.6.2_Jammy_Furniture_Mod_V4.5.zip
 1.6.4.BetterStorage_0.7.2.37.zip
-@3DBlocksMod-1.6.4.1.jar
 appeng-rv14-finale-mc16x.jar
 ArchimedesShips.zip
 Atomic_Science_v1.0.0.146.jar
 BetterBreeds 1.6.4 v5.zip
-@BetterGrassAndLeavesMod[v1.6.4.C].jar
 BetterSignsMod[v1.6.4.B].jar
 BiblioCraft[v1.5.1].zip
 BiblioWoods[Forestry][v1.3].zip
@@ -76,7 +74,6 @@ ModularPowersuits-1.6.2-0.8.0-44.jar
 MultiMine_1.6.4.jar
 Natura-1.6.4-2.1.11.1.jar
 NoJumpMod1.6_3.zip
-noVoidFogNoDimmingModloaderForge1.6.4.zip
 Numina-1.6.2-0.0.1-32.jar
 parachute-2.0.2-1.6.4.jar
 ParticlePhysics4-19.jar
@@ -108,9 +105,12 @@ data/config
     #CLIENT
     Anorak.client_mods += """
 [1.6.4] Mouse Tweaks 2.3.4.zip
+@3DBlocksMod-1.6.4.1.jar
+@BetterGrassAndLeavesMod[v1.6.4.C].jar
 DynamicLights_1.6.4.jar
 MobAmputation2.0.0.zip
 MobDismemberment2.0.0.zip
+noVoidFogNoDimmingModloaderForge1.6.4.zip
 Zyins_HUD__1.6.4__v.1.1.0.zip
 """
 
