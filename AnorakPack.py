@@ -10,7 +10,6 @@ Anorak.server += forge
 def Define():
     #UNIVERSAL
     Anorak.universal_mods += """
-@[1.6.4] Glacier Ice 6.6.jar
 [1.6.4]BlockBreaker.Forge.1.6.4.r02.Universal.jar
 [1.6.4]bspkrsCorev5.0.zip
 [1.6.4]TreeCapitator.Forge.1.6.4.r06.Universal.jar
@@ -39,7 +38,6 @@ Dark-FarmTech_v0.2.0.119.jar
 Dark-FluidMechanics_v0.2.0.119.jar
 Dark-GreaterSecurity_v0.2.0.119.jar
 @dragonmount_r33_mc1.6.x.zip
-@EnchantingPlus-1.16.5.zip
 ExtraCells-1.5.3b.jar
 forestry-A-2.3.0.7.jar
 FpsPlus_1.6.4.zip
@@ -60,7 +58,6 @@ immibis-peripherals-57.0.0.jar
 Improved Mob Spawn 1.4.3.zip
 InfernalMobs_1.6.4.zip
 InventoryTweaks-MC1.6.2-1.56-b77.jar
-@Koi 1.10.4.zip
 mapwriter-2.0.11.zip
 Mekanism-v5.6.0.372.jar
 MekanismGenerators-v5.6.0.372.jar
@@ -69,29 +66,23 @@ MFFS_v3.4.0.232.jar
 MicdoodleCore-1.6.4-2.0.6.895.jar
 Minechem4-7.jar
 miscperipherals-3.4b2.zip
-MissionControl1-2.jar
 ModularPowersuits-1.6.2-0.8.0-44.jar
 MultiMine_1.6.4.jar
 Natura-1.6.4-2.1.11.1.jar
 NoJumpMod1.6_3.zip
 Numina-1.6.2-0.0.1-32.jar
 parachute-2.0.2-1.6.4.jar
-ParticlePhysics4-19.jar
-@PortalGun2.0.1.zip
 ProjectRedBase-1.6.4-4.0.5.12.jar
 ProjectRedCompat-1.6.4-4.0.5.12.jar
 ProjectRedIntegration-1.6.4-4.0.5.12.jar
 ProjectRedWorld-1.6.4-4.0.5.12.jar
 qCraft1.02_mc164.zip
-@RancraftPengForge_v164o2.zip
 @RedstoneInMotion_2.3.0.0_mc1.6.zip
 Resonant_Induction_v0.2.2.208.jar
 RopePlus_1.6.4.zip
-@Ruins_1.6.4.zip
 SKC Core 1.0.1.0 - MC 1.6.4 - Forge (9.11.0.880).jar
 slick-util.jar
 SmoothBedrock-1.6.4-1.0.6.jar
-StalkerCreepers_1.6.4.zip
 StargateTech2-Alpha-0-4-2-MC164-Forge942.jar
 TConstruct_1.6.4_1.5.0.2.jar
 UpdateCheckerMod_1.6.4.zip
