@@ -72,12 +72,12 @@ MicdoodleCore-1.6.4-2.0.6.895.jar
 Minechem4-7.jar
 miscperipherals-3.4b2.zip
 MissionControl1-2.jar
-ModularPowersuits-1.6.2-0.8.0-38.jar
+ModularPowersuits-1.6.2-0.8.0-44.jar
 MultiMine_1.6.4.jar
 Natura-1.6.4-2.1.11.1.jar
 NoJumpMod1.6_3.zip
 noVoidFogNoDimmingModloaderForge1.6.4.zip
-Numina-1.6.2-0.0.1-28.jar
+Numina-1.6.2-0.0.1-32.jar
 parachute-2.0.2-1.6.4.jar
 ParticlePhysics4-19.jar
 @PortalGun2.0.1.zip
