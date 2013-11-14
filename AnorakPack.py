@@ -16,6 +16,7 @@ def Define():
 [1.6.4]TreeCapitator.Forge.1.6.4.r06.Universal.jar
 @[Forge]FurnitureModv3.2(1.6.4).zip
 @1.6.2_Jammy_Furniture_Mod_V4.5.zip
+1.6.4.BetterStorage_0.7.2.37.zip
 @3DBlocksMod-1.6.4.1.jar
 appeng-rv14-finale-mc16x.jar
 ArchimedesShips.zip
