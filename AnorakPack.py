@@ -112,7 +112,6 @@ data/config
     #CLIENT
     Anorak.client_mods += """
 [1.6.4] Mouse Tweaks 2.3.4.zip
-BackTools2.0.0.zip
 DynamicLights_1.6.4.jar
 MobAmputation2.0.0.zip
 MobDismemberment2.0.0.zip
