@@ -86,7 +86,6 @@ ProjectRedCompat-1.6.4-4.0.5.12.jar
 ProjectRedIntegration-1.6.4-4.0.5.12.jar
 ProjectRedWorld-1.6.4-4.0.5.12.jar
 qCraft1.02_mc164.zip
-Railcraft_1.6.2-8.2.0.0.jar
 @RancraftPengForge_v164o2.zip
 @RedstoneInMotion_2.3.0.0_mc1.6.zip
 Resonant_Induction_v0.2.2.208.jar
@@ -97,7 +96,6 @@ slick-util.jar
 SmoothBedrock-1.6.4-1.0.6.jar
 StalkerCreepers_1.6.4.zip
 StargateTech2-Alpha-0-4-2-MC164-Forge942.jar
-StevesCarts2.0.0.a134.zip
 TConstruct_1.6.4_1.5.0.2.jar
 UpdateCheckerMod_1.6.4.zip
 WR-CBE 1.4.0.6.jar
