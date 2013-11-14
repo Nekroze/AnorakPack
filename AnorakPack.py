@@ -29,7 +29,7 @@ BiblioWoods[Forestry][v1.3].zip
 BiblioWoods[Natura][v1.1].zip
 binnie-mods-1.8-dev2.jar
 buildcraft-A-1.6.2-4.1.2.jar
-@Carpenter's Blocks v1.9.5 - MC 1.6+.zip
+Carpenter's Blocks v1.9.5 - MC 1.6+.zip
 ChickenChunks 1.3.3.3.jar
 CodeChickenCore 0.9.0.6.jar
 ComputerCraft1.57.zip
@@ -40,8 +40,8 @@ Dark-CoreMachine_v0.2.0.119.jar
 Dark-FarmTech_v0.2.0.119.jar
 Dark-FluidMechanics_v0.2.0.119.jar
 Dark-GreaterSecurity_v0.2.0.119.jar
-dragonmount_r33_mc1.6.x.zip
-EnchantingPlus-1.16.5.zip
+@dragonmount_r33_mc1.6.x.zip
+@EnchantingPlus-1.16.5.zip
 ExtraCells-1.5.3b.jar
 forestry-A-2.3.0.7.jar
 FpsPlus_1.6.4.zip
@@ -90,7 +90,7 @@ qCraft1.02_mc164.zip
 @RedstoneInMotion_2.3.0.0_mc1.6.zip
 Resonant_Induction_v0.2.2.208.jar
 RopePlus_1.6.4.zip
-Ruins_1.6.4.zip
+@Ruins_1.6.4.zip
 SKC Core 1.0.1.0 - MC 1.6.4 - Forge (9.11.0.880).jar
 slick-util.jar
 SmoothBedrock-1.6.4-1.0.6.jar
