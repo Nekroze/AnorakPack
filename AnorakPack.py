@@ -92,7 +92,7 @@ SKC Core 1.0.1.0 - MC 1.6.4 - Forge (9.11.0.880).jar
 slick-util.jar
 SmoothBedrock-1.6.4-1.0.6.jar
 StalkerCreepers_1.6.4.zip
-SGCraft-0.7.1-mc1.6.4.jar
+StargateTech2-Alpha-0-4-2-MC164-Forge942.jar
 TConstruct_1.6.4_1.5.0.2.jar
 UpdateCheckerMod_1.6.4.zip
 WR-CBE 1.4.0.6.jar
