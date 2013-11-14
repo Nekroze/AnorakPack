@@ -27,7 +27,6 @@ BetterSignsMod[v1.6.4.B].jar
 BiblioCraft[v1.5.1].zip
 BiblioWoods[Forestry][v1.3].zip
 BiblioWoods[Natura][v1.1].zip
-@BigTrees-164-forge.zip
 binnie-mods-1.8-dev2.jar
 buildcraft-A-1.6.2-4.1.2.jar
 @Carpenter's Blocks v1.9.5 - MC 1.6+.zip
