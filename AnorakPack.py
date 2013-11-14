@@ -41,7 +41,6 @@ Dark-CoreMachine_v0.2.0.119.jar
 Dark-FarmTech_v0.2.0.119.jar
 Dark-FluidMechanics_v0.2.0.119.jar
 Dark-GreaterSecurity_v0.2.0.119.jar
-dimensional-anchor-57.0.0.jar
 dragonmount_r33_mc1.6.x.zip
 EnchantingPlus-1.16.5.zip
 ExtraCells-1.5.3b.jar
