@@ -23,7 +23,6 @@ BiblioCraft[v1.5.1].zip
 BiblioWoods[Forestry][v1.3].zip
 BiblioWoods[Natura][v1.1].zip
 binnie-mods-1.8-dev2.jar
-@buildcraft-A-1.6.2-4.1.2.jar
 Carpenter's Blocks v1.9.5 - MC 1.6+.zip
 ChickenChunks 1.3.3.3.jar
 CodeChickenCore 0.9.0.6.jar
@@ -48,7 +47,6 @@ ICBM_Contraption_v1.3.4.265.jar
 ICBM_Explosion_v1.3.4.265.jar
 ICBM_Sentry_v1.3.4.265.jar
 iChunUtil2.3.0.zip
-idfix-1.6.4-1.1.0.jar
 immibis-core-57.1.4.jar
 immibis-microblocks-57.2.3.jar
 immibis-peripherals-57.0.0.jar

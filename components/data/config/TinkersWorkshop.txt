@@ -59,7 +59,7 @@ block {
     I:"Molten Nickel"=3197
     I:"Molten Obsidian"=3212
     I:"Molten Platinum"=3198
-    I:"Molten Silver"=3385
+    I:"Molten Silver"=3485
     I:"Molten Steel"=3213
     I:"Molten Stone"=3215
     I:"Molten Tin"=3204
