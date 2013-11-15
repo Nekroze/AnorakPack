@@ -13,13 +13,11 @@ def Define():
 [1.6.4]BlockBreaker.Forge.1.6.4.r02.Universal.jar
 [1.6.4]bspkrsCorev5.0.zip
 [1.6.4]TreeCapitator.Forge.1.6.4.r06.Universal.jar
-@[Forge]FurnitureModv3.2(1.6.4).zip
 @1.6.2_Jammy_Furniture_Mod_V4.5.zip
 1.6.4.BetterStorage_0.7.2.37.zip
 appeng-rv14-finale-mc16x.jar
 ArchimedesShips.zip
 Atomic_Science_v1.0.0.146.jar
-BetterBreeds 1.6.4 v5.zip
 BetterSignsMod[v1.6.4.B].jar
 BiblioCraft[v1.5.1].zip
 BiblioWoods[Forestry][v1.3].zip
@@ -46,7 +44,6 @@ Galacticraft-Planets-1.6.4-2.0.6.895.jar
 gases-1.4.1-1.6.4.jar
 gasesCore-1.4.1-1.6.4.jar
 GraveStone_2.4.2.zip
-@GravityGun2.0.0.zip
 ICBM_Contraption_v1.3.4.265.jar
 ICBM_Explosion_v1.3.4.265.jar
 ICBM_Sentry_v1.3.4.265.jar
@@ -83,7 +80,7 @@ RopePlus_1.6.4.zip
 SKC Core 1.0.1.0 - MC 1.6.4 - Forge (9.11.0.880).jar
 slick-util.jar
 SmoothBedrock-1.6.4-1.0.6.jar
-StargateTech2-Alpha-0-4-2-MC164-Forge942.jar
+SGCraft-0.7.1-mc1.6.4.jar
 TConstruct_1.6.4_1.5.0.2.jar
 UpdateCheckerMod_1.6.4.zip
 WR-CBE 1.4.0.6.jar
