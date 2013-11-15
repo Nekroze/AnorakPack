@@ -94,8 +94,8 @@ data/config
 @3DBlocksMod-1.6.4.1.jar
 @BetterGrassAndLeavesMod[v1.6.4.C].jar
 DynamicLights_1.6.4.jar
-MobAmputation2.0.0.zip
-MobDismemberment2.0.0.zip
+@MobAmputation2.0.0.zip
+@MobDismemberment2.0.0.zip
 noVoidFogNoDimmingModloaderForge1.6.4.zip
 Zyins_HUD__1.6.4__v.1.1.0.zip
 """
