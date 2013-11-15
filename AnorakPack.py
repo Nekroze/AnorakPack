@@ -23,7 +23,7 @@ BiblioCraft[v1.5.1].zip
 BiblioWoods[Forestry][v1.3].zip
 BiblioWoods[Natura][v1.1].zip
 binnie-mods-1.8-dev2.jar
-buildcraft-A-1.6.2-4.1.2.jar
+@buildcraft-A-1.6.2-4.1.2.jar
 Carpenter's Blocks v1.9.5 - MC 1.6+.zip
 ChickenChunks 1.3.3.3.jar
 CodeChickenCore 0.9.0.6.jar
@@ -39,8 +39,8 @@ Dark-GreaterSecurity_v0.2.0.119.jar
 ExtraCells-1.5.3b.jar
 forestry-A-2.3.0.7.jar
 FpsPlus_1.6.4.zip
-Galacticraft-1.6.4-2.0.6.895.jar
-Galacticraft-Planets-1.6.4-2.0.6.895.jar
+@Galacticraft-1.6.4-2.0.6.895.jar
+@Galacticraft-Planets-1.6.4-2.0.6.895.jar
 gases-1.4.1-1.6.4.jar
 gasesCore-1.4.1-1.6.4.jar
 GraveStone_2.4.2.zip
@@ -60,7 +60,7 @@ Mekanism-v5.6.0.377.jar
 MekanismGenerators-v5.6.0.377.jar
 MekanismTools-v5.6.0.377.jar
 MFFS_v3.4.0.232.jar
-MicdoodleCore-1.6.4-2.0.6.895.jar
+@MicdoodleCore-1.6.4-2.0.6.895.jar
 Minechem4-7.jar
 miscperipherals-3.4b2.zip
 ModularPowersuits-1.6.2-0.8.0-44.jar
