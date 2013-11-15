@@ -83,6 +83,7 @@ SmoothBedrock-1.6.4-1.0.6.jar
 SGCraft-0.7.1-mc1.6.4.jar
 TConstruct_1.6.4_1.5.0.2.jar
 UpdateCheckerMod_1.6.4.zip
+Waila_1.3.10_1.6.x.zip
 WR-CBE 1.4.0.6.jar
 """
 
