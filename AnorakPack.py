@@ -19,9 +19,9 @@ appeng-rv14-finale-mc16x.jar
 @ArchimedesShips.zip
 Atomic_Science_v1.0.0.146.jar
 BetterSignsMod[v1.6.4.B].jar
-BiblioCraft[v1.5.1].zip
-BiblioWoods[Forestry][v1.3].zip
-BiblioWoods[Natura][v1.1].zip
+@BiblioCraft[v1.5.1].zip
+@BiblioWoods[Forestry][v1.3].zip
+@BiblioWoods[Natura][v1.1].zip
 binnie-mods-1.8-dev2.jar
 Carpenter's Blocks v1.9.5 - MC 1.6+.zip
 ChickenChunks 1.3.3.3.jar
@@ -71,7 +71,7 @@ ProjectRedBase-1.6.4-4.0.5.12.jar
 ProjectRedCompat-1.6.4-4.0.5.12.jar
 ProjectRedIntegration-1.6.4-4.0.5.12.jar
 ProjectRedWorld-1.6.4-4.0.5.12.jar
-qCraft1.02_mc164.zip
+@qCraft1.02_mc164.zip
 @RedstoneInMotion_2.3.0.0_mc1.6.zip
 Resonant_Induction_v0.2.2.208.jar
 RopePlus_1.6.4.zip
