@@ -56,9 +56,9 @@ Improved Mob Spawn 1.4.3.zip
 InfernalMobs_1.6.4.zip
 InventoryTweaks-MC1.6.2-1.56-b77.jar
 mapwriter-2.0.11.zip
-Mekanism-v5.6.0.372.jar
-MekanismGenerators-v5.6.0.372.jar
-MekanismTools-v5.6.0.372.jar
+Mekanism-v5.6.0.377.jar
+MekanismGenerators-v5.6.0.377.jar
+MekanismTools-v5.6.0.377.jar
 MFFS_v3.4.0.232.jar
 MicdoodleCore-1.6.4-2.0.6.895.jar
 Minechem4-7.jar
