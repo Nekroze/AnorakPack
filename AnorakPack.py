@@ -16,7 +16,7 @@ def Define():
 @1.6.2_Jammy_Furniture_Mod_V4.5.zip
 1.6.4.BetterStorage_0.7.2.37.zip
 appeng-rv14-finale-mc16x.jar
-ArchimedesShips.zip
+@ArchimedesShips.zip
 Atomic_Science_v1.0.0.146.jar
 BetterSignsMod[v1.6.4.B].jar
 BiblioCraft[v1.5.1].zip
@@ -83,7 +83,6 @@ SmoothBedrock-1.6.4-1.0.6.jar
 SGCraft-0.7.1-mc1.6.4.jar
 TConstruct_1.6.4_1.5.0.2.jar
 UpdateCheckerMod_1.6.4.zip
-Waila_1.3.10_1.6.x.zip
 WR-CBE 1.4.0.6.jar
 """
 
