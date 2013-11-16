@@ -64,9 +64,6 @@ miscperipherals-3.4b2.zip
 ModularPowersuits-1.6.2-0.8.0-44.jar
 MultiMine_1.6.4.jar
 Natura-1.6.4-2.1.11.1.jar
-neiaddons-1.6.2-1.9.3.r47.jar
-NEIPlugins-1.1.0.4.jar
-NotEnoughItems 1.6.1.5.jar
 Numina-1.6.2-0.0.1-32.jar
 parachute-2.0.2-1.6.4.jar
 ProjectRedBase-1.6.4-4.0.5.12.jar
@@ -98,6 +95,9 @@ data/config
 DynamicLights_1.6.4.jar
 @MobAmputation2.0.0.zip
 @MobDismemberment2.0.0.zip
+neiaddons-1.6.2-1.9.3.r47.jar
+NEIPlugins-1.1.0.4.jar
+NotEnoughItems 1.6.1.5.jar
 NoJumpMod1.6_3.zip
 noVoidFogNoDimmingModloaderForge1.6.4.zip
 Zyins_HUD__1.6.4__v.1.1.0.zip
