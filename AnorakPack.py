@@ -29,7 +29,6 @@ ChickenChunks 1.3.3.3.jar
 CodeChickenCore 0.9.0.6.jar
 ComputerCraft1.57.zip
 CraftableHorseArmor 1.0.3.0 - MC 1.6.4 - Forge (9.10.0.880).jar
-CraftGuide-1.6.7.4.zip
 Dark-AssemblyLine_v0.2.0.119.jar
 Dark-CoreMachine_v0.2.0.119.jar
 Dark-FarmTech_v0.2.0.119.jar
