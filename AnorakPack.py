@@ -13,6 +13,7 @@ def Define():
 [1.6.4]BlockBreaker.Forge.1.6.4.r02.Universal.jar
 [1.6.4]bspkrsCorev5.0.zip
 [1.6.4]TreeCapitator.Forge.1.6.4.r06.Universal.jar
+[MC1.6.2]CoralMod.zip
 @1.6.2_Jammy_Furniture_Mod_V4.5.zip
 1.6.4.BetterStorage_0.7.2.37.zip
 appeng-rv14-finale-mc16x.jar
@@ -54,9 +55,9 @@ Improved Mob Spawn 1.4.3.zip
 InfernalMobs_1.6.4.zip
 InventoryTweaks-MC1.6.2-1.56-b77.jar
 mapwriter-2.0.11.zip
-Mekanism-v5.6.0.377.jar
-MekanismGenerators-v5.6.0.377.jar
-MekanismTools-v5.6.0.377.jar
+Mekanism-v5.6.0.380.jar
+MekanismGenerators-v5.6.0.380.jar
+MekanismTools-v5.6.0.380.jar
 MFFS_v3.4.0.232.jar
 @MicdoodleCore-1.6.4-2.0.6.895.jar
 Minechem4-7.jar

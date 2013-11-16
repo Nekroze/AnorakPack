@@ -55,11 +55,25 @@ key_key.pickItem:-98
 key_key.command:53
 key_key.tarmor:24
 key_key.tcapes.reload:88
-key_Open CraftGuide:34
 key_User Access Settings:35
-key_Show force-loaded chunks:67
+key_Coral Reef GUI:63
+key_key.archimedes.up:19
+key_key.archimedes.down:33
+key_key.archimedes.brake:42
+key_key.archimedes.align:13
+key_Toggle Better Grass & Leaves Mod:67
+key_Better Grass & Leaves Mod Settings:68
+key_key.dragon.flyUp:19
+key_key.dragon.flyDown:33
 key_Dynamic Lights toggle:36
-key_Mekanism Mode Switch:49
+key_key.mw_open_gui:49
+key_key.mw_new_marker:210
+key_key.mw_next_map_mode:48
+key_key.mw_next_marker_group:39
+key_key.mw_teleport:40
+key_key.mw_zoom_in:201
+key_key.mw_zoom_out:209
+key_Mekanism Mode Switch:23
 key_Mekanism Voice:22
 key_Open MPS Keybind GUI:37
 key_Go Down (MPS Flight Control):44
@@ -67,10 +81,20 @@ key_Cycle Tool Backward (MPS):-1
 key_Cycle Tool Forward (MPS):-1
 key_Zoom (MPS):21
 key_Cosmetic (MPS):38
+key_No jump toggle:36
 key_SwapArrowsForward:51
 key_SwapArrowsBackward:52
-key_[SGTech2] Activate rings (Up):200
-key_[SGTech2] Activate rings (Down):208
+key_Zyin's HUD: Distance Measurer:37
+key_Zyin's HUD: Chat Coordinates:59
+key_Zyin's HUD: Safe Overlay:38
+key_Zyin's HUD: Player Locator:25
+key_Zyin's HUD: Eating Aid:34
+key_Zyin's HUD: Weapon Swapper:33
+key_Zyin's HUD: Animal Info:24
+key_Zyin's HUD: Ender Pearl Aid:46
+key_Zyin's HUD: Potion Aid:47
+key_Zyin's HUD: Options:44
+key_Zyin's HUD: Quick Deposit:45
 key_[GC] Galaxy Map:50
 key_[GC] Open Spaceship Inventory:33
 key_[GC] Toggle Sensor Goggles Mode:37
@@ -81,7 +105,3 @@ key_[GC] Vehicle Right Key:32
 key_[GC] Vehicle Up Key:57
 key_[GC] Vehicle Down Key:42
 key_key.control:29
-key_keybind.loco.faster:52
-key_keybind.loco.slower:51
-key_keybind.loco.mode:50
-key_keybind.loco.whistle:49
