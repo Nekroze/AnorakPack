@@ -40,8 +40,8 @@ forestry-A-2.3.0.7.jar
 FpsPlus_1.6.4.zip
 @Galacticraft-1.6.4-2.0.6.895.jar
 @Galacticraft-Planets-1.6.4-2.0.6.895.jar
-gases-1.4.1-1.6.4.jar
-gasesCore-1.4.1-1.6.4.jar
+#gases-1.4.1-1.6.4.jar
+#gasesCore-1.4.1-1.6.4.jar
 GraveStone_2.4.2.zip
 ICBM_Contraption_v1.3.4.265.jar
 ICBM_Explosion_v1.3.4.265.jar
