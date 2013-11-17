@@ -13,13 +13,13 @@ def Define():
 [1.6.4]BlockBreaker.Forge.1.6.4.r02.Universal.jar
 [1.6.4]bspkrsCorev5.0.zip
 [1.6.4]TreeCapitator.Forge.1.6.4.r06.Universal.jar
-[MC1.6.2]CoralMod.zip
+@[MC1.6.2]CoralMod.zip
 @1.6.2_Jammy_Furniture_Mod_V4.5.zip
 1.6.4.BetterStorage_0.7.2.37.zip
 appeng-rv14-finale-mc16x.jar
 @ArchimedesShips.zip
 Atomic_Science_v1.0.0.146.jar
-BetterSignsMod[v1.6.4.B].jar
+@BetterSignsMod[v1.6.4.B].jar
 @BiblioCraft[v1.5.2].zip
 @BiblioWoods[Forestry][v1.3].zip
 @BiblioWoods[Natura][v1.1].zip
@@ -28,7 +28,7 @@ Carpenter's Blocks v1.9.5 - MC 1.6+.zip
 ChickenChunks 1.3.3.3.jar
 CodeChickenCore 0.9.0.6.jar
 ComputerCraft1.57.zip
-CraftableHorseArmor 1.0.3.0 - MC 1.6.4 - Forge (9.10.0.880).jar
+@CraftableHorseArmor 1.0.3.0 - MC 1.6.4 - Forge (9.10.0.880).jar
 Dark-AssemblyLine_v0.2.0.119.jar
 Dark-CoreMachine_v0.2.0.119.jar
 Dark-FarmTech_v0.2.0.119.jar
@@ -38,8 +38,8 @@ Dark-GreaterSecurity_v0.2.0.119.jar
 ExtraCells-1.5.3b.jar
 forestry-A-2.3.0.7.jar
 FpsPlus_1.6.4.zip
-@Galacticraft-1.6.4-2.0.6.895.jar
-@Galacticraft-Planets-1.6.4-2.0.6.895.jar
+Galacticraft-1.6.4-2.0.6.895.jar
+Galacticraft-Planets-1.6.4-2.0.6.895.jar
 #gases-1.4.1-1.6.4.jar
 #gasesCore-1.4.1-1.6.4.jar
 GraveStone_2.4.2.zip
@@ -51,7 +51,7 @@ immibis-core-57.1.4.jar
 immibis-microblocks-57.2.3.jar
 immibis-peripherals-57.0.0.jar
 Improved Mob Spawn 1.4.3.zip
-InfernalMobs_1.6.4.zip
+@InfernalMobs_1.6.4.zip
 InventoryTweaks-MC1.6.2-1.56-b77.jar
 mapwriter-2.0.11.zip
 Mekanism-v5.6.0.380.jar
