@@ -59,7 +59,7 @@ MekanismGenerators-v5.6.0.399.jar
 MekanismInduction-v5.6.0.399.jar
 MekanismTools-v5.6.0.399.jar
 MFFS_v3.4.0.232.jar
-@MicdoodleCore-1.6.4-2.0.6.895.jar
+MicdoodleCore-1.6.4-2.0.6.895.jar
 Minechem4-7.jar
 miscperipherals-3.4b2.zip
 ModularPowersuits-1.6.2-0.8.0-44.jar
@@ -73,7 +73,6 @@ ProjectRedIntegration-1.6.4-4.0.5.12.jar
 ProjectRedWorld-1.6.4-4.0.5.12.jar
 @qCraft1.02_mc164.zip
 @RedstoneInMotion_2.3.0.0_mc1.6.zip
-Resonant_Induction_v0.2.2.208.jar
 @RopePlus_1.6.4.zip
 SKC Core 1.0.1.0 - MC 1.6.4 - Forge (9.11.0.880).jar
 slick-util.jar
