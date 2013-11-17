@@ -65,7 +65,7 @@ ModularPowersuits-1.6.2-0.8.0-44.jar
 MultiMine_1.6.4.jar
 Natura-1.6.4-2.1.11.1.jar
 Numina-1.6.2-0.0.1-32.jar
-parachute-2.0.2-1.6.4.jar
+@parachute-2.0.2-1.6.4.jar
 ProjectRedBase-1.6.4-4.0.5.12.jar
 ProjectRedCompat-1.6.4-4.0.5.12.jar
 ProjectRedIntegration-1.6.4-4.0.5.12.jar
@@ -73,7 +73,7 @@ ProjectRedWorld-1.6.4-4.0.5.12.jar
 @qCraft1.02_mc164.zip
 @RedstoneInMotion_2.3.0.0_mc1.6.zip
 Resonant_Induction_v0.2.2.208.jar
-RopePlus_1.6.4.zip
+@RopePlus_1.6.4.zip
 SKC Core 1.0.1.0 - MC 1.6.4 - Forge (9.11.0.880).jar
 slick-util.jar
 SmoothBedrock-1.6.4-1.0.6.jar
