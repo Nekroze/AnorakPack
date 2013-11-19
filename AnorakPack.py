@@ -10,9 +10,9 @@ Anorak.server += forge
 def Define():
     #UNIVERSAL
     Anorak.universal_mods += """
-[1.6.4]BlockBreaker.Forge.1.6.4.r02.Universal.jar
-[1.6.4]bspkrsCorev5.0.zip
-[1.6.4]TreeCapitator.Forge.1.6.4.r06.Universal.jar
+@[1.6.4]BlockBreaker.Forge.1.6.4.r02.Universal.jar
+@[1.6.4]bspkrsCorev5.0.zip
+@[1.6.4]TreeCapitator.Forge.1.6.4.r06.Universal.jar
 @[MC1.6.2]CoralMod.zip
 @1.6.2_Jammy_Furniture_Mod_V4.5.zip
 @1.6.4.BetterStorage_0.7.2.37.zip
@@ -23,7 +23,7 @@ Atomic_Science_v1.0.0.146.jar
 @BiblioCraft[v1.5.2].zip
 @BiblioWoods[Forestry][v1.3].zip
 @BiblioWoods[Natura][v1.1].zip
-binnie-mods-1.8-dev2.jar
+@binnie-mods-1.8-dev2.jar
 Carpenter's Blocks v1.9.5 - MC 1.6+.zip
 ChickenChunks 1.3.3.3.jar
 CodeChickenCore 0.9.0.6.jar
@@ -46,7 +46,7 @@ GraveStone_2.4.2.zip
 ICBM_Contraption_v1.3.4.265.jar
 ICBM_Explosion_v1.3.4.265.jar
 ICBM_Sentry_v1.3.4.265.jar
-iChunUtil2.3.0.zip
+@iChunUtil2.3.0.zip
 immibis-core-57.1.4.jar
 immibis-microblocks-57.2.3.jar
 immibis-peripherals-57.0.0.jar
@@ -63,8 +63,8 @@ MicdoodleCore-1.6.4-2.0.6.895.jar
 Minechem4-7.jar
 miscperipherals-3.4b2.zip
 ModularPowersuits-1.6.2-0.8.0-44.jar
-MultiMine_1.6.4.jar
-Natura-1.6.4-2.1.11.1.jar
+@MultiMine_1.6.4.jar
+@Natura-1.6.4-2.1.11.1.jar
 Numina-1.6.2-0.0.1-32.jar
 @parachute-2.0.2-1.6.4.jar
 ProjectRedBase-1.6.4-4.0.5.12.jar
@@ -79,7 +79,7 @@ slick-util.jar
 SmoothBedrock-1.6.4-1.0.6.jar
 @SGCraft-0.7.2-mc1.6.4.jar
 TConstruct_1.6.4_1.5.0.2.jar
-UpdateCheckerMod_1.6.4.zip
+@UpdateCheckerMod_1.6.4.zip
 WR-CBE 1.4.0.6.jar
 """
 
