@@ -19,7 +19,7 @@ def Define():
 appeng-rv14-finale-mc16x.jar
 @ArchimedesShips.zip
 Atomic_Science_v1.0.0.146.jar
-@BiblioCraft[v1.5.2].zip
+@BiblioCraft[v1.5.3].zip
 @BiblioWoods[Forestry][v1.3].zip
 @BiblioWoods[Natura][v1.1].zip
 @binnie-mods-1.8-dev2.jar
