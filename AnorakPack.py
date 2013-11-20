@@ -33,7 +33,7 @@ Dark-CoreMachine_v0.2.0.119.jar
 Dark-FarmTech_v0.2.0.119.jar
 Dark-FluidMechanics_v0.2.0.119.jar
 Dark-GreaterSecurity_v0.2.0.119.jar
-@dragonmount_r33_mc1.6.x.zip
+#@dragonmount_r33_mc1.6.x.zip
 ExtraCells-1.5.3b.jar
 forestry-A-2.3.0.7.jar
 FpsPlus_1.6.4.zip
