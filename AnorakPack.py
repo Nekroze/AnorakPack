@@ -19,7 +19,6 @@ def Define():
 appeng-rv14-finale-mc16x.jar
 @ArchimedesShips.zip
 Atomic_Science_v1.0.0.146.jar
-@BetterSignsMod[v1.6.4.B].jar
 @BiblioCraft[v1.5.2].zip
 @BiblioWoods[Forestry][v1.3].zip
 @BiblioWoods[Natura][v1.1].zip
@@ -91,7 +90,8 @@ data/config
     Anorak.client_mods += """
 [1.6.4] Mouse Tweaks 2.3.4.zip
 @3DBlocksMod-1.6.4.1.jar
-@BetterGrassAndLeavesMod[v1.6.4.C].jar
+@BetterGrassAndLeavesMod[v1.6.4.D].jar
+@BetterSignsMod[v1.6.4.B].jar
 DynamicLights_1.6.4.jar
 @MobAmputation2.0.0.zip
 @MobDismemberment2.0.0.zip
