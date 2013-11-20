@@ -71,7 +71,7 @@ ProjectRedCompat-1.6.4-4.0.5.12.jar
 ProjectRedIntegration-1.6.4-4.0.5.12.jar
 ProjectRedWorld-1.6.4-4.0.5.12.jar
 @qCraft1.02_mc164.zip
-@RedstoneInMotion_2.3.0.0_mc1.6.zip
+#@RedstoneInMotion_2.3.0.0_mc1.6.zip
 @RopePlus_1.6.4.zip
 SKC Core 1.0.1.0 - MC 1.6.4 - Forge (9.11.0.880).jar
 slick-util.jar
