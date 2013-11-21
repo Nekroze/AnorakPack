@@ -16,6 +16,7 @@ def Define():
 @[MC1.6.2]CoralMod.zip
 @1.6.2_Jammy_Furniture_Mod_V4.5.zip
 @1.6.4.BetterStorage_0.7.2.37.zip
+AdditionalPipes2.5.0-BC4.1.2.jar
 appeng-rv14-finale-mc16x.jar
 @ArchimedesShips.zip
 Atomic_Science_v1.0.0.146.jar
