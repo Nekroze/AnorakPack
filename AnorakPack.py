@@ -23,6 +23,7 @@ Atomic_Science_v1.0.0.146.jar
 @BiblioWoods[Forestry][v1.3].zip
 @BiblioWoods[Natura][v1.1].zip
 @binnie-mods-1.8-dev2.jar
+buildcraft-A-1.6.2-4.1.2.jar
 Carpenter's Blocks v1.9.5 - MC 1.6+.zip
 ChickenChunks 1.3.3.3.jar
 CodeChickenCore 0.9.0.6.jar
