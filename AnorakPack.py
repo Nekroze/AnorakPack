@@ -49,7 +49,6 @@ immibis-core-57.1.4.jar
 immibis-microblocks-57.2.3.jar
 immibis-peripherals-57.0.0.jar
 Improved Mob Spawn 1.4.3.zip
-@InfernalMobs_1.6.4.zip
 InventoryTweaks-MC1.6.2-1.56-b77.jar
 mapwriter-2.0.11.zip
 Mekanism-v5.6.0.399.jar
