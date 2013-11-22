@@ -12,6 +12,7 @@ def Define():
     Anorak.universal_mods += """
 @[1.6.4]BlockBreaker.Forge.1.6.4.r02.Universal.jar
 @[1.6.4]bspkrsCorev5.0.zip
+@[1.6.4]TreeCapitator.Forge.1.6.4.r06.Universal.jar
 @1.6.2_Jammy_Furniture_Mod_V4.5.zip
 @1.6.4.BetterStorage_0.7.2.37.zip
 AdditionalPipes2.5.0-BC4.1.2.jar
