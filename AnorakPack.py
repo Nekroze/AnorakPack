@@ -19,7 +19,7 @@ def Define():
 AdditionalPipes2.5.0-BC4.1.2.jar
 appeng-rv14-finale-mc16x.jar
 @ArchimedesShips.zip
-Atomic_Science_v1.0.0.146.jar
+Atomic_Science_v1.0.0.153.jar
 @BiblioCraft[v1.5.3].zip
 @BiblioWoods[Forestry][v1.3].zip
 @BiblioWoods[Natura][v1.1].zip
@@ -44,9 +44,9 @@ Galacticraft-1.6.4-2.0.6.895.jar
 Galacticraft-Planets-1.6.4-2.0.6.895.jar
 #gases-1.4.1-1.6.4.jar
 #gasesCore-1.4.1-1.6.4.jar
-ICBM_Contraption_v1.3.4.265.jar
-ICBM_Explosion_v1.3.4.265.jar
-ICBM_Sentry_v1.3.4.265.jar
+ICBM_Contraption_v1.3.4.271.jar
+ICBM_Explosion_v1.3.4.271.jar
+ICBM_Sentry_v1.3.4.271.jar
 @iChunUtil2.3.0.zip
 immibis-core-57.1.4.jar
 immibis-microblocks-57.2.3.jar
@@ -54,17 +54,17 @@ immibis-peripherals-57.0.0.jar
 Improved Mob Spawn 1.4.3.zip
 InventoryTweaks-MC1.6.2-1.56-b77.jar
 mapwriter-2.0.11.zip
-Mekanism-v5.6.0.399.jar
-MekanismGenerators-v5.6.0.399.jar
-MekanismInduction-v5.6.0.399.jar
-MekanismTools-v5.6.0.399.jar
-MFFS_v3.4.0.232.jar
+Mekanism-v5.6.0.459.jar
+MekanismGenerators-v5.6.0.459.jar
+MekanismInduction-v5.6.0.459.jar
+MekanismTools-v5.6.0.459.jar
+MFFS_v3.4.0.236.jar
 MicdoodleCore-1.6.4-2.0.6.895.jar
-Minechem4-7.jar
+Minechem4-12.jar
 miscperipherals-3.4b2.zip
 ModularPowersuits-1.6.2-0.8.0-44.jar
 @MultiMine_1.6.4.jar
-@Natura-1.6.4-2.1.11.1.jar
+@Natura_1.6.X_2.1.12.2.jar
 Numina-1.6.2-0.0.1-32.jar
 @parachute-2.0.2-1.6.4.jar
 ProjectRedBase-1.6.4-4.0.5.12.jar
