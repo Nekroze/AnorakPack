@@ -1,8 +1,8 @@
-music:1.0
-sound:1.0
+music:0.0
+sound:0.1056338
 invertYMouse:false
 mouseSensitivity:0.5
-fov:0.0
+fov:0.14084508
 gamma:1.0
 viewDistance:0
 guiScale:2
@@ -10,7 +10,7 @@ particles:0
 bobView:true
 anaglyph3d:false
 advancedOpengl:true
-fpsLimit:1
+fpsLimit:0
 difficulty:2
 fancyGraphics:true
 ao:2
@@ -56,16 +56,14 @@ key_key.command:53
 key_key.tarmor:24
 key_key.tcapes.reload:88
 key_User Access Settings:35
-key_Coral Reef GUI:63
+key_Coral Reef GUI:64
 key_key.archimedes.up:19
 key_key.archimedes.down:33
 key_key.archimedes.brake:42
 key_key.archimedes.align:13
 key_Toggle Better Grass & Leaves Mod:67
 key_Better Grass & Leaves Mod Settings:68
-key_key.dragon.flyUp:19
-key_key.dragon.flyDown:33
-key_Dynamic Lights toggle:36
+key_Dynamic Lights toggle:23
 key_key.mw_open_gui:49
 key_key.mw_new_marker:210
 key_key.mw_next_map_mode:48
@@ -84,6 +82,7 @@ key_Cosmetic (MPS):38
 key_No jump toggle:36
 key_SwapArrowsForward:51
 key_SwapArrowsBackward:52
+key_Belt Cycle Key + RCtrl:78
 key_Zyin's HUD: Distance Measurer:37
 key_Zyin's HUD: Chat Coordinates:59
 key_Zyin's HUD: Safe Overlay:38
