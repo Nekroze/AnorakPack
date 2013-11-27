@@ -63,11 +63,11 @@ NotEnoughItems 1.6.1.5.jar
 Numina-1.6.2-0.0.1-32.jar
 Opis_1.0.5b_alpha.zip
 @parachute-2.0.2-1.6.4.jar
-ProjectRedBase-1.6.4-4.0.5.13.jar
-ProjectRedCompat-1.6.4-4.0.5.13.jar
-ProjectRedIntegration-1.6.4-4.0.5.13.jar
+ProjectRedBase-1.6.4-4.1.0.13.jar
+ProjectRedCompat-1.6.4-4.1.0.13.jar
+ProjectRedIntegration-1.6.4-4.1.0.13.jar
 ProjectRedLighting-1.6.4-4.1.0.13.jar
-ProjectRedWorld-1.6.4-4.0.5.13.jar
+ProjectRedWorld-1.6.4-4.1.0.13.jar
 @RopePlus_1.6.4.zip
 slick-util.jar
 SmoothBedrock-1.6.4-1.0.6.jar
