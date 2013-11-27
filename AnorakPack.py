@@ -15,7 +15,6 @@ def Define():
 @[1.6.4]TreeCapitator.Forge.1.6.4.r06.Universal.jar
 @1.6.2_Jammy_Furniture_Mod_V4.5.zip
 @1.6.4.BetterStorage_0.7.2.37.zip
-AdditionalPipes2.5.0-BC4.1.2.jar
 appeng-rv14-finale-mc16x.jar
 @ArchimedesShips.zip
 Atomic_Science_v1.0.0.153.jar
@@ -23,8 +22,6 @@ Atomic_Science_v1.0.0.153.jar
 @BiblioWoods[Forestry][v1.3].zip
 @BiblioWoods[Natura][v1.1].zip
 @binnie-mods-1.8-dev2.jar
-buildcraft-A-1.6.2-4.1.2.jar
-buildcraft-Z-additional-buildcraft-objects-1.0.6.182.jar
 Carpenter's Blocks v1.9.5 - MC 1.6+.zip
 ChickenChunks 1.3.3.3.jar
 CodeChickenCore 0.9.0.6.jar
